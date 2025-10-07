@@ -1,0 +1,4346 @@
+“gi SUNDRY NOTICES AND REPORTS ON WELLS - FORM 4
+fees, INDUSTRIAL COMMISSION OF NORTH DAKOTA. : Recaj
+ao LU] OILAND Gas DIVISION ceived Well File No
+on Leis! 600 EAST BOULEVARD DEPT 405 28557
+“s@xen" BISMARCK, ND 58505-0840 HAR 18 2016
+SFN 5749 (09-2006) HD 0
+H&G “ies
+PLEASE READ INSTRUCTIONS 8EFORE FILLING OUT FORM. Gas Division
+PLEASE SUBMIT THE ORIGINAL AND ONE COPY.
+J Notice of intent £1 _ tilling Prognosis (1 Spill Report
+1 Redritiing or Repair 1 shooting
+1 Report of work Done (1 Casing or Liner CI Acidizing
+September 9, 2015 CT Plug Well [1 Fracture Treatment
+LJ Notice of Intent to Begin a Workover Project that may Qualify (3 Supplemental History C1 Change Production Method
+for a Tax Exemption Pursuant to NDCC Section 57-51.1-03. or ly Aband C1 Rectamat
+Appronimaie Stan Date ‘emporarily Abandon eciamation
+(1 other Well is now on pump
+(Weil Name and Number 24-HOUR PRODUCTION RATE
+Wade Federal 5300 41-30 7T
+Footages Qir-Qtr [Section [Township — [Range
+B77 F Su 280F Wii LOT4| 30 | 153N | 100W
+Fea Pool County
+Baker Bakken McKenzie
+DETAILS OF WORK
+Effective 09/09/2015 the above referenced weil is on pump.
+End of Tubing: 2-7/8" L-80 tubing @ 8196.54"
+Pump: 2-1/2" x 2.0” x 24' insert pump @ 8130.84"
+[Company Telephone Number
+Oasis Petroleum North America LLC 281 404-9436 FOR STATE USE ONLY
+Address
+1001 Fannin, Suite 1500
+City State Zip Code Gate
+rou U- 2-20
+Signature Printed Name By
+2 -——- Jennifer Swenson ——
+Title Date TH as
+Regulatory Specialist March 17, 2016 te JARED THUNE
+Email Address Engineering Technicia
+jswenson@oasispetroleum.com
+
+Wade Federal 5300 41-30 7T
+End of Well Report
+Wade Federal 5300 41-30 7T
+877' FSL - 280° FWL
+SEC 30, T153N, R100W
+McKenzie County, ND
+Prepared by:
+
+Dylan E. Fowler, well-site geologist
+Columbine Logging, Inc.
+
+2385 S. Lipan St.
+
+Denver CO 80223
+CO|UMBINE..
+
+Prepared for:
+
+«a TR TR Failte’
+Brendan Hargrove, operations geologist
+100] Fannin, Suite 1500
+Houston, Texas 77002
+
+1.0 INTRODUCTION
+Wade Fedcral 5200 41-30 7T is a East lateral Three Forks 1“ Bench well located in SEC 30,
+T153N, RLOOW in McKenzie County, North Dakota. The primary pay zone was approximatcly
+20° under the base of the Pronghorn member of the Bakken formation. This pay zone was picked
+for its production potential and quality of reservoir rock. The objective was to steer the well
+within the defined pay zone and within the legal requirements of the state. MWD services were
+performed by Schlumberger/Pathfindcr and Directional services were provided by RPM. Heather
+A. Coutts, Jake Robertson and Dylan E. Fowler were the primary well site geologists; providing
+geo-stecring and mud logging from Columbine Logging, Inc.
+Well Information
+
+API #: 33-053-05998 Field: Baker
+
+Spud Date: 09/014/2014 TD Date: 11/18/2014
+
+Surface Location: 877' FSL & 280' FWL SEC 30, T153N, RIGGW, McKenzic County, North Dakota.
+
+Intermediate Casing Point: 647° FSL & 878’ FWL; SEC 30; 11,124’ MD, 10,777.96" TVD.
+
+Bottom Hole Location: 547° FSL & 162° FEL: SEC 29; 20,530° MD, 10.881.61° TVD
+
+Surface Elevation: — 2045" KB: 2070"
+
+Casing Shoe: 11,124" MD. 10,778" TVD Total Depth Drilled: 20,530"
+
+Operator: Oasis Rig: Patterson 488
+
+Company man: Tyler LaClaire, Well-site Geologist: Heather Coutts, Jake Robertson,
+
+Bob Brown Dylan E. Fowler
+
+Mud logging: Columbine Logging DD: RPM
+
+Mud Service: Reliable Drilling Mud: Invert, Brine
+
+MWD: Schlumberger/Pathfinder
+
+2.0 SERVICES
+
+2.1 Well site Geology (Columbine Logging, Inc.)
+
+Geological consulting and mud logging started on 10/03/2014. Services provided included;
+morning reports, evening reports, noon and midnight reports, sample examination, sample
+recording via pictures, production of vertical and horizontal mudlog, geo stecring, sample
+collection and bagging, sample mailing and a final end of well report.
+
+2.1.1 Geosteering
+
+Our offsct GR TVD logs were from the Wade Federal 5300 41-30 8T2 well, located on the same
+well pad as Wade Federal 5300 41-30 7T. Within the Three Forks 1“ Bench, the primary
+objective was to stay near the middle gamma markers which marks the inter laycring between
+limy sandstones and siltstonc. Gamma patterns were compared with the offset log and a TVD log
+was created while landing the curve to in order to land in the targeted zone. Steering in the
+lateral was accomplished by calculating dip from relevant gamma markers, as well as by using
+lithology, total gas and ROP to determine our position within the formation.
+
+2.1.2 Gamma and Surveys
+
+Gamma and survey MWD services were provided by Schlumberger/Pathfinder. The majority of
+the well was drilled within the target arca of the Three Forks 1“ Bench.
+
+2.2 Mud Logging (Columbine Logging, Inc.)
+
+2.2.1 Sample Examination
+
+Samples were collected every 30 ft in the straight hole and build section, and every 30 ft while
+drilling the lateral. Descriptions included; mincralogy, color, firmness, argillaccous content,
+structure, texture, allochems, porosity, oil stain, and hydrocarbon fluorescence. Carbonate
+identification was determined with 10% dilute HCI, alizarin red and calcimeter. Hydrocarbon
+fluorescence was determined using a fluoroscope with a UV lamp.
+
+2.2.2 Gas Detection
+
+Gas was logged using a Bloodhound total gas/chromatograph system. The gas detection system
+uses an infra-red detector to measure total gas and the chromatograph separates and measures
+gases C1, C2, C3, iC4 and nC4. Gas was recorded in units where 1 unit equals 100 ppm. The gas
+detection system measured gases: C1, C2, C3, iC4, nC4, H28, O2 and CO).
+
+The Bloodhound Gas Detection and Chromatograph system usc digital signal processing
+techniques and non-dispersive infrared and chemical sensors for gas detection. The system uses
+a proprictary chromatograph, which has the capability to detect from 0 to 10,000 gas units. This
+translates as 0 to 100% typical naturally-occurring hydrocarbon gas mixtures. Calibration is
+performed using National Institute of Standards and Technology (NIST) traceable calibration
+
+gases. Lab calibration points include 0%, 2.5%, and 100% pure methane. Complete immunity
+to saturation or damage in the presence of high concentrations of both light and heavy
+hydrocarbon gases precludes the necessity of constant re-calibration or zero referencing. This
+allows the Bloodhound to react to hydrocarbon based gases from zero to 100% in concentration
+without dilution.
+
+Lag time was approximated from a calculation of annular velocity based on: pump output, open-
+hole diameter, cased hole diameter, collar diameter, drill pipe diameter and bottom hole
+assembly. Connection gases were monitored to confirm lag time calculations and adjustments
+were made when necessary.
+
+3.0 GEOLOGY
+
+3.1 Formation Tops
+
+Formation tops were picked using ROP, lithology, and gamma ray to identify markers in the
+curve and lateral (Table 3.1).
+
+TopMD | TopTVD | THICKNESS Difference TWD TVWDSS
+|Charlessat__——|_ sanz | eaoz | cea | | toe | sae |
+|BaseLastSat_ ——|_ 9176 | ote | ata | | tre | -7t06 |
+| Mission Canyon | _ 9391 | 9390 | saa | 1 |_| -72_|
+|Ledgepole | gas | aoa | 21 | 1 |__| -7a5_|
+| False Bakken | t074a_ | 10655 | 21 | | 10664 | -a504_|
+| Upper Bakken Shale | 10762 | 10676 | 18 | -1_ | 0675 | -a605_|
+| Middle Bakken _—|_toves_ | 1064 | 41 | oo | t060a | e624
+| Lower Bakken Shale | 10885 | 10735 | 10 | 0 | t07a5__| -a665_|
+| Pronghorn | toonz | ovas | 17 | | tas | 8675 _|
+
+Threeforks 10976 10762 A 10761
+Table 3.1 Wade Federal 5300 41-30 7T Formation Tops
+3.2 Lithology
+Sample analysis began at 8,000’ MD in the Otter Formation.
+3.3 Formation Dip
+The formation had an average dip of 89.35”.
+3.4 Shows
+The vertical-build section was drilled with invert mud and the lateral was drilled with
+brine/production water. The oil-based mud contributed a background gas of 200-300 units, and
+saturated cuttings with oil, making all cuttings in the vertical show the same cut and
+fluorescence. Gas shows were around 2000+ units during the drilling of the lateral.
+3.5 Oil Shows
+Invert mud was used in the vertical, masking any oil shows. In the lateral part of the well the oil
+shows were consistently a moderately yellow to yellow green fluorescence with a fast milky blue
+cut and a medium brown residuc ring.
+
+4.0 WELLBORE
+The surface location is 877' FSL & 280' FWL SEC 30, T153N, RLOOW, McKenzie County,
+North Dakota. Ground clevation is 2,045’ and KB elevation was 2,070’, referenced to the Kelly
+bushing of Patterson 488. The curve was landed in the Middle Bakken at 11,124” MD;
+10,777.96” TVD. The latcral was drilled to TD at 20,530’ MD, 10,881.61’ TVD, 547’ FSL &
+162’ FEL; SEC 30. Figure 4.1 shows a cross-section of the lateral.
+___________oo o_o ooo
+Uasis | Wade Federal 5200 41-30 /T STZ | Sec 30 TID3N RIDGW, McKenzie Co, NO
+‘ Meenas oar rs rs
+ce ss | COMBINE TS)
+oe A war
+wee Ve" a> a SS 495 |
+a Sian a ee
+ns + Set, ons
+nae? gon bes when ~
+aa '" gem Dp a Pu ee it
+“ “vm Me a a alibi ‘met ils Let le
+hag cM Seats ! rn: Th cet
+Figure 4.1 Wellbore Cross Section
+
+5.0 SUMMARY AND CONCLUSION
+Wade Fedcral 5300 41-30 7T is a East lateral Three Forks 1“ Bench well located in SEC 30,
+T153N, R1OOW in McKenzie County, North Dakota. The primary pay zone was 20’ under the
+bottom of the Pronghorn member of the Bakken formation. This pay zone was picked for its
+production potential and quality of reservoir rock. The objective was to stccr the well within the
+defined pay zone and within the legal requirements of the state.
+The primary objective was to stay near the middle gamma markers which marks the inter
+laycring between limy sandstones and siltstones. Gamma patterns were compared with the offset
+log and a TVD log was created while landing the curve to in order to land in the targeted zone.
+Steering in the lateral was accomplished by calculating dip from relevant gamma markcrs, as
+well as by using lithology, total gas and ROP to determine our position within the formation.
+The formation had an average dip of 89.35”. Refer to Figure 4.1 on page 6 for a detailed
+formation dip profile.
+Currently the well is awaiting completion.
+Dylan E. Fowler, Well-Site Geologist
+Columbine Logging, Inc.
+
+2385 S. Lipan St.
+
+Denver CO 80223
+
+(303) 289-7764
+
+COLUMBINE: 2.6250
+
+vguiig,  WELL COMPLETION OR RECOMPLETION REPORT - FORM 6
+i GEES,, INDUSTRIAL COMMISSION OF NORTH DAKOTA ot) f!) SR _
+Ae) | OIL AND GAS DIVISION Sars AN
+i toes) =~ GOO EAST BOULEVARD DEPT 405 & pers 557
+a ae BISMARCK, ND 58505-0840 a JUL 2015 aA
+SFN 2468 (04-2010) = ox
+S RECEWED &
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM. Oo NOOL EGA
+PLEASE SUBMIT THE ORIGINAL AND ONE COPY. > oiviSiON
+Designate Type of Completion SF wy
+@ ouwell OD EOR Welt 1 Recompletion T] Deepened well DF addetitodzontarLeg DO Extended Horizontal Leg
+1 Gas Well O swo well O Water Supply Well ]_ Other:
+Wade Federal 5300 41-30 7T Sec. 30/29 T153N R100W
+Operator Telephone Number Field
+Ruston Ci [77002 T Witcat Development C_ extension
+LOCATION OF WELL
+tora PS PI"n [00 w_ WeKonze
+September 1, 2014 November 19, 2014 _| Patterson 488 2077, 2045
+WD/GR from KOP to TO; CBL from int. TD to surface
+CASING & TUBULARS RECORD (Report all strings set in well:
+| watone | nye swum | wor [toes | “ney | eoara | “ova” | “iwora" | conan | com
+Welt Bore Type Size (inch) | (MDF) | (MDF) | dinch) LosiFt MD Ft) (MOF) | Cement _| Cement
+[SurfaceHoe [Surace [4398 [oT oro Tazz fos [ee oT
+[verticaltHole | intermeciate | 96 | of soso | isva [xe Pt
+[vertical Hole intermediate [7 [oT aster axa [a2 Pot son]
+{uaterat "Liner a tz tonsa | 20si7 fe tas [or
+Se SN SEES UNE ND GED SEES CR OS
+Pe eS eee ee ees)
+[oe
+PERFORATION & OPEN HOLE INTERVALS
+‘Open Hole/Pertorated | yy Top of
+Well Bore Gaere Depth Completion interval (MDE MeOH T Casing | Date Pertd Date Isolation | Sacks
+Type Window | — or Dritled Isolated Method | Cement]
+(MD Ft) Top Bottom | (MOF | yo Ft
+Po ee
+ee
+j A NS RD
+oT ee
+SD AS CO OU (OR
+eS AS OOS NO OOS
+a A RA NS SN
+A RS I NS A AS RE CE
+PRODUCTION
+Lateral 1- 14167' to 20517"
+June 9, 2015 Flowing Producing
+Date of Tesi Hours Tested [Choke Size : it (BbIS| (MCF) ] Water (Bb il Gravity-API (Gorr.)_ [Disposition of
+850 1925 24-Hour Rate 832 23 1108 28
+
+Page 2
+SEN 2468 (04-2010)
+GEOLOGICAL MARKERS PLUG BACK INFORMATION
+[Dakota sen sat pO
+po
+[Firat Charies Sa [sage asez | PT
+eS RN NE Os OS SS
+[aesotastsak | ot76_ [976 a SC SS NS
+[Retgurte
+[ttissionGanyon [| gassed
+EL A a I OR
+[Fetse Bakken [| toree | toss | [
+[Seamion TT
+|[UpperBakken foresees” | PO
+Middle Bakken [vores aoese ] [
+[LowerBakken [tones toras PP
+SD ED |
+[Threeforke fT toe7e fT tover PO Pe
+[etaystone tore sores J Pe
+[
+Lo ee
+Lo ee
+rs es a SS RE
+po RS Se NS
+eS Rs EE EE
+es ee ee
+es ee ee CORES CUT
+Po
+a 0 a a ee
+- rs es es ee ee ee ee ee
+Lo) De
+Drill Stem Test
+Drill Pipe Recovery
+Sample Chamber Recovery
+[Drill Pipe Recovery
+
+* Page 3
+SFN 2468 (04-2010)
+Well Specific Stimulations
+Date Stimulated [Stimulated Formation Top (Ft) [Bottom (Ft)|Stimulation Stages Vonure Volume Units
+04/24/2015 Three Forks 11167 | 20817 | 36 134363 | Barrels.
+Type Treatment [Acid 9% [Lbs Proppara__|Maximum Treatment Pressure (PSI) [Maximum Treatment Rate (BBLS/Min)
+Sand Frac 3973130 9218 39.0
+Details
+40/70 White: 1437320
+20/40 Ceramic: 1858940
+20/40 Resin Coated: 605340
+100 Mesh White: 159020
+Maximum Treatment Pressure (PS!) ]Maximum Treatment Rate (BBL S/Min)
+[Maximum Treatment Pressure (PS!) ]Maximum Treatment Rate (BBLS/Min)
+Los Proppant — [Maximum Treatment Pressure (PSI) [Maximum Treatment Rate (BBLS/Min)
+[Maximum Treatment Pressure (PSI) [Maximum Treatment Rate (BBLS/Min}
+ADDITIONAL INFORMATION AND/OR LIST OF ATTACHMENTS.
+Thereby swear or affirm that the information [Email Address Date
+provided is true, complete and carrect as - |
+[determined from all available records. iswenson@oasispetroleum.com 07/16/2015
+Signature, Printed Name Titte
+nn Jennifer Swenson Regulatory Specialist
+
+AUTHORIZATION TO PURCHASE AND TRANSPORT OIL FROM LEASE - Form 8 fs
+Acme INDUSTRIAL COMMISSION OF NORTH DAKOTA
+EEN QIL AND GAS DIMISION BOT ID,
+ne | 00 EAST BOULEVARD OEPT 408 ty (Wore Cre Ne
+4 mar 4h BISMARCK, ND 58505-0840 & > Sep, To be assigned
+er ee) SFN 5098 (03-2000) a nee, 2ey
+sas (e200 £ 2 A 27880
+PULASE READ INSTRUCTIONS BEFORE FILLING OUT FORM we : EX
+PLEASE SUBMIT THE ORIGINAL AND FOUR COPE. ye ee
+ieee SS tr sed
+WADE FEDERAL 5300 41-30 7T LoTa - . YI 100 wig hdr ot
+(Operator FFetephone Numbec 9,77 797" Field
+Oasis Petroleum North America LLC (201) 404-0873 BAKER
+foo foe al
+11091 Fannin, Suite 1800 Houston Tre02
+Name of First Purchaser telephone Number| % Purchased Date Effective
+lOasis Petroleum Marketing LLC 281) 404-9627 100% rune 4, 2015
+Principal Place of Business city Zip Code
+14001 Fennin, Sute 1800 Houston T7002
+a a eee _
+Transporter Helephone Number | % Transported ate Effective
+Hiland Crude, LLG (580) 616-2058 18% une 4, 2018
+caress ew [te code |
+P.O. Box 3886 Enid 73702
+The above named producer authorizes the above named purchaser to purchase the percentage of oll stated above which is produced from the
+lease designated above unt further notice, The oll will be transported by the above named transporter,
+[Other First Purchasers Purchasing From This Lease % Purchased Date Enectve
+ee Prven Poca Fon Tae
+err Tag Fan ne a a
+cc
+ear apna Fn ae a a
+Thereby swear or affirq that the information provided is iru6, complete and correct as determined Date
+from all available relortis. une 15, 2015
+Printed Name Tite
+d Dina Barron ‘Mktg. Contracts Adminiatrator
+Above Signature Witnessed B ~
+Signature A Printed Name Tite
+VWeved a LYyA__ ‘Alexa Cardona (Marketing Analyst
+FOR STATE USE ONLY
+Oil & Gas Production Analys!
+
+Industrial Commission of North Dakota Well or Fucili:y So
+: . oe 28557
+Oil and Gas Division
+Verbal Approval To Purchase and Transport Oil twmtiore ves
+OPERATOR
+Operates Representative Rep Phang
+OASIS PETROLEUM NORTH AMERICA LL Todd Hanson (11) 377-1632
+WELL INFORMATION
+Well Name Inspector
+WADE FEDERAL $300 41-30 71 Richard Duan
+Well Location rare) dee Twp Rng County a
+LOT4 30183 N00 W MCKENZIE
+bicld
+ho 377 Feet From the $ — Line BAKER
+280 Feet From the W_ Line Pao! .
+BAKKEN
+Date of First Production Through Permanent Wellhead 6/9/2018 This Is The First Sales
+PURCHASER / TRANSPORTER
+Purchaser transporter
+OASIS PETROLEUM MARKETING LLC HOFMANN TRUCKING, LLC
+TANK BATTERY
+Central Tank Battery Number : 228394-01
+SALES INFORMATION This Is The First Sales
+LS UMAILD BARRELS LO BE SOLD ACTUAL BARRELS SOLD _. DALE
+15000 BBLS 241 BBLS. 6/9/2018
+BBLS i BBLS :
+BBLS BBLS
+BBLS BBLS
+BBLS BBLS |
+BBLS : BBLS |
+BBLS BBLS i
+BBLS BBLS. 1
+BBLS BBLS :
+DETAILS
+Must also forward Forms 6 & 8 to State prior to reaching (S000 Bbl estimate or no later than required time frame for
+submitting those forms.
+Start Date 6/9/2015
+Date Approved 6/17/2018
+Approved By Richard Dunn
+
+figs. SUNDRY NOTICES AND REPORTS ON WELLS - FORM 4
+{Ae =o, INDUSTRIAL COMMISSION OF NORTH DAKOTA
+anrantgy S00 EAST BOULEVARD DEPT 405 Kr 2 28557
+Nee” = BISMARCK, ND 58505-0840 Ke : %
+SFN 5749 (09-2008) f= ant OB
+Mo egret
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM. Ro aed
+PLEASE SUBMIT THE ORIGINAL AND ONE COPY. a tbo SY
+Orato
+Notice of Intent ‘Approximate Start Date oO Ory Papgece ty CD. Spill Report
+May 18, 2015 AA
+CO Reaniiing oF Repair shooting
+1 Plug Weil (CO Fracture Treatment
+1 Notice of Intent to Begin @ Workover Project that may Qualify (1 Supplemental History C1 Change Production Method
+for a Tax Exemption Pursuant to NDCC Section 57-51.1-03. Oo te Abend o ti
+Approximate Start Date jomporarty on ecamation
+Other Change well status to CONFIDENTIAL
+[Weil Name and Number Tr 24-HOUR PRODUCTION RATE
+[Wade Federal 5300 41-30 #5 [____Bators Aer |
+Footages [Section [Township | Range
+e77e St 200 fF Wt} LOT4 30 153 N 100 W
+Fiekd Pool County [Gee MCF JGse MCE |
+‘Baker Bakken McKenzie
+in ee
+DETAILS OF WORK
+Effective immediately, we request CONFIDENTIAL STATUS for the above referenced well.
+This well has not been completed
+OFE Cant ipentiae M/I[NS.
+Company Telephone Number
+Oasis Petroleum North America LLC 281-404-9436 FOR STATE USE ONLY
+Address: Jp d
+41001 Fannin, Suite 1500
+City Zip Code Date
+owt da Pro SL2ip5
+Printed Name By
+Jennifer Swenson ( f Le. ‘Li A
+Regulatory Specialist 18, 2016
+Erol Address Engineering Technician
+jswonson@oasispetroleum.com
+
+TBH
+ABB. SUNDRY NOTICES AND REPORTS ON WELLS - Ss 44 »
+igs a, INDUSTRIAL COMMISSION OF NORTH DAKOTA Ss oo CT?
+a3) Oll AND GAS DIVISION iy He 248 * Wei Eile No.
+as 28 600 EAST BOULEVARD DEPT 405 et eerycn 33 223 3%/-
+Bo aS 3 SUSE
+ae HISMARCK, ND 58505-0840 om R ° WED Ny,
+STN 5749 (08-2006) Re EN ogy
+Rip, Delia NY
+PLEASE READ INSTRUCTIONS BEFORE FIl! ING OUT FORM af CATRIRINSS
+PLEASE SUBMIT THE ORIGINAL AND ONE COPY.
+I Notice of intent 1 Doilling Prognosis 11 Sput Report
+February 15. 2015 C1 Redntiing or Repair © Shooting
+© Report of Work Done DD Casing ort iner OO Aaduzing
+BD Pig weil OO Fracture treatment
+© Notice of Intent to Begin a Workover Project that may Qualify 1 Supplemental History 1 Change Production Method
+for a Tax Exemption Pursuant to NDCC Section 57-51.1-03, 5 n R
+Aoproumate Stat Dole 1 Temporanty Abandon 0 Rectamation
+WZ other Central production facitity-commingle Pig
+Weil Name and Number 24-HOUR PRODUCTION RATE
+(see details)
+Footages Seaion ange
+Fook Ft 30 100 W
+,
+Bakken McKenzie
+a i cc
+|
+DETAILS OF WORK |
+Oasis Petroleum North America, LLC respectfully requests approval to commingle oil and gas in a central
+production facility known as 5300 30-29 CTB with common ownership for the following wells:
+Well file #28554 Wade Federal 5300 31-30 2B Lot3 Sec. 30 T153N R1Q0W API 33-053-05995
+Welt file #28394 Wade Federal 5300 41-30 4T Lot4 Sec. 30 T153N R1Q0W API 33-053-05943
+Well file #28556 Wade Federal 5300 41-30 512 Lota Sec. 30 T153N R100W API 33-053-05997
+Well file #28425 Wade Federai 5300 41-30 6B Lot4 Sec. 30 T153N R100W API 33-053-05954
+Well file #2855 7 Wade Federal 5300 41-30 7T Lot4 Sec. 30 T153N R100W API 33-053-05998
+Well file #28555 Wade Federal 5300 41-30 3T2 is being reevaluated and will not be commingled.
+Please find the following attachments:
+1. A schematic drawing of the facility which diagrams the testing, treating, routing, and transferring of production. 2.
+A plat showing the location of the central facility. 3. Affidavit of title indicating common ownership. Oasis will
+allocate production measured at the central production facility to the various wells on the basis of isolated
+production tests utilizing oii, gas, and water meters on a test separator at the central production facility. Oasis will
+measure the production from each well separately each month for a minimum of three days. Oasis believes that
+such allocation will resutt in an accurate determination of production from each well. Tank vapor gas is being
+recovered and bumed by a 98% DRE enclosed combuster,
+[Company Telephone Number
+Oasis Petroleum North America, LLC (713) 770-6430 FOR STATE USE ONLY
+Address A
+Houston 1 77002 aoe ae
+Signature Printed Name By
+~ 7
+I Title Date The 4 : fmt
+Regulatory Specialist January 24, 2015 PETROLEUM ENGINEER
+Email Address
+dcopeland@oasispetroleum.com
+
+COMMINGLING AFFIDAVIT
+STATE OF NORTIT DAKOTA)
+) ss.
+COUNTY OF MCKENZIE )
+The under signed, Alex Haley, of lawful age, being first duly sworn on her oath states that she is a duly
+authorized agent of Oasis Petroleum North America LLC, and that she has personal knowledge of the facts
+hereinafter set forth to make this Affidavit.
+1. Sections 29 & 30, Township 153 North, Range 100 West, McKenzie County North Dakota
+constitute a spacing unit in accordance with the applicable orders for the Bakken pool.
+2. Six wells have been drilled in the spacing unit, which are known as the Wade Federal 5300
+31-30 2B, Wade Federal 5300 41-30 4T, Wade Federal 5300 41-30 5T2, Wade Federal
+5300 41-30 6K, and the Wade Federal 5300 41-30 7T
+3. By NDIC Order 23339 dated March 18, 2014, all oil and gas interest within the
+aforementioned spacing unit were pooled.
+4. All Working Interests, Royalty interests and Overriding Royalty Interests in the Wade
+Federal 5300 31-30 2B, -Wade Federal 5300 41-30 41, Wade Federal 5300 41-30 5T2,
+Wade Federal 5300 41-30 6B, and the Wade Federal 5300 41-30 7T will be in common.
+Dated this 22nd day of January, 2015
+f a,
+Alexandra Haley, Landman ;
+STATE OF TEXAS ) 4 :
+)ss.
+COUNTY OF HARRIS)
+Subscribed to and swom before me this 22nd day of January, 2015
+of: , /
+hice. fy Abe be |
+7 Notary Bublic
+mg,  PHINETIA ROBERTA CHINN . .
+(Se) Notary Public, Slate of Texas State of Texas
+at My Commission Expires M ission Expires:, © 7%
+<A J ‘Sctower 3) 018 ly Commission Expires.
+
+Ons Petroleum bc
+prieerernrraa
+[OH
+1
+I
+[m= [w=] |
+Ee SE ST Se S| SO '
+tl :
+eal y ements
+SC Gans
+1 _ ( ;
+a | iy Seharsoumee
+ptt eer er —
+if | om Perea
+! peerorea
+I ae Me
+1 1
+Sales Gas Meter <-(@)— —-—_ —--—~] | l ons we
+Ti 1 eee
+Sales Gas Meter «—(— - —~—-— | roe Sree)
+1
+Sales Gas Meter «—(a}- —-— —---—--—
+WADE FEDERAL 5300 30-23
+CENTRAL TANK BATTERY 2
+| sanuanrss,2014 | “0 | vee] ™ [na |
+
+BATTERY LOCATION PLAT
+OASIS PETROLEUM NORTH AMERICA, LLC
++001 FANNIN, SUITE 1500, HOUSTON, Tx 77002
+75300 30-29 CTB(AY,
+SECTION 30, T1S3N, RIOOW, 5TH P.M., MCKENZIE COUNTY, NORTH DAKOTA
+ccunn STOKE _EDGE OF
+CUS sTONE en RESRS red ‘ARE
+WORE a cee BENS ae sugaie’ WAS Gog
+: etsy ae
+beS DICMEN” As yoy \
+WOGN4S Lae lt LAN ah \
+BPALTD Be TARY f oy :
+KASOMAN 3.5 a LoT1 { . :
+RiGIETRAT ON NUMALX Jeb 2 | LoTs | f
+cf LAND BY i
+OSIONAL TOCUMi NE ART a 1
+STORED AT CHE GHEICIS CF 2
+INTERS ATE ENGINFF FING a> — — —_— — aa
+INE 2 "| 28
+: 1 39
+y ( Ex:
+Ea \ 22
+i On
+¥ Lor2 | I 4 88,
+We aS LoT6 hot
+LS Iab4 ~~ ~~ ~ 4 .
+5300 30-29 CTB(A) \
+iy GW_CORNFR OF oy \
+P27 LTE agp rs 70"
+i. LNs UBE TIESE Ww \
+3 Bs LOT3 | SUL SUR OAT MONAT R Lov?
+“3 AWADE FERGAL SING 4.89 3 ys
+x4 WADE FECLRAL RAG 47-73 STL —_—— —|— ae ee
+ai TEQERM 3296 4° 194 a a
+WADE FFOERAL BSAC 4s 33 S72 y
+WAQL PLOERA. ESI 41 4 8 . \ 4
+WADF FROPRA, S30 at Te | 2 \
+fe | \
+| | tors N
+LoT4 LAUND STONE AP JESST ON IN
+w/ REBAR, rR IY |
+FOUND STONE.” AL ag 37 7 Tene Ge 2? aoe 2E3S 7 "
+Wwe Dac . 7 . PERI REBAR ay 4
+ae RECO ERED PADS 2BAA
+Vici Lr Mak fs 1 VON MEM No) roc rast
+- — 5
+a ~ < SERTEAL CONTROL AM WAT HASED JEON _ 7 OL0
+eo oe CONTE AGNT FIR W1H AN FIE¥ATION OF 2°58 3
+4 ie > TAI SURVEY ANP Pe AT 1 RING PRIVOET AT Th
+rn g = KLQUEST OF ERIC BAYES ob GASIS FF7RC. Eo SECS
+yA A. CERMFY THAT THS PLAT CORRELL LY REPRESENTS Va
+aces Sto ha Creay WOKK PEPZORVED BY ME OR UND Me 1A ON
+Sy + SUPERMIGON AYID 16 Teur ANP CORRECT TG THe agy ARY. D ox
+a rdemswrem | REST OFA MY KPOWLEDG! ANT 3#1 FF te a Vee
+ca copia G3 <ASEMAN V1
+ea. bert ted — ho S- LO
+Tes Wl 1s-3880 19
+, he , * eno \pare | Fee /
+of Lt \ ON , i
+nt ee NS) SR ASME & seq Nop.
+(©) 2014, INTERSTATE ENGINEERING. INC. SiH DM
+vy — — SY aa ec Y
+SS ee EE
+INTERSTATE fis em ir So SECTION 30, Fsahe RICOW =
+ne a =
+
+PAD LAYOUT
+OASIS PETROLEUM NORTH AMERICA, LLG
+1001 FANNIN, SUITE 1500, HOUSTON, TX 77002
+“8300 30-29 CTB(A)"
+SECTION 30, T153N, R100W, 5TH P.M., MCKENZIE COUNTY, NORTH DAKOTA
+Hoy , yoX \ ’
+Ef fs ct ><
+fos : | NS PROPOSED APPROACH — “oc,
+| : PER LANOOWNER”” on
+fry Wy, : SPECIFICATION Su,
+fl Ne
+Pig f
+x x xx x x
+or ; no Be wo tH |
+= BES ‘ al Hx
++ ae™ i 4 5] :
+| \ . x 3 Bo
+Peee eae , |
+A id H 4 ' y ui
+3| eB Ss | y | Fe ta *
+Ay y eres Ask | el
+i /@e eh) z
+are : g :
+Sel a ee Br a
+AOR B\ Se | , 2 i f \
+ao . eH Los: P a8 i
+SOA UL WES SS) 4 BB [6 ‘
+=~ taiiies | Fir 3 ay coor, /
+= tle oS | Be | i
+~ afasihea | s30dg0-29 tre & a a f
+~ “4 Sey > _ a | Neo /
+we Cae bg f : ag a
+° s a | /ae : 25 i
+eo eee en 31> & | /
+- 2 ios 5k i <
+_ B ‘ a #ro.6 Oo
+z 32 Hs Sare : | /
+q z 5 iN Sid fl iB /
+THIS BOSUMLKT WAS OR GINALL me 2S Ly ia : ill eS
+ISSUED AND SEALED BY TARY } 4 a) 2a Eg 3 i | gh /
+KASEMAN, PLS, RFCISTRKTION ar ee Me are) 2 oz /
+NUMBER 3880 ON 102/15 By z 1 N 28re [: rl ar !
+THE ORIGINAL DOCUMENTS, ARE | 2 ee ‘ an iB | 2
+STORFD AT THF OF=ICTS QF 2 eee CULVERT A !
+INTERSTATE FAGINFFRING, INC. @ Ae | eo Z| = :
+| | 8 fb BF, Tansee I eer 2 | i
+| 2 aS claleeieeeeieieees ef ae /
+OS z ae 20 a 5)
+Qe tNO b DETENTION AREA fA |
+G f e's EB | }
+(Be ON + | | | 4 eee Cee
+| (Ee. KASEMAN iw) ee eee!
+| fai{ Ls-3aao {©} =~ paoposen -
+| 4 Taps fd Ae Sano a
+ATE re ! ~
+| ak: borosey arhronc
+yt 4 / “Ny 9 80
++
+NOTE: All utilities siown are preliminary only, ¢ complete ——
+© 2014, INTERSTATE ENGINEERING, INC. Ltilites location is recommended betcre censtrustat BO
+INTERSTATE esti Sot SECTION 20. 163N, wI0UH 2
+ENGINEERING. eran sea -——_f| +}
+vat Soler naleeerst ee ie ete a se ioe RE, ae a
+
+ACCESS APPROACH
+OASIS PETROLEUM NORTH AMERICA, LLC.
+1001 FANNIN, SUITE 1500, HOUSTON, TX 77002
+"6300 30-29 CTB(A)”
+SECTION 30, T153N. RIGOW, STH P.M., MCKENZIE COUNTY. NORTH DAKOTA
+ey —_— —§« —— 9§ —— Ss + _—_—_ —
+IT re =
+I | EXISTING ~
+! Wade 5300 << ANG
+| | I 1 21~30 138 fi  ——>;
+i a |
+1 A J Ps
+! i | PRICOARYL D. vA
+oa [pt -- | L57 KASEMAN \“&
+EX. 33 R/W Wt L§-3880 {2
+EX. 33 R/We [cA Ba
+l | are 7/15
+eee LoT2
+| EXISTING | | los Sy |
+WADE 5300 ! 7H DAS
+1—30H
+FOUND STONE | | 230" | ACCESS
+Wat REROUTE
+~—25-$ 30 -— —— -
+Ith
+LANDOWNER:
+WESLEY LINDVIG
+| | wi/2 SECTION 30 | 5300 30-29 CTB(A)
+oN
+a \ |
+| | “ \. LOTS |
+K i ism THIS DOCUMENT WAS ORIGINALLY
+\ > EXISTING | ISSUED AND SEALED BY DARYL D.
+aN 7 WADE FEDERAL KASEMAN, PLS, REGISTRATION
+| | N47 8300 31-350 1072 NUMBER 3880 ON __1/07/15
+Ne | AND THE ORIGINAL DOCUMENTS
+ARE STORED AT THE OFFICES OF
+. ‘ INTERSTATE ENGINEERING, INC
+miiit |_- EXISTING B
+git WADE FEDERAL wl
+Nyt | 5300 31-30 28 ZB
+Si— eree se — Ag —-
+al | \ 6
+oO yt y \
+S| | '
+Sl | | |
+nal] | j |
+y 2
+i} i)
+° 500 | I |
+| jl \
+1" = 500’ | ae) |
+| LoT4 | |
+FOUND STONE | |
+w/ 2" AC EX. 33° R/W
+25 h|30 ‘| ml nn
+a a ———
+36 AZ 89°37°27" 2622.02 ex. 35 R/W FOUND STONE ‘
+28 w/ REBAR
+ge
+zl
+NOTE: All utilities shown are preliminary only, a complete
+© 2014, INTERSTATE ENGINEERING. INC. utilities location is recommended before construction.
+Y vn Treersiate Sogpnesreg Pe Serer Re eee
+ro mee eee
+tax SECTION 3¢ TISIN "DOW
+
+ed Tee eee a -
+Nf je (wa | | a .
+ae eg RE CASS ETE FM CRT AMER OF t
+eos BLN 2A 1 B2N, BICOW
+- oo at MORE 2 DUNT T, NOFIB DAKOTA :
+are as os nes TNO IE DAKUTA re
+ei ee | '
+a. TF bs ts A 1 eat, vy 20
+~_e ee a Reeege 9
+Se TER) Le ey : Ss ‘ 1
+4 oe eo -- ie fa Lg 8
+on <n a re t — Rey a ne ne
+~ AL BBL — Py
+2 ee fe ; {2 } { :
+mond (Y UO ee gS RERQUTE 1a, \
+Be or . idee eae i™*
+4 ee ISS Woe, ah ‘ 2%
+SS SER A eh. Sm
+an cP NS Boo Sb 38 era(aAy— —- — 2» —--- ee
+. aed oe AACA. SS i be FEBEAAL 5300 41-36 28 '
+PR. SNGR he As REE ADE FEDERAL 5300 41-30 3T2
+oF ae VERS wee Me er WANE FEDERAL 5300 41-30 4T !
+aa sh {row BARRIER. WADE FEDERAL 5300 41-30 oT '
+Pa bs MN rey mo & NEM soar nee
+Ofbgee ci ae FNS WADE ERDERG, 900 41-30 77
+BES ye ao - “Sb peer . ind 1
+Fa Oe ner ane Vath '
+Hoy fp ot zo se oh & , | !
+u ie Be | Ty? A NAS
+ty bodads _ 1a we NR A
+Sys pe te a af. . Sn Ae ep
+er eset See fe CR
+(©) 2014, INTERSTATE ENGINEERING, INC
+y= i GS Ser es Ga EC
+INTERSTATE tet St —
+ENGINFFRING on ae J
+veto erst crn a
+in Lxaeminan ym na pis cat em roms Met Dake ns ah Js a eg
+
+COUNTY ROAD MAP
+OASIS PETROLEUM NORTH AMERICA, LLG
+1001 FANNIN, SUITE 1500, HOUSTON, TX 77002
+*5300 30-29 CTB(AS
+SECTION 30, T153N, R100W, 5TH P.M, MCKENZIE COUNTY, NGR7H DAKOTA
+[ERS PY ators Lhe , ql
+SS Ba 4 q
+erences, M5 a Pa
+HV Setensees SY a ty _ =
+pS rf fe x RAW
+kee. Lae te PROM Ge. LEASE Soe gece 2013 T
+ry aes r DOWEL Et soe TAIT
+he 5300 30-29 CTB(A). ES Mick
+oo Tee = at “eM
+“if ot 1. J ‘ Rwow
+wheat ed pee eee Qe
+. reo 4 ro tee
+ag sg ifm w™ speedg - jy! ~
+cy eee? CaS a ee 2 at
+ph Sef eB te pl Bae be OM COUNTY Boar 2s
+mo) dt ot! fb ig ALONS 2k 2 85k EAL
+ene. Geo rf i TER OMIT
+te ef foros a £9 ly +
+> .
+re pen ee: 4 psy + pak a9. ey
+F EFS eS te& ~
+a mE ok POM PGHWAY Bb NIH 4 a ee ee a oe
+=4 HOF ALLAANDL?: Ni} ao im [ee rE a
+i Pi, & A.ONG COUNTY ROAR va, } te ” i pe
+Hos fo» Pape 1 EX. LEASE ROA? f° Ce ba
+ia =AE.GF WALES : a
+ae eer ee ey EEE: - Pee ee --
+4 id oof tom : i '
+4 tn : >|
+} os 1 os Fe | a qs 2 et, fre. *
+ners it “> i J = : ao
+iB \ b. » Fe i ea en
+- shee ' | ar) face ie einer; a a
+eo fee Ed = = nn 2 ”
+ea On \ ee ee a -
+t eC ad ’ r=
+f . sie foe x toe :y . > iB
+i 1 * oo | wi a ~ Xf. . . ee
+. 1 ! o fe ai an i, . o.
+fe wi Lobes = A mg Nt . : .
+5 ed Os ee Ga <n eee
+a oe ne ao ——— —— > =
+T Ged.
+Hi “4 ee (ier En me : an 4 wf = ®
+to. gon | 4 7 ¢ safe Reba dp
+i 4 | 4 P +4 OE! ae A
+Deena Lavaanene Omens af . - EaEE _
+a i : { I< ' \
+™ 2 t ee » f °
+(C: 2014, INTERSTATE ENGINEERING. INC. pea a. MLE
+v7 a UR IS ace mnt
+_ er Ane a YC enue Pet Pl
+INTERSTATE eens a Soot SECTION 36, 150h, TH eee
+ENGINEERING. “rr cera So ——
+
+LAT/LONG PAD CORNERS
+48'02'44.48"N
+193°3551 88" W
+43°02°40.64"N
+“OF3S4AT.0C"W
+a |
+!
+|
+j
+!
+5300 30-29 CTB(A) |
+—---_!
+48°92'43.56"N
+“OF°35'54.51"W 48°02’ 30. TON
+103°35'S1.92"W
+On
+a ao
+ee
+
+—————
+GE SUNDRY NOTICES AND REPORTS ON WELLS - FORM 4
+ian INDUSTRIAL COMMISSION OF NORTH DAKOTA ial Flee
+CS.) || OlL AND GAS DIVISION ME 28976
+gil Pad idl 600 EAST BOULEVARD DEPT 405 gS a3 Dr,
+“Seat” BISMARCK. ND 8505 0840 i an QRADT
+GFN 5249 (08.2006 NJ SOD Pe
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM A Aas be}
+PLEASE SUBMIT THE ORIGINAL AND ONE COPY iS, as Sn Ni
+September 14, 2014 Tl Reaniling of 105.9 (3 shooting
+TD) Plug Well {[] Fracture Treatment
+(7 Notice of tntent to Begin a Workover Project that may Qualify [] Suaplemental History (1 Change Production Method
+for a Tax Exemption Pursuant to NDCC Section §7-51.1-03 ©} Temporary Abandon [2] Reclamation
+Approximate Stan Date
+(Well Name and Number 24-HOUR PRODUCTION RATE
+Wade Federal £300 21-30 12T
+Footages aw-atr_ [Section [Township — [Range
+4640 f Ni 270 Wii SWNW| 30 | 183N | 100W
+Fieia Poot [County
+Baker Bakken McKenzie
+Name of Contractor(s) .
+DETAILS OF WORK
+Oasis Petroleum North America LLC respectfully requests to use an offsite pit for this well. The following wells will
+also use this pit:
+Wade Federal §300 31-30 2B — awesy
+Wade Federal §300 41-30 372 ~ 2855
+Wade Federal 5300 41-3047 - 2% 3T+
+Wade Federal 8300 41-30 5T2 - OBS TH
+Wade Federal 5300 41.30 6B - “2% 4a
+Wade Federal 5300 41-30 7T- 2322 3 -TH
+Wade Federal 8300 41-30 8T2 ~ 29 D>
+Wade Federal 5300 41-30 9B — at THU
+Wade Federal 5300 21-30 13B-QB4 73
+Wade Federal 5300 21-30 1472 ~ 23977
+Attached are the plats for the offsite pit location.
+Oasis. Petroieum North America LLC 281-404-9589 FOR STATE USE ONLY
+City State few Coa D ,
+Houston ee roo
+Sap Wa ae
+Title o Date it
+Regulatory Analyst August 20, 2014
+Email Address
+srolfes@oasispetroleum.com
+
+Me
+OFFSITE PIT LOCATION PLAT
+OASIS PETROLEUM NORTH AMERICA, LLC
+1001 FANNIN, SUITE 1500, HOUSTON, TX 77002
+. "AS-STAKED OFFSITE PIT FOR WADE FEDERAL 5300 31-30 28, WADE FEDERAL 5300 41-30 372,
+WADE FEDERAL 5300 41-30 47, WADE FEDERAL 5300 41-30 5T2, WADE FEOERAL 9300 41-30 6B,
+WADE FEDERAL 5300 41-30 7T, WADE FEDERAL 5300 41-30 812. & WADE FEDERAL 5300 41-30 9B"
+625 FEET FROM SOUTH LINE AND 1000 FEET FROM WEST LINE
+SECTION 30, T153N, R100W, Sth P.M., MCKENZIE COUNTY, NORTH OAKOTA EDGE OF
+a SoM, we REBAR, (7 LAKE
+FOO gg AZ HOOPER 265.37 Ng AZ IOOS'OO" NS 1207" (51.0)
+y. . J yi eT
+wae (SLD}
+wm : Heyy Ve Vas
+for ! \: \) VA
+& LOT 1 ; | LOT5 , AWA VA
+a Py oe |
+LUA mH
+: rN ABS
+‘o ; ( 7 \\ CR.
+r 5 so oO
+2 tore) fi. GZ
+© LoT2 ! 2m
+N 4 Le me
+SGeND STON { , \s
+w/ 2 ACN _ i _— — ‘\ AN
+S 2884 AY
+FHS DOCUMENT WAS yey
+a ORIGINALLY SSUED AND SEA. ED \ wl
+a | HY DARYL DB! KASEMAN, 21S. | \ Yay
+nN REGISTRATION NUMBER 3880 hay
+g LOT3 | ON _#/30/14—AND THE \ wae |
+ro | GRIGINAL DOCUMENTS ART | LOT 7A t
+STORED AT THE OFFICES OF \ \A WA
+INTERSTATE ENGINEERING, INC— j pkey
+pe Eb
+ia OFFSITE PIT LOCATION Wail
+uw [32 CORNER of eT | VN)
+Pa | LAT TLOF 48°02'25.89°N
+2 — SONSITEDE 10S'36'CU. 24" w NX
+food TOOC! | CPS SURVEY DATUM: NAD 83 | LOT8 S\N az 359°55'90"
+rouno stone S| LOT4 Js OUND STON: bus 09
+Wp oP RI | w/ REBAR
+AZ 89°37'27" FEB?.02 A? 89°58°08 2639.77" /-
+fe T= Monument — Recoveres FOUND REBAR W// 9 1900
+MICINITY MAP 27 AC LS 2884
+aT = cf R - MONUNENT - NOT RFCOVERED es
+Tob . vo STAKED ON 4/30/14 ' 1000
+ve ee oc 8S VERT CAL CONTROL DATUM WAS BASED UPON
+th oa CONTROL POINT 705 WITH AN E!EVATION OF 2158.3°
+png" wae So. | THIS SURVEY AND BLAT IS BEING PROVIDED AT THE CEAND
+Pa a BASES | REQUEST OF ERIC BAYES OF OASIS PETROLEUM LD GK NO §
+» goat Bi BSS «| CERTFY THAT THIS PLAT CORRECTLY REPRESENTS ¢ p
+we ocienimeces =| WORK PEPZSRMED BY MF OR UNDER MY D ABRRYL D NZ
+a oe Feo SUPERVIF 'O.iS TRUE AND CORRECT 10 THE CE UASEMAN \&
+a ax BEST 07 NOWLEDGE ANO BELIEF. s Si
+oe oA4 td LS— 3880
+7 ee ane, af od a
+oh ra % begs
+phy oe wt Kh. LpA Le mAs
+YR TS QM. -o ee —-- TH ORO
+= 2 DARYL 5. KASEMAN LS- 3880 YU
+© 2014, INTERSTATE ENGINEERING, INC.
+Vi 7 —— eee ee a ore ee
+7 SS
+SECTION 30, T1SON, RIOOM ee
+1 | 3 INTERSTATE oa aoe 2” —
+Pes teoe| a 0 ee ee PP
+re jon ————| —~_~ eT
+ths 6... Oe ea
+
+PAD LAYOUT
+OASIS PETROLEUM NORTH AMERICA, LLC
+1001 FANNIN, SUITE 1500, HOUSTON, TX 77002
+* “AS-STAKED OFFSITE PIT FOR WADE FEDERAL 5300 31-30 2B, WADE FEDERAL 5300 41-30 3T2,
+WADE FEDERAL 5300 41-30 4T. WADE FEDERAL 5300 41-30 572, WADE FEDERAL 5300 41-30 8B,
+WADE FEDERAL 5300 41-30 7T, WADE FEDERAL 5300 41-30 8T2, & WADE FEDERAL 5300 41-30 9B”
+625 FEET FROM SOUTH LINE AND 1000 FEET FROM WEST LINE
+SECTION 30, T153N, RIGOW, Sth P.M., MCKENZIE COUNTY, NORTH DAKOTA.
+. Pr
+CE Ela
+° / B lee
+’ B girls
+oO “ Sz]
+WADE “PIERAL { #} ; / peels
+5300 3° 8 2B PY (oo : a Le a E axl 3
+WADE SOOCRAL — Fs§ : (OSS < a 3/8
+5300 41-30 372 i ~ ee SCS : E Sols
+WADE “TDPRAL yo ‘ os , 4
+B4NG At co 47 4 ‘ ° ry
+S800 40 SS 4 ; % ASST, Z B [gle
+WADE FEDERAL a3 KED o / !
+5300 41-50 572 % OER Spr, r, :
+WADS FEDERAL s ‘ x & Pir, a
+5306 41-359 6 “as AZ > a” Re)
+WADE Fe DP SAL are , . 2256" 5 4 : : fo id Ce al
+Wate FLOERAL Se a ; =f nile {
+5500 41-30 812 ~ — iN ! x ote \
+WATE FEDERAL . \ ! ; i gyal
+Bg0C 4° $3 98 l ' {
+so \ Sg q
+\ i fz
+‘ Zz wo
+is be
+&| 2
+ANY ay Be,
+ate Sey al 22 |
+y JA ARYL oN Le THIS DGCUMFNT WAS ORIGINALLY 1SSUCD ww aim |
+ABA UASEMAN TN ANS SEALED BY DARYL O. <ASEMAN, #
+aren SAAOEN ‘ Sl PLS, Lule RATON NUMBER 2882 ON =
+in $-3880 a UDA AND ThE ORGINAL g
+\e' Ss nan 0 DOMMENTS ARF © OREC AT “HE fi
+. \pare ARN Ay OFFFCES OF INTERSTATE ENGINELRING, &
+aN INC. =?
+lop i 7 » foo)
+Ar yO 3S |
+: Sh ORE NUIi: A wtihves snown ere prem:nary ony, u some ete ee |
+Uillities [cation is recummended Delon orstrus ton i= 85 (©) i nN
+eer
+
+ACCESS APPROACH
+OASIS PETROLEUM NORTH AMERICA, LLC
+4001 FANNIN, SUITE 1500, HOUSTON, TX 77002
+. "AS-STAKED OFFSITE PIT FOR WADE FEDERAL 5300 31-30 2B, WADE FEDERAL 5300 41-30 372,
+WADE FEDERAL 5300 41-30 47, WADE FEDERAL 5300 41-30 512, WADE FEDERAL 5300 41-30 68,
+WADE FEDERAL 5300 41-30 77, WADE FEDERAL 6300 41-30 872, & WADE FEDERAL 5300 41-30 9B"
+625 FEET FROM SOUTH LINE AND 1000 FEET FROM WEST LINE
+, SECTION 90, T153N, RIOOW, 5th PM. MCKENZIE COUNTY, NORTH DAKOTA
+WADE soe | | |
+Son bOT2
+FOUND sicxe. | | ae |
+-S 2884 _
+Sy
+wo — - ~~ “S|. -§ —__ _ __¢) — --
+:
+if \e
+i Ve
+Sn 7— PROPOSED | |
+WADE FLOERAL 1502 x
+SO 31-30 UT & i We
+vy WADE FEDFRAL S30) VES
+\ ©) StF 190te | iN
+LOT3 A
+| | [ree Lee ;
+\, Sy ANDO'WNE Fe
+i{ | WESLEY LINDVIG |
+| | i | Wi/2 SFOTION 20
+464.5 FER] - 29 RODS
+3 Lee
+; \{ WADE FEDERAL 5506 41 30 78
+4 To \ WADE TEDFRA, 5300 41 30 372
+8 Toeeafe | WADE FFDERAL 5300 41-30 47
+“AL WADE FEDERAL 5300 41-30 512
+2 LOT 4 | WADE FEOLRAL 5300 41-30 68
+NS HABE FEDERAL 5300 41-30 77
+~-—AS-STAKED ®%S wave Feorzal 5300 41-30 872
+OFFSITE PIT 26 SF2°FA 8300 41-30 98
+| L_ OF NG |
+Laz 2018 \
+| 6.0" | Sto, . |
+| Laz BReo ioeles: N
+FOUND STGNE , aan
+FOUND ST 377.9 |
+w/ 2” AC EX 38 RyWw.,
+z5N[30 ~ BG
+se J AZ Q9°37'27" 2622.92" 3 ~~
+we %: EX. SS RSW ary ane \I
+ZS — R
+dg Sib NO
+Gb SS
+sus o0e SUZ eye pe _
+HIS UMENT WAS ORIGINALLY, ei 5 \
+ISSUED AND SEALED BY DARYL D oe KASEMAN \S
+KASFMAN, P..S, REGISTRATION NUMSFR wl LS~ 3880 1S
+3880 ON 4/30/14 AND “HE 39/ 2
+ORIGNAL DOCUMENTS ARE STORED Aq ard (39/14
+THE OFFICES OF INTERS7ATE 0 seo
+ENGINFERING, INC. os Or =|
+fal ONS 1" = 500°
+NO7E: All utilities shown aré ore. nary only, a comolet
+© 2014, INTERSTATE ENGINEERING, INC. uthities focaticn is recommended aeiore ‘construction ent
+v7 7 — — Fam A838 | BSs0 242g,
+SS (eS
+TION 90,1153, R1GOW J
+3 | 3 {INTERSTATE seyret jf
+Foe 0) a oet8 ey ee SS OS TT
+we. oon —_— TS |
+mm pepe ed eee me sees oer ee ss OO
+
+'
+OFF-SITE PIT AGREEMENT
+In consideration of the sum cf Qi naananD
+
+paid by Oasls Petroleum North America LLC (“Oasis”) the undersigned surface owners, Wesley
+Lindvig and Barbara Lindvig, for themselves and their heirs, successors, administrators and
+assigns, hereby acknowledge the receipt and sufficiency of said payment in full and complete
+settlement for and as a release of afl claim for loss, damage or injury to the hereafter described
+surface property arising out of the off-site cuttings pit, in which the cuttings from the Wade
+Federal S300 21-30 13B, Wade Federal 5300 21-30 14T2 wells will be buried, located on the
+approximately two (2.0) acre tract of land identified on the plat attached hereto as Exhibit “A”
+and which is situated on the following described real property located in McKenzie County, State
+of North Dakota, towit:
+Township 153 North, Range 100 West, 5 P.M.
+Section 30: Lots 3 & 4 a/k/a WASWA
+The undersigned knows that Oasis Petroleum North America LLC is the operator and will be
+drilling the Wade Federal 5300 21-30 13B, Wade Federal 5300 21-30 14T2 wells. The
+undersigned further states that they are fully aware that the cuttings generated from the drilling
+of the Wade Federal 5300 21-30 13B, Wade Federal 5300 21-30 1472 weifs willbe buried in the .
+pit on the above described location.
+Dated thts, f g day of May, 2014.
+
+SURFACE OWNER(S)
+
+7
+Wesley Lind ¥.
+Barbara Lindvig ( }
+pe WEL.
+ther Constradian,
+Location will be. Lertadd * Satestiatoer
+a, - + to OUNars cs
+Pt Will be redlatmel
+Bey) BL,
+
+a
+|
+ACKNOWLEDGMENT INDIVIDUAL
+State of North Dakota )
+)
+County af McKenzie)
+BE IT REMEMBERED, That on this ii day of May, 2014 before me, a Notary Public, in and for
+said County and State, personally appeared Wesley Lindvig and Barbara Lindvig, to me known to
+be the identical persons described In and who executed the within and foregoing instrument and |
+acknowledged to me to that they executed the same as their free and voluntary act and deed for H
+the uses and purposes therein set forth. i
+IN WITNESS WHEREOF, | have hereunto set my official signature and affixed my notariat seal, i
+the day and year last above written. { |
+i
+1
+My Commission expires: '
+. Noor Publ Notary Publi
+jotary Public i
+State of North Dakota a :
+Comission Expir 9.16, 2018. :
+i
+t
+i
+,
+i
+i]
+|
+i
+i
+|
+|
+|
+:
+i
+1
+
+SUNDRY NOTICE ND REPORTS ON WELLS - FORM P) 8 4 P) 5
+LPN INDUSTRIAL COMMISSION OF NORTH DAKOTA erp. stoke!
+fi “3s OIL AND GAS DIVISION SEE BED, Well File No
+get] 600 EAST BOULEVARD DEPT 405 & 2 on az555 |
+BISMARCK, ND 56505-0840 a ts aA
+SFN 5749 (09-2008) an LS! AED Fe a3 38 G
+eS 33557
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM Ce DOL. itd & 38558
+PLEASE SUBWIT THE ORIGINAL AND ONE COPY. ’ DAIAON Gs 43
+Xe
+Ty Notice «intent 1 oiting Propeliger 2” 1] spin Renon
+1 Reaniing or Repair 1 shooting
+{C Report o Work Done Li Casing or Liner 1 Aeidizing
+1 Plug weil (1 Fracture Treatment
+7 Notice of tntent to Bagin a Workover Project that may Quality (11 Supplemental History (1 change Production Method
+for a TaxExemption Pursuant to NDCC Section 57-51.1-03. 1 ly Abend 1 eet
+‘Approximate Stan Date (0 Temporarily Abandon feclamation
+1D Other
+Well Name and Number ; 24-HOUR PRODUCTION RATE
+Wade Federal 530041-3047 + See Details = |
+Foatages aa Township [Range
+1263 F SL 240 F W_L| SWSW 153 N 100 W
+Field Peo! [County [cas MCF [Gas MCF
+Bakken McKenzie
+i cc
+DETAILS OF WORK
+Oasis Petroleum respectfully requests to use an offsite pit for the wells listed below. We are requesting to use an
+offiste pit because a pit wont fit on location with a rig anchor and the land adjacent is too rough. Attached are the
+plats.
+Wade Federal 5300 31-30 28 - 23554
+Wade Federal 5300 41-30 312 ~ 28559
+Wade Federal 5300 41-30 4T - 33394
+Wade Federal 5300 41-30 ST2 - 3 855
+Wade Federal 5300 41-3068 - 23495
+Wade Federal 5300 41-30 71 - 38557
+Wade Federal 5300 41-30 872 - 28558
+Wade Federal 5300 41-309B - 33744
+[Company Telephone Number
+(Oasis Petroleum North America LLC 281-404-9491 FOR STATE USE ONLY
+Address
+{001 Fannin, Suite 1500
+city State Zip Coda Date
+r7002 i 9.34.
+2 TV ier
+< } Grandi Ter a
+Title X Date Tale
+Regulatory Speciatist . May 12, 2014 ee
+Email Address
+bterry@oasispetroteum.com
+
+OFFSITE PIT LOCATION PLAT
+‘OASIS PETROLEUM NORTH AMERICA, LLC
+1001 FANNIN, SUITE 1500, HOUSTON, TX 77002
+7AS-STAKED OFFSITE PIT FOR WADE FEDERAL 5300 31-30 28, WADE FEDERAL 5300 41-30 312.
+WADE FEDERAL 5300 41-30 47, WADE FEDERAL 5300 41-30 512, WADE FEDERAL 5300 41-30 68,
+WADE FEDERAL 5300 41-30 7T, WADE FEDERAL 5300 41-30 872, & WADE FEDERAL 5300 41-30 98°
+625 FEET FROM SOUTH LINE AND 1000 FEET FROM WEST LINE
+SECTION 30, T1S3N, R100W, 5th P.M., MCKENZIE COUNTY, NORTH DAKOTA EDGE OF
+- , FOUND STONE
+FOUR STONE 7 REBAR (7 LAKE
+v \p AZ _99°05'03" gst 3y.\e AZ 99'°00'00"%_ 1207" (GLO
+1507" (GLO) be
+a } veka
+ra LOT 1 i LOTS / Who
+8 | a) a \
+\ n
+: a r\\ Bes
+in ( Wea,
+8 Shy ea
+: LOT 6 ae
+° LoT2— | ! \ \2 pa)
+N re A
+FOUND STONE { aes
+w/ 27 ACS _ _ _ VA
+is 2884 vay
+THIS DOCUMENT WAS Vy
+ORIGINALLY ISSUED AND SEALED \ nl \
+fe) | BY DARYL 0. KASEMAN, PLS, | \ \4 \
+i. REGISTRATION NUMBER ‘3880 ’ \ \
+fee! LOT3 ON 4/30/14 AND THE \ 4
+g | ORIGINAL DOCUMENTS ARE | LOT 7\\ \
+STORED AT THE OFFICES OF N\A VA \
+INTERSTATE ENGINEERING, INC \ \ mI
+TA
+nw OFFSITE PIT LOCATION VA,
+" | Sentuat® feta 54 50" XG
+LATITUDE 48°0: N
+3 — CONGITUDE 103°36'00.24"w tors ~\ :
+5 TOOO | GPS SURVEY DATUM: NAD 63 | AZ 359°55'00"
+N ie . 528.00'
+FOUND STONE << LOoT4 |g FOUND STONE i
+W/ 2 AC J :
+TAZ 893727" 2662.02 AZ 89°58'08" 2639.72" /
+= MONUMENT - RECOVERED FOUND REBAR W, 1000
+VICINITY MAP. k I 2” AC LS 2886 ©
+OT = of § - MONUMENT - NOT RECOVERED ———
+Rp os bs act BS { STAKED ON 4/30/14 = 1000
+Meise iet ~~ | VERTICAL CONTROL DATUM WAS BASED UPON
+Va AN Sa | CONTROL POINT 705 WITH AN ELEVATION OF 2158.3' .
+na VSP 5 H THIS SURVEY AND PLAT IS BEING PROVIDED AT THE AN,
+eae PM temeciz. | request oF ERIC BAYES OF OASIS PETROLEUM. | hg: o S
+oy \ Seas seis *| CERTIFY THAT THIS PLAT CORRECTLY REPRESENTS Oy 2 a
+ta AE goes sia ~| WORK PERS2RMED BY ME OR UNDER MY SAYA ARYL DN
+aR. we Eos SUPERWI ND 1S TRUE AND CORRECT TO THE BK ASEMAN \™
+RNB once BEST O. OWLEDGE AND BELIEF. os S
+me AN N - il LS 3880 g
+at ee Pe be - , - - DATE: 4
+cee” ioe TLE are / 30/14,
+n fa a aoe Os SR
+ae. AD Srey. 0. KASEMAN 15 3880 HOA
+(C) 2014, INTERSTATE ENGINEERING, INC.
+= _ RSTn eT 7
+j= ) Tn Ga aa 0
+INTERSTATE oie Eee Man Samet SECTION 30, T153N_RTOOW. }—}
+3 na sao —= vs
+INTERSTATE Pa oat? = ——_
+oui Nee eee Percent an ey a ee
+
+PAD LAYOUT
+OASIS PETROLEUM NORTH AMERICA, LLC
+1001 FANNIN, SUITE 1500, HOUSTON, TX 77002
+"AS-STAKED OFFSITE PIT FOR WADE FEDERAL 5300 31-30 2B, WADE FEDERAL 5300 41-30 372,
+WADE FEDERAL 5300 41-30 4T, WADE FEDERAL 5300 41-30 572, WADE FEDERAL 5300 41-30 6B.
+WADE FEDERAL 5300 41-30 7T, WADE FEDERAL 5300 41-30 872, & WADE FEDERAL 5300 41-30 98"
+625 FEET FROM SOUTH LINE AND 1000 FEET FROM WEST LINE.
+SECTION 30, T153N, R100W, 5th P.M., MCKENZIE COUNTY, NORTH DAKOTA
+Ja cP yp, Galen
+gee OH
+Yh o -
+Mp ) a RUT
+4 - [ott
+coh “ a -- “ DI
+vy on ae - Cy 5 lela
+ell; : - y ’ - . Z : E alcyy4
+/ i, ! 4. 7 - 7 7 / Eee
+i : 4 “ ’ sles
+WADE FEDERAL Cigpl ty 6 eo ad “ y , eugia
+5300 31~30 2B PY oe Poy ft 6. Toys ae ; / Baser
+WADE FEDERAL Pe gyol yo hoi OFSRE x< : ’ f B38
+5300 41-30 312 lpr \ i O Soa / Bel
+WADE FEDERAL an ; \ Do, , ; / or ; Ee
+5300 41-30 4T Ve | Ag : y aan
+WADE FEDERAL 93° eps A | ASS T¢, 7 wie
+5300 41--30 512 & ' a % SO SORES, io; IS
+WADE FEDERAL cS. 4 a \ rere € Pir yo / &
+5300 41-30 6B See \ sAZ.2 yoy aa i
+WADE FEDERAL non yo NOSES S2 56: Ro tt SB isc
+5300 41-30 7T SS Neo Gr tg IS ERE
+WADE FEDERAL [7 Noe ms ON . y i : spe THEE
+5300 41-30 812 pS8eeosen See \ L ; » et
+WADE FEDERAL Se , ; H spe
+5300 41-30 9B S bo, r i
+: Neen - | rly 4
+NG I.
+= l, 12h
+boyd 1é
+! \ Lz BO
+ot, f et gz
+a cut Be
+ie ino Z] ge 3
+AB NG a] ES |
+DAWAARYL D. BS THIS DOCUMENT WAS ORIGINALLY ISSUED ol gi
+hy KASEMAN m ANO SEALED BY DARYL D. KASEMAN, P q
+se] << PLS, REGISTRATION NUMBER 3880 ON e i
+uit Ls-3880 |2 4/30/14 AND THE ORIGINAL 9 f
+oe fa DOCUMENTS ARE STORED AT THE a
+ated / 30/14 OFFICES OF INTERSTATE ENGINEERING, zh
+INC. ,
+“os ae, 0 a 212,
+7H OBES NOTE: All utilities shown ore preliminary only, a complete a ee
+° : Utilities location is recommended before construction 1” = 80 OEE]
+
+ACCESS APPROACH
+OASIS PETROLEUM NORTH AMERICA, LLC
+1001 FANNIN, SUITE 1500, HOUSTON, TX 77002
+7AS-STAKED OFFSITE PIT FOR WADE FEDERAL 5300 31-30 28, WADE FEDERAL 5300 41-30 372,
+WADE FEDERAL 5306 41-30 4T, WADE FEDERAL 5300 41-30 5T2, WADE FEDERAL 5300 41-30 68,
+WADE FEDERAL 5300 41-30 71, WADE FEDERAL 5300 41.30 812, & WADE FEDERAL 5300 41-30 98"
+625 FEET FROM SOUTH LINE AND 1000 FEET FROM WEST LINE
+SECTION 30, T153N, R100W, Sth P.M., MCKENZIE COUNTY, NORTH DAKOTA
+WADE 5300 |
+| 21—30H Lor2
+FOUND. STONE | |
+w/ 2” AC
+ts 2884 \/,
+—25-$-30——  — ———— — + eo -—
+o
+Il ta
+HH iG
+~N — PROPOSED | en \
+WADE FEDERAL 5300 \\-9
+31-30 11T & t Oo
+WADE FEDERAL 5300 %
+\ D-H 1072 (
+LOT3
+i : a
+LANDOWNER:
+. WESLEY LINDVIG |
+3] | W1/2 SECTION 30
+2 464.5 FEET = 29 RODS
+\
+| — — — — — — — —
+y WADE FEDERAL 5300 31-30 28
+2 WADE FEDERAL 5300 41-30 312
+2 WADE FEDERAL 5300 41-30 41
+5| WADE FEOERAL 5300 41-30 512
+y LoT4 | WADE FEDERAL 5300 41-30 6B
+WADE FEDERAL 5300 41-30 7T
+AS-STAKED ‘S wane reverat 5300 4130 8t2
+OFFSITE PIT “2 FEDERAL 5300 41-30 98
+| Az 20715 | £2 trp,
+| az 18082 19GE AS"
+FOUND STONE 377.9" | 7
+w/ 2” AC €x. 33° R/W
+25 N[30 = rn
+Hn 3727" , a ~~
+36 [ 31 AZ 893727" 2622.02 ex 38 R/W coun stone A
+Biz
+i w/ REBAR
+as ;
+ole oS CANO 3S
+WE: a
+DAWAARYL D N12.
+THIS DOCUMENT WAS ORIGINALLY KASEMAN ie) :
+ISSUED AND SEALED BY DARYL 0. ir 3
+KASEMAN, PLS, REGISTRATION NUMBER na LS-3880 3
+3880 ON 4/30/14 AND THE ASSO 4
+ORIGINAL DOCUMENTS ARE STORED AT ated / $C /
+THE OFFICES OF INTERSTATE SS ° 500
+ENGINEERING, INC. Jos ee ee |
+7H DNS 1” = 500"
+NOTE: All utilities shown are preliminary only, a complete
+@ 2014, INTERSTATE ENGINEERING, INC. utilities location is recommended before construction
+sa SECTION 30, TISSN, RIO. Po
+3 | 3 (Bec oe aye | WGRERZIE COUNTY, NORTH DAKOTA —|} —f-}
+Rerroe Ton ef —F —
+, Rincon sor ed pen yr menerns mao gone ee a eee 4
+
+jim; SUNDRY NOTICES AND REPORTS ON WELLS - rope eT
+aN INDUSTRIAL COMMISSION OF NORTH DAKOTA & + oN
+2 LE OIL AND Gas DIVISION fo rae ia File No
+age 800 EAST BOULEVARD DEPT 405 pas j 28557
+» Nash?! BISMARCK, ND 58505-0840 - Ly
+SFN $749 (09-2006) ‘ oy
+- fy?
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM wees
+PLEASE SUBMIT THE ORIGINAL AND ONE COPY wee
+Notice of Intent ([__ Dang Prognosis | | Spi Report
+December 9, 2044 [Z_ Rearitiing or Repair L1 shoo ing
+C1] Report of Work Done [7] Casing or Liner [ | Aciduing
+C Pivg Welt [1 Fracture Treatment
+LJ Notice of Intent to Begin a Workover Project that may Qualify (1 Supplemental History [| Change Production Method
+for a Tax Exemption Pursuant to NDCC Section §7-81.1-03. :
+(1 Temporarily Abandon "2 Reck mation
+‘Approximate Start Date
+Other Waiver from tubing/pack2r requirement
+Weil Wame and Number 24-HOUR P 2ODUCTION RATE
+Wade Federal 5300 41-30 7T Before
+Footages awr-atr [Section |Township [Range Ou Bois
+Field Pool County Gas Mor
+Name. of Contractors)
+DETAILS OF WORK
+Oasis Petroleum North America LLC requests a variance to NDAC 43-02-03-21 for the tubing/pact er requirement:
+Casing, tubing, and cementing requirements during the completion period immediately following the upcoming
+fracture stimulation.
+The following assurances apply:
+1. the well is equipped with new 29# and 32# casing at surface with an API burst rating of 11,220 si;
+2. T 1e Frac design will ise a safety factor of 0.85 API burst rating to determine the maximum pressure;
+3. Damage to the casing during the frac would be detected immediately by montioring equipement;
+4. T1¢ casing is exposed to significantly lower rates and pressures during flowback than during “he frac job;
+5. T1¢ frac fluid and formation fluids have very low corrosion and erosion rates;
+6. Production equipment will be installed as soon as possible after the well ceases flowing;
+7. A 300# gauge will be installed on the surface casing during the flowback period
+Oasis Petroleum North America LLC 281-404-9436 FOR STATE USE ONLY
+Addr sss
+1001 Fannin, Suite +500 C) Recewed
+city State Zip Code Date
+Signatues> Printed Name By
+can an
+Title Date aa
+Ema | Address PEracicuM wR
+jswanson@oasispetroleum.com
+
+A Schlumberger Company
+9251 E 104th Ave.
+Commerce Gity, CO 80640
+(303) 439-5500
+Directional Survey Certification Form
+Wade Federal 5300 41-30 #7T
+Oasis Petroleum Original Hole 5-Dec-2014
+Company Well Name Final report Date
+ND, McKenzie County (NAO 83 NZ} Oasis 33-053-05998
+PathFinder Job Number County / State API Number
+N 48° 2' 28.32000" W 103° 36' 10.82000" 877 ft FSL_& 500 ft FEL
+N 48,0412 W 103.60300556 Sec 30 Twn 153 N Rng 100 W
+Surface Latitude Surface Logitude Surface Section - Township - Range
+NAD83 ND State Plane, N Zone, Ft Patterson 488 KB 32ft @ 2077.00 ft / GL: 2045.00 ft MSL
+Datum & Coordinate System Rig Contractor Height Reference
+Survey Depth 112.00 to 11423.00
+Depth From Depth To
+Measurement While Drilling
+Type of Survey
+Survey Depth 11423.00 to 11501.00
+Depth From Depth To
+Straight line projection to Bit/TD
+Type of Survey
+Site Supervisors Brittany Feddersen - MWD
+Directional Driller 1 MWD Surveyor 1
+Dennis Lipcovski- MWD.
+Directional Driller 2 MWD Surveyor 2
+The data submitted in this report conforms to the standards and procedures as set
+forth by Schlumberger. This report represents a true and correct directional wellbore
+survey based on original survey data obtained at the well site.
+Matt VanderSchaaf 12/5/2014 15:46
+Matt VanderSchaaf Date
+PathFinder Well Planner II
+
+QASIS PATHEINDER
+vee Wade Federal 5300 41-30 #7T MWD 0° to 11501' Definitive Survey Geodetic fe eerie
+Report
+(Bel Survey)
+
+port Dale: December 05.2014 - 08:37 PM Survey DLS Gomputalion: —— Meamutn Curve! Ligh
+
+Cant Casi Parlaumn ‘artical Section Azimuth: 91.890 + Trua Noch}
+
+Fiat NNO. MeKenzie Counly (NAD 83 NZ} Oasis 2014 Vertical Section Origin: 8.900 000
+
+(Cass 30159000 Wada Federal 5300 41-20 Pad. Pallerson 48
+
+Structure Sot ass 00 1SEN TOOW (Wade Fe “TVD Reterenea Datum: Kea
+
+wat ‘Wade Federal 8300 41-30 477 “TWO Reterance Elavaion: 207.000 1 above MSL
+
+Borehole: Criginal Hola Seabed Ground Elevation: 2045.000Il above MSL
+
+wir api Uren Uren Magrelio Decimation: 8.295"
+
+Survey Name: Wade Federal S300 41-90 47T CHMMWD O'la 1150 Dehnilve Talal Gravity Field Strengths; 1000.0448rngh 9.20505 Based
+
+Survey Dale: December 05.2014 Gravity Modet: aru
+
+Tort? AHO? ODLERD Ratio: 144.137 7! 1078.05 5.220:0.100 Total Magnetic Field Strength: 55237.474 rT
+
+Coordinata Relorence Syslem: AOS Noth Dakola Slate Plan, Norlherr Zane. Fest Magnelio Dip Angle: 72904
+
+Lecation Lal Long: NN 49° 2 28.32000". W103" 36 10:82000" Destination Date Decarber 05.2014
+
+Location Grid WE ¥X 1 396087.82611 € 1209842:216 Magnelio Dacination Model; 8GGM2014
+
+CRS Grid Convergence Angie: -2.3001 North Rotarence True North
+
+Gria Seale Factor asosea61a Grid Convergence Used: o.oo
+
+7 Total Coer Mag Nonh->True
+Version  Palete: 2as720 fata 8.2053
+Local Coord Relorenced To: Well Head
+comments wo tel Aim Tru wo vse NS ew DLS Northing Escling ——_Laitude Longitude
+ts 9 3 cn cn im nh 100m i mW) dew =
+
+Taras aon Tor Tor Tor Tor Bor Tor NA SoHE es —TODHETR.22 Nae 2TB2 Wb wo TOR
+
+Seain MWD 1200 ova 207.48 sy200 039 oso 038 O71 50500716 Y2na641.83 NV 4a 22891 W 10896 1089
+208.00 o70 zat 202.90 “105 1.88 a0 040 S050e631  1200641.05 N 4a 228.90 W 10996 1084
+234.00 3a z0.07 203.98 208 224 215 021 sesoes7  Y20a600.97 Ni 4a 228.0 W 10936 10.85
+38800 083 258.70 385.97 309 260 318 046 Ses0es.27 120a6a8.93 N 4a 22829 W 10936 1087
+47800 062 248.50 waar 399 295 40 047 Sesoes.03.« 120a6s807 Ni 4a 22829 W 10936 10.88
+08.00 062 e448 305.96 435 304 495 045 Sesned99 — 120a697.15 Ni 48 22829 W 10936 10.89
+257.00 026 4287 558.98 5.10 276 529 as — Ses0e528 1200696.82 N 4a 22829 W 10936 10.00
+747.00 062 sot 748.98 525 216 532 a2 — Sesnese9 © 120a695.81 Ni 4a 228.0 W 10336 10.00
+238.00 o70 1523 37.98 53 116 5.35 046 Sosneses © 120a695.82 Ni 4a 228.21 W 10336 10.00
+928.00 079 60.68 27.98 521 ont 521 0.25 Sesoeacs 12na6a7.01 Ni 4a 228.32 W 10336 10.00
+1019.00 oa 2228 1018.94 497 133 49 043 Se50e095 1200697.55 Ni 4a 228.83 W 10936 10.89
+109.00 053 20.04 108.92 437 7 431 137 995080.77 1209697.98 N48 22834 W 102.96 10.8,
+1200.00 14 a0.st 1190.92 a4 oat a4 oa Sesnea 77 Y2na6saee Ni 4a 228.83 W 10936 1087
+1200.00 oaa 255.38 1260.92 318 003 318 154 395067.98 420059004 N48 22852 W102 9610.87
+1386.00 070 257.20 1384.91 ‘09 O18 410 027 — Sesoe7.eo —12a6sa.12 Ni 4a 228.22 W 10836 10.88
+1480.00 097 maa 1478.90 545 O24 5.48 040 © Sos0e7.e0 — 1200696.75 Ni 4a. 228.2 W 10936 10.00
+1575.00 O79 sosa2 1374.90 52 0.35 569 es a508771 1200696 57 N48 22832 W102 9610.00,
+1370.00 132 i800 1800.28 399 401 02 059 Sesnee98  12a6s8.16 NV 4a 228.21 W 10936 1088
+1705.00 06 41580 1764.38 218 187 224 0.27 — Sesne6.05 120969090 N 4a 228.0 W 10836 10.85
+1860.00 og eas 1850.28 99 201 099 a9 — Sesoes5 © 2a641.14 Ni 4a 228.00 W 10936 1083
+1956.00 053 10.99 1955.28 aa 133 453 O53 Sesngss12oaG4n.71 Ni 4a 228.01 W 10836 1083
+2054-00 07 138 050.84 34 032 035 O21 Ses0e7s212aG41 86 N48 228.82 W 10836 1083
+
+95 Casing 2100.00 ose sue ao. 0.08 ous 08 199 s360ee01 —s208042.17. N48 22832 W 108961082
+211a00 os cass ztns.ah ons on ons 139 a9s0e.131200642.99 N48 22892 w 109.96 10.82
+2a7a.00 1.08 ssao0 (217883 035 ‘08 O38 232 © senneaa7 | Taoaet2ee Ni 48 22839 W 10836 1081
+2274.00 123 sagot Zarda ast 268 039 0.23 © Ses000.83 | YanaGer.7a N48 228.35 W 10836 1083
+2268.00 oa Wa4 zaor.0 a7 337 “104 4.08 395001.73 1209541.83 N48 22896 W 102.96 10.88,
+2468.00 oe aaaz2hs2.80 030 64 068 0.25 30500249 20964175 Ni 4a 22837 W 10836 1083
+2567.00 ose suis 255879 029 551 a1 ood — Ses00a.83 Yana6t2s2 Ni 4a 22837 W 10836 1082
+2882.00 ose via? 2551.78 a2 550 039 ita 3as0e3s1 120964282 N48 22807 W 103961081
+2747.00 Osa wars 274878 a7 438 aga 0.20 30500215 Y209643.28 Ni 48 278.5 W 10836 1081
+2243.00 1.08 sat 2a277 115 27 24 0.31 39500055 Y20a643.57 Ni 4a 228.35 W 10336 10.60
+2098.00 oar smss 203775 1H in 134 015 Sesneges © 20964360 Ni 4a 228.33 W 10836 10.60
+3038.00 097 zoass = 303274 aa? 028 098 052 — Se50e7.99 T20a643.16 NI 48 22832 W 10336 1081
+312800 O70 pay? 3127.73 on 18r 025 019 050635 120964240 Ni 4a 228.0 W 10836 1082
+3228.00 1.08 zooos = 322271 028 307 038 022 © sesned 77 Ya0a641.73 Ni 4a 22829 W 10936 1083
+321@00 ta soa? an1770 028 478 an 1353950630 120954213 _N 48 22827 W 102.96 10.82
+341300 123 vasa ahiz67 170 629 1159 020 © Ses0e128 © Y20ae4a.se Ni 4a 22825 W 10336 10.80
+3508.00 132 13528 3507.65 a2 790 307 010 © Ses070e1 — Y20a644.96 Na 22824 W 10896 10.7
+3208.00 05 vi4sn aa0263 492 904 46 052 — geso7as1 20964648 NV 4a 22823 W 10926 1075
+38.00 Osa yoasz = as97.61 aa 960 a1 0.25 © 05077909 Ya0a647.96 Ni 4a 22823 W 10826 1073
+3798.00 097 woa7s = 3792.60 792 1004 760 O11 39507749 Yanae4a.at NI 48 22822 W 10396 10.71
+3ese.00 070 vasa 3887.89 24 1052 350 0.29 9507695 Ya0a65069 Ni 4a 22822 W 10836 10.69
+398.00 028 voaor —anea.s0 999 1079 65 047 0507685 Y20a651.42 Ni 4a 22821 W 1096 1068
+07800 035 yaasz 4077.89 10.48 ‘100 10.10 045 Ses07642 Ya0a651.86 Ni 4a 22821 W 10826 1067
+417300 035 e140 at7258 wor 1088 1037 ag — Ses07654  Yanaes214 Ni 4a 22821 W 10836 1067
+425800 035 vio 67.88 03 1032 1098 007 39507710 Ya0a652.28 Ni 4a 22822 W 10826 1067
+4958.00 035 aiss 436288 109 979 ware 009 0507781 2065253 N 4a 22822 W 1086 1066
+4458.00 oa Biss aN57.88 1138 923 108 009 9507816 Ya0a65290 Ni 4a 22829 W 10836 1066
+4553.00 035 sea0 4552.88 174 872 waz O14 Ses07Ra5 | Y20a683.32 Ni 4a 22823 W 10836 1065
+484800 028 31 484758 1215 847 1189 049 Se507Re8 | Y209683.75 Ni 4a 22824 W 10836 1065
+4743.00 oa vigzr | araasr 12669 860 i241 022 30507873 Ya0a654.27 Ni 4a 22824 W 1096 1064
+4832.00 oa ass 4837.87 1334 864 1307 O41 es07aa7 | Ya0a6s492 Ni 4a 22823 W 10836 1063
+#93800 o70 e205 402287 14312 814 1388 031 30507033 Y20a6EB.74 Ni 4a 22824 W 10836 1062
+028.00 062 saa8 8027.88 180 787 1479 016 © Ses07087 | Y209656.69 Ni 4a 22825 W 10336 10.60
+5128.00 070 8705812285 1808 73 1589 029 © ges07ae8 — Y20a657.74 Ni 4a 22825 W 1096 10.59
+5219.00 089 vss 821885 1708 7a 1889 031 ges07a72 Ya0a6sa73-N 4a 22825 W 10826 1057
+521300 ose Tea? 831284 1798 748 wa 038 9507085 120965063 N 4a 22825 W 10836 10.56
+402.00 ose e526 shoa.ss 1892 rail 1870 O11 es07a97  Yana6an.g2 Ni 4a 22825 W 10836 10.54
+5508.00 089 sos (850283 1978 or 1957 040 © Se50e030 © Y20661.50 Ni 4a 22825 W 10836 10.53
+598.00 070 sa20 (8597.89 2078 652 2058 oz — esne049 — Ya0a6e2.40 Ni 4a 22828 W 10926 10.52
+09.00 070 s2a8 5592.82 2190 637 ain 001 Sesnens8  Y20a6e3.65 N 4a 228.28 W 10336 10.50
+5788.00 062 yess sra7.se zat 618 27a 072 Se50e0.75Y20a6e473.-N 4a 22828 W 10836 1048
+5285.00 oss 2458898251 ne 590 zat 0.21 Sesneneo © Y20a6e5.60 Ni 4a 22828 W 10836 1047
+5978.00 035 ra 07751 paar 590 24.20 O11 es0@n95 Y209686.25 NV 4a 22828 W 1096 10.46
+04.00 035 72sz east 2a 530 2458 00s esoet.o4 © Y20a6e6.62 Ni 4a 22828 W 10836 1046
+10800 028 wo17s gros 2518 877 29a 0.28 — Ses0et.05 | Y2na6a6.95 Ni 4a 22825 W 10836 1045
+16800 00 3818 GIO7St 238 530 21a 028 © esnet.ce— Ya0aea7.14 N48 22825 W 10836 1045
+268.00 035 moa e221 270 570 2552 0.28 es0et.10Y20a667.40 Ni 4a 22825 W 10826 1044
+259.00 035 wo2sz =—sasa.s0 2828 567 25.00 020 © esoei.t1 — Y20a6805 Ni 4a 22825 W 10936 1044
+454.00 035 wat 6452.60 2a 534 28.4 00s Sesnens2  Y20a6e8.60 Ni 4a 22825 W 10836 1043
+549.00 089 st 5.60 Baa 568 22 050 Sesnet.o7 | Ya0a6e0.22 Ni 4a 22825 W 10836 10.42
+44.00 089 aon 840.80, 218 522 2.00 017 gesoei4a—Ya0a660.98 N48 27827 W 10336 10.41
+73.00 035 vores (graa.as aan 514 2a 0.35 © esoet.ss | Ya0a670G7 Ni 4a 22827 W 10836 10.40
+234.00 oa yeioo aaa 2 542 22 073 © Se50e.23 YanaGri24 Naa 22827 W 10836 10.9
+
+Drilling Office 2.8.572.0 Wade Federal 5300 41-30 #7T\Original Hole\Wade Federal 5300 41-30 #7T OH MWD 0" to 11501" Definitive 12/5/2014 3:38 PM Page 1 of 2
+
+commons > nel Azim True yo vsec Ns ew DLS Northing Easting Latitude Longitude
+ommments ty 9 a en en an eh -rioomy cn cn WS) few")
+ced TI Baa co ast Bit aa3t 1a? SB50e143 —g0aS7BST NAP 22R27 W108 96 10.37
+7028.00 123 64.20 7023.48 3223 417 aan ore — asesoe2.a — 120sGr413 N48 228.28 W 10936 10.95,
+riia.00 os? 78 Tia aut 358 uae 03s sssoe21 — i2uscrses N48 228.28 W 10936 10.92
+214.00 16 9032 yeaa 35.64 330 35.56 0.30 39508300 120967759 N 48 228.29 W 10936 10.90
+7308.00 08 200 8.41 3746 338 grat 009 sesne2.o4 — Y20sGra42 N48 228.29 W 10936 10.27
+7408.00 o7 187 7403.40 3as 337 3089 038 sesoe2e9 © t20sce0.e7 N48 228.29 W 10936 10.25,
+7500.00 ova aa38 7490.30 40.168 338 40.08 o10 — asesoe2e3 © t20s0e212 N48 228.29 W 10936 10.25,
+7595.00 O70 ora 7594.38 4140 3.45 a131 od 9s0e2.72 — t2useRa35 N49 228.29 W 103261021
+7990.00 ose s3061 ye00 38 4232 332 4222 ost as9s0e2.21 — Y20sced24 N48 228.28 W 10936 10.20
+7735.00 ose 48.12 rest 42.95 474 4282 O10 aesoet.a © Y2uscede1 N48 228.27 W 10936 10.19
+7as0.00 083 14035 ya70.37 4359 552 4337 013 s950e057  Y20seR6. 33 N48 228.27 W 10936 10.18,
+ya75.00 O18 39080 78.37 4308 539 aan 038 39508008 i2useRB.e4 N48 228.20 W 10936 10.18,
+3070.00 028 18281 2060.37 4399 635 4935 013 9507072 Y20geRb.a7 N48 228.26 W 10936 10.18,
+8164.00 009 $08 3160.36 4393 60 4358 037 9507058 t20scRs.a6 N48 228.26 W 10936 10.18,
+8253.00 01s aan 8258.36 4399 628 381 010 395070.79  Y20seR6.73 N48 228.26 W 10936 10.18,
+8354.00 O79 504g 8353.36 4455 575 4439 oss g9s0e0.a0  t2useesa4 N 48 228.26 W 10936 10.17
+3443.00 os7 4390 8440.35 45.00 478 4547 0.24 asne1.22— 120s0R7 45 ~N 48 228.27 W 10936 10.15,
+8544.00 ‘4 soz 2543.33 4898 an pr 034 950e2.23 © t2uscse7 N48 228.28 W 10936 10.19,
+8840.00 08 65.28 8600.32 4a58 285 aa47 O15 © ses0es02 — t20s000.53 N48 228.29 W 103.26 10.11
+8735.00 to 50.68 8734.30 50.07 204 50.03 oT 950e3.77 — Y2uacea.t2 N48 228.30 W 10936 10.08,
+290.00 os7 65.08 920.20 51.59 1.28 5151 O14 9sned49 120900383 N48 228.31 W 10936 10.05,
+8924.00 08s 64.08 8023.27 5288 ost 52.88 oi — s950e509 — Y20ae96.03 N48 228.31 W 10936 10.08
+9013.00 079 5532 s01a.26 54.05 O08 34.08 ote 950e5.73 — Y20sc9B25 N48 228.52 W 10936 10.02
+9114.00 070 53.95 13.25 35.03 Osa 35.08 o10 — ases0ee40 120800729 N48 228.39 W 103.6 10.01
+9208.00 ose 5278 9208.25 55.88 145 55.97 0.09 © s9s0e7.02 120900819 ~N 48 228.39 109.98 10.00
+908.00 ose 140.18 903.24 38.69 137 3870 090 a9s0e691 — t20sceRs3 N48 2289 W 10936 9.09
+9398.00 o70 38087 9398.24 8728 os 8728 O18 © sas0es.97 — Y20sc0a48 N48 22852 W 10336 9.08
+9494.00 ova +4001 9490.28 3788 Osa 8780 O11 aesoede7 — Y20e70D03 N48 22831 W 10336 9.07
+9583.00 o7a 40.18 9508.22 50.50 178 58.58 0.00 950e3.72 120970085 N48 22830 w 10336 9.96
+9684.00 om 68.68 ‘900.22 50.08 27 5898 oat a9s0e2.78 12087004 N48 228.20 w 10396 9.95,
+9773.00 ose 196.33 s77a.2t 50.00 382 sas 034 aesoer.o4 — 120e7OD94 N48 228-20 wW 10336 9.5,
+9874.00 083 225.02 9973.21 3087 432 5048 os! — aesoei.1 — 120e70D45 N48 22828 W 10336 9.96
+9968.00 026 61.95 sen 21 5046 453 re cae — s9s0e095 — 120e70D83 N48 22828 W 10336 9.96
++0063.00 035 4295 1006220 90.89 422 5073 O14 9soe1.24 20970072 N48 228.28 Ww 10336 9.96
+0187.00 035 3125 10186.20 o.16 378 s007 Cor — asesoetea 120970108 N48 228.28 w 10336 9.95,
+0202.00 oe aha y020120 5020 340 5022 022 — ses0e1.95 120970124 N 48 228.20 W 10336 9.95,
+0219.00 035 aos = 1021820, 30.39 3.38 50.25 oe — s9s0e20 © 120970128 N 48 228.20 W 10336 9.05,
+0261.00, ose 66.03 t02s0.20 50.50 321 sue 105 39508222 12097014 N 48 228.29 W 10336 995
++0283.00 448 yos0s —10280.18 eos 349 cose s258  gesuer.@9 12070281 N48 22820 wi0sa6 993
+0314.00, oat joss 1091299 6440 455 64.38 3891 39508088 120970E95 N48 22828 w103a5 987
++10348.00 3397 yoraa 1044.28 7038 ead mat y259 © ge5078.56TaosTi2ad N48 22826 Wi0sa6 978
+40378.00 3495 so7r3910975.22 ran 8.20 nar 495 9507549 «1209716 N48 228.29 W 10336 9.67
+008.00 s724 yao t0408.10 2528 4173 3594 350 © soso7ae5 «120972781 N48 228.20 W 10336 9.50
+0441.00 2190 4393 10495.24 96.28 1534 95.78 s4ao 30508804 120973728 N48 22816 W10sa6 941
+$0473.00 BrIT 4537 10464.35 0848 21.80 10788 ye5o 39508200 1208749.11 N48 22811 Wi0Sa8 923
++0504.00 3034 1528 1040152 322.7 2788 sata 3023 39505508 12097e2.22 N48 22804 wi03a5 9.03
++0598.00 3438 i463 jonas y9792 35.10 13888 sear seso47.24120g77754 N48 22797 Wi0sa6 8.8
++0568.00 3851 1474 t0544.28 jens “4304 194.13 y2si  ge50a862 120879448 N48 22790 Wi03a6 855
++0600.00 4080 4420 t086n.92 W428 51.49 ware 24 gasogo42 © 120est271 N48 227.81 W 10336 8.26
++0631.00 aaa 41908 105131 9.60 50.82 39137 Ser 9502083 12098140 N48 227.73 W 10336 8.00
++0663.00 4578 220 toa14.40 2478 a54 2208 sos! 39501078 1200851.95 N48 227a4 Wi0sae 789
+0604.00 50.12 4068 = t0895.05 236.68 7701 234.28 M157 Ses00r44 120087319 N48 22756 WI0Sa6 737
+0728.00 s276 wiia2 toast 8 26027 ‘6.00 25769 S44 aougN.s2 — 120S80H16 N48 22747 10396 7.03
++0758.00 53.73 237 10874.16 284.38 95.56 2e1ae 385 SMORO1 «T2094 N48 227.38 W 10396 6.68
+0790.00 5698 wii33 1082.33 300.08 05.36 305.88 y050  gova70.24 —ta0s0a.56 N48 22728 Wi0Sa6 G22
++0@21.00 ated y2s0 1070818 4.12 115.31 ms? j538  govgso.a0 12000785 N48 22718 Wi0Sa6 596
++0e53.00 3560 945 10700.37 360.88 126.50 356.98 sao SoMTO5 120000077 NV 48 22707 Wi03a8 S57
++0e85.00 3735 wos 4075.18 320.08 138.92 yeas 57S aM09417 121002012 N 48 22690 W 10336 5.17
+0917.00, 7158 wigs2 1048.36 iss 150.47 ain20 4320 govaz092 121004699 N48 22684 w10335 477
+0948.00 1474 4438 = 10765.38 443.0 182.58 $028 soa4 — S04007.73 121007356 N48 22672 Wi0Sa5 437
++10980.00 wee 43601076082 ari38 17517 $66.58 350 g5489402 121010129 N48 22659 w 10336 3.05
+1011.00 1.26 was 1077082 00.08 187.06 49420 335 soMBe1.02 121012854 N48 2zE47 W10SS 3.55,
+7 Casing Poms 1036.00 ax21 rare 0774.98 2305 390.50 sis.98 ras aoaB7061 —yav0ssD89 WV 48 220.38 Wi0330 321
++1088.00 2.08 Mes 1077600 520.59 199.28 52337 ‘ei Bovgares —Y210157.10 N48 22695 winsas 312
+1075.00 2799 yest 1077070 150.9 2148 552.80 4843 Sovg5a.28 12018601 N48 22603 winsas 269
+1107.00, 9242 wine 1077070 580.34 22351 582.49 4415 Sovetr05 © 120218.13.-N 4B 22E11 winsas 225
+1147.00, 2251 4288 1078.98 52681 238.60 510.49 14 9482448 121025150 N 49 2.2597 W 10936 1.70
+$1178.00 3101 yi202 1077802 55.88 250.8 48.10 Sid SMBT1.88 —121027|E7 N48 22585 w 103s 1.28
++1208.00 9128 wines 1077542 584.03 28182 s7598 t42  gae799S0 121090703 N 4B 22574 W 10336 O87
++1238.00 eo78 vias 0775.18 ma22 27288 70878 495 gov7eo 78 121092608 N48 22569 W 10336 0.45,
+1270.00 2037 wwoas 10775 29 74248 284.08 ra fe 9477445 1210980.89_N 4 2.2552 W 10936 0.02
++1300.00 ast tose 10775 58 ras 20478 tens? 354 3oe7ezed 121090140 N49 22541 W 10325 59.81
+1331.00, e776 wos) 1077851 00.16 306.71 071 385 30475059 Y2r0d1991 N48 22590 W 1033559.18,
+1361.00, e788 youz2 107776 aoc? 31590 a1890 427 3047g0.21t2r0as707 N48 225.20 W 1035.50.77
+11392.00 23.28 souse 1078.70 450.18 32625 48.10 240 SOK7ZT-TO. 121047643 N48 225.10 W 10335 50.96
+gaye 1428.00, 28.29 10743 1077962 887.88 336.14 877.48 771 884716.83 —1210505.37 N48 225.00 W 103.35 67.51
+Projecan fo Bit 1501.00 2820 yor 1078198 362.98 35980 351.88 0.00 seKe90.90 12057875 N49 224.77 W1092556.81
+Survey Type Del Survey
+Survey Error Model: ISCWSA Rev 0°" 3-0 95.000% Corliderce 2.7955 sigma
+Survey Program
+seriotion 7 MD Fram = MDTo EOU Freq Hole Size Gasing Diameter anvey Tost Type orahole | Surve
+Deseri Pet om oy tin fia) Suey Toot Tyee Borehole Survey
+5 : Cngnal Hoe? Wate Fase
+1 0.000 32.000 "98.425 30.000 30000 SLB_MWD-STD Depih Orly cuss Hoe Tate Peery
+“ 5 5 Onginal Hoe # Wade Federal
+1 32.000 2.000 el Sirs 4.000 30.000 SLB_MWD-STO-Depih Orly ginal Hole: Wade Federal
+5 “ 5 Ongynal Hole # Wade Federal
+1 szoon 11423000 el Sirs 4.000 30.000 sua Mwo-sTo Samal ete Wade Peder
+“ 5 Ongiral Hoe Wade Federal
+49423000, 11901.000 el Sirs 4.000 sooo SLB-ALINDsTREND Laima Hole: Wade Federal
+Drilling Office 2.8.572.0 Wade Federal 5300 41-30 #7T\Original Hole\Wade Federal §300 41-30 #7T OH MWD 0' to 11501" Definitive 12/5/2014 3:38 PM Page 2 of 2
+
+A Schlumberger Company
+9251 E 104th Ave.
+Commerce Gity, CO 80640
+(303) 439-5500
+Directional Survey Certification Form
+Oasis Petroleum Wade Federal 5300 41-30 #77 STL 8-Dec-2014
+Company Well Name Final report Date
+ND, McKenzie County (NAO 83 NZ} Oasis 33-053-05998
+PathFinder Job Number County / State API Number
+N 48° 2' 28.32000" W 103° 36' 10.82000" 877 ft FSL_& 500 ft FEL
+N 48,0412 W 103.60300556 Sec 30 Twn 153 N Rng 100 W
+Surface Latitude Surface Logitude Surface Section - Township - Range
+NAD83 ND State Plane, N Zone, Ft Patterson 488 KB 32ft @ 2077.00 ft / GL: 2045.00 ft MSL
+Datum & Coordinate System Rig Contractor Height Reference
+Survey Depth 11297.00 to 18148.00
+Depth From Depth To
+Measurement While Drilling
+Type of Survey
+Survey Depth 18148.00 to 18174.00
+Depth From Depth To
+Straight line projection to Bit/TD
+Type of Survey
+Site Supervisors Brittany Peddersen - MWD
+Directional Driller 1 MWD Surveyor 1
+Brittany Peddersen - MWD
+Directional Driller 2 MWD Surveyor 2
+The data submitted in this report conforms to the standards and procedures as set
+forth by Schlumberger. This report represents a true and correct directional wellbore
+survey based on original survey data obtained at the well site.
+Matt VanderSchaaf 12/8/2014 8:32
+Matt VanderSchaaf Date
+PathFinder Well Planner II
+
+OASIS PaTHEINDER
+c Wade Federal 5300 41-30 #7T ST1 11270’ to 18174’ Definitive Survey fe eerie
+Geodetic Report
+(Bel Survey)
+
+oport Date: December 08 2014 - 08:28 AM Survey! DLS Computation: Mumm Curvature Linki
+
+Cant Cass Parlaumn ‘artical Section Azimuth: 91.890 + Trua Noch}
+
+Fiat IND. McKenzie Counly (NAD 83 NZ) Oasis 2014 Vartieal Setion Origin: 8.900 000
+
+(Cass 30-1590 00 Wada Federal 5300 41-20 Pad» Pallerson 48
+
+Structure Sot ass 00 1SEN TOOW (Wade Fe “TVD Reterenea Datum: Kea
+
+wat ‘Wade Federal 8300 41-30 477 TWO Reterance Elavaion: 207.000 1 above MSL
+
+Borehole: sn Seabed Ground Elevation; 2045.000Il above MSL
+
+wir api Ursnvan Uren Magnetic Dactination: 8.295"
+
+Survey Name: ‘Wade Federal S300 41-90 477 ST1 11270"la 18174 Dative Tolal Gravity Field Strength: 1000.0448rngh (9.20865 Based
+
+Survey Dale: December 05.2014 Gravity Mode: aru
+
+Tort? AHO? ODLERD Ratio: 254.997 7! 7750-128 t/8518:0.714 Total Magnetic Field Strength: 58237.474 oT
+
+Goerdinate Retorence Syslem: WADSS North Oakola Site Plane. Never Zane, Fes: Magnelic Dip Angle: 72904
+
+Location Lal Long: NN 48° 2 282000". w 103*36 10.82000" Destination Date Decarber 05.2014
+
+Location Grid NE ¥X 1 396087.8261.€ 1209842:216 Magrelio Dacination Model; 8GGM 2014
+
+RS Grid Convergence Angie: -22081 North Rotarence True North
+
+Grid Seale Factor asosea61a Grid Convergence Used: o.one0
+
+7 Total Coer Mag Nonh->True
+Version Palen 2as720 fata 8.2053
+Local Coord Relorenced To: Well Head
+comments wo tel Aim Tru wo vse NS ew DLS Northing Easting Latitude Longitude
+ts a 2 n cn 0 nh 100m i qo ws) dew
+
+Teneo 70.00 war Tass tors 78 24.08 rea70 NA SM77446 TeT09E383 NAB 22582 W 10635 Oue
+
+Sony 1297.00, e776 a9 1077878 767.98 203.74 758.89 791 SO47HB.77 121038881 N48 225.42 W 108.95 55.65
+sast.00 era voais —sor7707 00.22 306.18 ona 895 S01751.05  Y210870.11 Ni 4a 2591 W 108955918
+snast.00 era sosos = worrazr 520.24 313.90 sina Tai eAr4itD — Y2i084838 Na 22522 W 10936 58 76
+“138200 ea8 soss2 | w0r7a.a8 360.22 32238 uan.38 Sas Sor7aiss 12007785 N 4a 22614 W 10826582
+1428.00 e758 jouss 0790.43 60.51 39031 ar.a0 Sor Sov7zas8Y2i0s07.44 Ni 4a 2.2505 W10836.7.88
++1458.00 ez yo220 © w0ret.79 niga 397.22 08.48 755 SOATi431 121059630 Ni 4a 22499 W10935.57.45
+“1484.00 e820 982 y07ea.03 oan 34278 98.90 vasa Gor707s4 12105852 Ni 4a 22494 W 10836.57.00
+sisia00 e820 9872 1078.95 7B 4671 68.68 Ba? 30470240 121050606 N 4a 22490 W 108365057
+548.00 eset sez) 0re4.73 soi0.20 349.12 90.54 vad Gotsoa 4121062582 N48 22487 W 10895 56.1
+sis7800 2.28 soma 0788.25 10st 20 349.83 a0 52 01 30409679 121065775 Ni 4a 22487 W 10836 55.66
+“1808.00 2334 avy? woras.e3 0ri.28 349.35 1060.52 877 osso605 2068774 Ni 48 22487 W 10895 5521
+sneaz.00 e3.a a8s2  0ras.80 i024 34780 1091.48 419 So4sg695 121071873. 4d 22409 W 10836 5476
+“88.00 o0a7 s7a810788.75 962.92 Saat 82.40 213 otco709 121077072 N 4a 22492 W 108365286
+740.00 ear 035 10resa0 1208.85 343.83 1194.38 978 Sotcoo1a © 121082169 N 4a 22493 W 1086.53.24
+790.00 e302 078 107a828 125481 34433 1244.34 102 Sa4693.861210871-69 N48 22492 W 109955281
+s1ea2.00 esa sven 0rad.a7 1208.73 saa. 1208.22 Tai 3o4sg247 © Y210013.55-N 4d 22493 W 10836.5.89
+-eas.00 29.08 aai9 — yora0.25 1360.62 342.03 1390-28 O59 © Soto02%5 © T2t0geRSe N48 22004 W 10395 51.1
+“981.00 23.08 sist orate 1445.40 32881 1495.21 0.23 So4cg149 121108252 Ni 48 22498 W10835.4970
+‘207800 2358 s778 woraa.77 1500.18 39527 1800.12 oo 0409120 121115749 N 4a 22501 W 10935 48.20
+sai71.00 2858 aa18 = 10raK.17 1824.90 321.91 1825.03 O44 Sotcon 74 21125245 Ni 48 22804 W 10335 40.1
+“2267.00 aaa ae20 © 407a772 Wra0.a 32868 ira37 109 3a46e0.91121194849.-N 48 22507 W 102.25 45.60,
++2362.00 e538 sues 0800.64 1825.51 32701 1815.90 320 S04G8795 1211443.35 N42 22509 W 10835 44.10
+“2458.00 ean s7s5 0804.84 921.27 324.52 wai17a 210 otoeea7 © Y211890.23_N 4a 225.11 W 10835 4269
+“2489.00 23.98 sre yos08.38 1952.10 32377 198278 Bos Sotoeeo7 121157022 Ni 4a 22512 W 10896 4223
+12558.00 28.48 ses2 080824 2018.98 320.50 2008 68 321 0406.75 121460420 N 4a 22516 W 10836 41.29
+2817.00 oad 2875 1080888 2ora7? 31775 207080 4a Sotoesod 121169819 N 4a 2.25.18 W 10836 40.5
+“284.00 9078 sees 1050887 2u07e 31710 210168 17 3a4se5.3¢ 121172018 N48 225.19 W 102.95 99.89,
+s27a4.00 oot sass 0808.08 2208 58 31503 219758 049 Sotoedsd — Y217825.15 Ni 4a 22521 W 10836 2848
+“2e39.00 9022 sosz 0808.24 2a 31445 290.88 204 So4oe129¥21707009 Ni 4a 22522 W 10836 97.08
+“2094.00 23.96 9138 0808.08 28.9 31605 baer 59 a3 © Soto7Be2—Y2iz01492 Ni 4a 22520 W 10836 2569
++9029.00 oo4 9138 10805.08 24140 31837 2482.60 0.09 0400073 © 21210072 Ni 4a 225.18 W 10896 9429
+3124.00 ear soso 10508.17 28 a 32017 27739 Oat — Sotoed 0 Y21Z20485 Ni 4d 22516 W 10836 2289
+sa2ia.00 238 sin) 1080897 Bata 321.67 2ar2a7 07a Seton 77 Y2z20030 Ni 4a 22514 W 10826 9149
+3218.00 e3.0 aueo 1080701 2ina2 32218 Brea 8 sq 35465430 421200527 Na 225.14 W 102.95 3008,
+3410.00 9148 s7sz 0808.14 297227 320.13 an zag Sotosag2 1220024 Ni 4d 225.16 W 10836 2868
++3508.00 oar sna0 1080445 2067.10 31790 208.38 120 384551.02 121258520 N 4 225.18 w 102.9527.29,
+“3807-00 ons soso 1080.95 06.08 31813 0538 Yas Sav64592 21258010 N48 22518 w 102.25 2587
+“3898.00 ona? si3k 1080.45 3188.05 31998 338 073 © Soto4125 121277592 Ni 4a 22516 W 10826 2448
+sa79.00 23.34 sisi 080.82 325104 32237 32443 131 35469503 21287071 N48 225.14 W 108.95 2306,
+‘aeas.00 27a 242 10804.24 47.04 325.62 suua27 405 Sa46z8.01zizaee4 N48 225.10 W 109.95 21.70,
+1397.00 23.34 soso 1080497 34s1.09 328.05 340229 200 S04nh.75 121305822 NI 48 27808 W 10335 20.1
+4074.00 e372 sos) 1050887 35899 32883 3527.21 0.72 © So4n1718 121815300 N 4a 22507 W 10836 1202
+sa169.00 2597 S010 Y08t0.15 Sean 8 329.17 322.14 fas Saior3.02 © 21a24792.-N 48 22507 W 108.9597.82
+saz00.00 eras 9038 10817.85 ast 329.30 as2.10 205 © So461185 121527885 N 4a 22507 W 1096 17.06
+4264.00 29.28 soso 1081.17 372878 329.83 377.08 222 © SotoRSS © 121875 -N 4a 22505 W 10826 1012
++4359.00 23.98 sooo = yosta.82 3920.78 32040 3812.08 092 — SotooaS © T2ISKG7.GE Ni 4a 22505 W 10826 1472
+“4454.00 e337 sass 1051.95 38.69 323.94 3007.07 078 — So400n77 Y2isss2s8 Ni 4a 22505 W 10826 1233
+4549.00 e3.0 023 10514.40 01069 328.64 4002.07 403 3a4597.2¢ 121962750 N48 22506 w 102.9511.05,
+“4848.00 23.98 anys = y0et477 40868 329.67 4098.07 cas 30450295 121872342 Ni 4a 22505 W 10836 1052
+sazaa.co oa ane? 1081470 20182 32:34 19007 023 © Sotsanes © Y2IS8TRSe Ni 4a 22507 w 10335 912
+14835.00 oa snes 1051448 9298.45 32883 328807 025 Sot5e643 121801328 Ni 4a 22507 wi0s35 7.72
+sa990.00 9022 easy wost4.19 sa01.37 328.05 4982.08 0.25 So4sea48 121400822 Ni 4a 22508 w 10335 G22
+8028.00 2334 sees 1051455 4480.28 326.52 447005 105 SaMBB18 «214103 19 N48 22500 w 103.5. 4.02
+5121.00 era an73wost8es 4582.19 325.33 aaron 173 3a57850 421419011 N48 22510 W 10335 31
+sszia00 e302 anes 0820.20 4877.00 324.83 4860.95 072 © So457518T2t42E390 N48 27511 w10sS5 211
+ssa17.00 a3 sas? 08221 amr 323.68 476092 485 3457249 izv4aeB92 N48 22512 w 103.35 072
+“5408.00 238 sn25 082.48 4368.77 32222 4858.90 O41 So457014  Y2ades.s8 Ni 4d 22513 W 10836 59.32
+1850200 2334 ano1 0524.74 962.63 32076 4054.88 0.31 So4507.73 121487983 NI 48 22515 W 10338 57.01
+8597.00 e80 east 1082820 05752 313.05 008 047 0456558 21467470 Ni 48 225.16 W 10338 5651
+spas.00 eset sasr 0828.08 5181.38 31740 suas O10 © So45ea48 © T2IA7ERTA Ni 4a 2.2518 W 10836 55.19
+1579800 eae sass 1082034 5248.22 31542 5208.77 050 orsare2 12148669 N 4a 22520 W 1086 5373
+5282.00 enya aae0 = 108ote1 342.08 31312 5134.73 iss 3a458006 121495005 N43 22522 w 102 9452.92
+1897.00 ea.0 sa25 1082239 5438.89 31051 5420.60 O41 So4SsRed © Y21054.6¢ Ni 4a 22525 W 10836 50.02
++607300 2855 ani 1082288 9892.73 30830 8828.65 tat 3a55718 421518061 N48 22527 W 103984981
+6168.00 ez 03s 10897.37 9827.59 307.86 5820.58 tot 3a455380 121504547 N48 22527 W 10296 48.11
+16265800 eas anaz 0840.95 8122.87 307.68 aris Yes 3555016 421504039 N48 22528 W 102364671
+“6258.00 ea sier 1084.88 501742 30858 S010 25 $0455.43 121BK05.18 Ni 4d 22527 W 10836 48.32
+“645.00 ona sien 1084249 51242 31132 08 483 093 © SorsaRe7 © 121852095 N 4a 22524 W 10836 4202
+6549.00 ean sisa 1084.67 008.40 31380 ont 40 249 G04592531218625.72 Ni 48 27521 W 10338 4251
+“e248. 00 ere sisa—10847.05 6102.34 31619 096.31 046 3045595 121871045 Ni 4a 22519 W 10826 41.13
+6797.00 e708 seas Y0a5131 6196.24 319.50 eian13 139 3a4510.26 2is81B08 N43 22516 w 10294 978,
+se231.00 e337 sist 10858.07 629018 32268 282.02 i77 — 3eq51250 21580673 -N 4B 225.13 w 108.94 38.36,
+6924.00 93a soss — 108568.20 oan 324.53 6978.99 zoo 30450571 121500055 N 4a 22511 W 10836 97.00
+sro1@00 9128 soso 10858.13 ear 325.45 40 98 495 3a4s0200 © izte0aa.41 N48 225.10 W 1026.58
+71300 9198 S108 = 10862.43 687205 326.60 64.93 130 3a4e97.03Y2t61@8.24 N48 22505 W 10396.3421
+
+Drilling Office 2.8.572.0 Wade Federal 5300 41-30 #7T\ST1\Wade Federal 5300 41-30 #7T ST1 11270'to 18174’ Definitve ‘12/8/2014 8:36 AM Page 1 of 2
+
+comments MD nel Axim True 1 SEC Ns ew DLS Northing Easting Latitude Longitude
+i rm 3. 4 on ny dn eh ‘1100 i i Ns < irene
+707.00 wai a2 ——ToHso st GEO a8 TEST 247 Sn4B.Zo ——TOIRBEROD NE 20508 WIS a4 Tams
+s17300.00 2820 128 y0862.40, 6788.97 328.72 6761.88 211 SaNMe738—IZIEITAG N48 22506 W 103.94 91.45,
+117304.00 2016 anon 1084.49, 6852.99 20.89 6845.85 17d 304482.89 121840879 N 4B 225.05 W 108.4 3008
+sr488.00 28.90 su7a 1086.09 nse 28 320.18 eno 84 089 © O478.35 —I2ISEERET N48 22505 W 103.94 28.70
+-17383.00 28.90 037 © 10HS7.91 70st 89 381.06 703481 035 SO7384 —12IGOS7.53. N48 22504 W 103.94 27.20
+sWar7.00 28.90 mu24 1080.71 735.78 381.56 rea78 014 9480.85 IZISTSIAT N48 22503 W 103.94 26.02
+awirico 2960 sss yoHK0.94 e074 392.13 e278 078 9485.00 1218845.20 N48 22503 W 103.94 24.53,
+117865.00 9031 anes Yoas1.02 rea.68 82.13 me7a 122 3446122 2180RZIN AB 22503 W 108942315
++17959.00 9040 noo yoaK0.44 A780 20.94 min77 059 © aN4S8.82 © 1217083.17 N48 22504 W103.94.21.77
++8053.00 92.18 a7s0 1088.34 yatta 328.39 750871 220 39448788 IRITIZT.I2 N48 22506 W 103.94 20.99
+Las STI Suvey 1814800, 338 sess 1oHsa 75 7608.13 26.09 7590.87 200 S9M455.86«1217221.90 N48 22509 W103.9418.09
+Projecion lo Bt 18174.00 338 sosy | toas222 7892.08 325.79 7828.82 000 0448512 12172ATS3-N 48 22500 W 10996 18.61
+Survey Type: el Survey
+Survey Error Model ISOWSA Rey 0°* 3.0 95.000% Corliderce 2.7856 sigma
+Survey Program:
+MDFrem MD To FOUFraq Hole Size Gasing Diameter
+Description Part Survey Tool Type Borehole / Surve
+" mt my inp ia) Teal Tyee *
+TT roy gangs SCSCROGONSSTSCOO SL MWOSTDDapin Ory Dnnal Hole? Wade Federal —
+1 ‘000 2.000 “v8 425 so.000 | 30,000 SLB_MWO-STO-Depth Orly, natnal Hole Wade Federal
+5 s1 s (Ongina Hole Wade Federal
+1 32.000 32.000 fel Stes s.o00 30.000 SLB_MWO-STO-Depth Orly —__Cngtnal Hole: Watle Federal
+s 5 s ‘Onginal Hole Wade Federal
+1 szono 1270.00 el Stes s.o00 s.000 SLe_MW0-S70 00 130 77 OM MD Oo
+s 5 s ST1 Wade Federal 8300 41-30
+11170000 tats8.000 el Stes s.o00 s.000 SLe_MW0-S70 1 Plane edaral 6200 42
+s s ‘STI Wade Federal 8300 41-30
+1 tei4g0o0 1174.00 el Stes s.o00 sooo0 —SLB_@LIND+TREND 1 tgs Federal 8900 44
+Drilling Office 2.8,572.0 Wade Federal 5300 41-30 #7T\ST1\Wade Federal 5300 41-30 #7T ST1 11270" to 18174 Definitive 12/8/2014 8:36 AM Page 2 of 2
+
+A Schlumberger Company
+9251 E 104th Ave.
+Commerce Gity, CO 80640
+(303) 439-5500
+Directional Survey Certification Form
+Oasis Petroleum Wade Federal 5300 41-30 #7T ST2 8-Dec-2014
+Company Well Name Final report Date
+ND, McKenzie County (NAO 83 NZ} Oasis 33-053-05998
+PathFinder Job Number County / State API Number
+N 48° 2' 28.32000" W 103° 36' 10.82000" 877 ft FSL_& 500 ft FEL
+N 48,0412 W 103.60300556 Sec 30 Twn 153 N Rng 100 W
+Surface Latitude Surface Logitude Surface Section - Township - Range
+NAD83 ND State Plane, N Zone, Ft Patterson 488 KB 32ft @ 2077.00 ft / GL: 2045.00 ft MSL
+Datum & Coordinate System Rig Contractor Height Reference
+Survey Depth 18068.00 to 20457.00
+Depth From Depth To
+Measurement While Drilling
+Type of Survey
+Survey Depth 20457.00 to 20530.00
+Depth From Depth To
+Straight line projection to Bit/TD
+Type of Survey
+Site Supervisors Brittany Feddersen - MWD
+Directional Driller 1 MWD Surveyor 1
+Brittany Feddersen - MWD
+Directional Driller 2 MWD Surveyor 2
+The data submitted in this report conforms to the standards and procedures as set
+forth by Schlumberger. This report represents a true and correct directional wellbore
+survey based on original survey data obtained at the well site.
+Matt VanderSchaaf 12/8/2014 8:41
+Matt VanderSchaaf Date
+PathFinder Well Planner II
+
+QaASsIS PaTHEINDER
+~ Wade Federal 5300 41-30 #7T ST2 18053’ to 20530" Definitive Survey fe eerie
+Geodetic Report
+(Non-Def Survey)
+Foport Date: December 08 2014 - 08:38 AM Survey! DLS Computation: Mumm Curvature Linki
+Cant Cass Palau ‘artical Section Azimuth: 91.890 + Trua Noch}
+Fiat INO. McKenzie Counly (NAD 83 NZ) Oasis 2014 Vartieal Setion Origin: 8.900 000
+(Cass 3059000 Wada Federal 5300 41-20 Pah Pallerson 482 40) peterenee Dat:
+Structure Sot: ass 00 1SEN TOOW (Wade Fe TVD Reteranee Dat Ke sat
+wat ‘Wade Federal 8300 41-30 477 TWO Reterance Elavaion: 207.000 1 above MSL
+Borehole: sv Seabed Ground Elevation; 2045.000Il above MSL
+wir api Ursnvan Uren Magnetic Dactination: 8.295"
+Survey Name: ‘Wade Federal 8300 41-9047 S72 18055"lo 20550 Dafne Tolal Gravity Field Strength: 1000.0448rngh (9.20865 Based)
+Survey Dale: December 05.2014 Gravity Modet: aru
+Tort? AHO! ODL ERD Ratio: 294.164 7! 10108.824 1 6.744 0.920, Total Magnetic Field Strength: 58237.474 oT
+Goerdinate Retorence Syslem: WADS3 North Dakola Site Plane. Never Zane, Fes: Magnelio Dip Angle: 72904
+Lecation Lal Long: 49° 2 28.32000". W103" 36 10:82000" Destination Date Decarber 05.2014
+Location Grid WE ¥X 1 396087.82611 € 1209842:216 Magnelio Dacination Model; 8GGM2014
+ORS Grid Convergence Angie: -2.2081 North Rotarence True North
+Gria Seale Factor asosno613 Grid Convergence Used: o.oo
+7 Total Coer Mag Nonh->True
+Version  Palete: 2as720 fata 8.2053
+Local Coord Relorenced To: Well Hew!
+comments wo tel Aim Tru wo vse NS ew DLS Northing Easting Latitude Longitude
+ts 9 3 es cn im eh 100m i w=) ew =
+TenieSTT Bo Oo Tae al Toast Tara TEs Tart NA SOWETS8 —TAT12 Nae 20606 Wits 36 2a
+Bagh 512 soee.c0 eo70 sot towseos 752828 wuts 751870 zie souss7og ai7idatt WW 4B 22507 W109.842017
+ssi00.00 28.4 so71 ——1o8sa.s3 7580.8 328.36 758170 403 So44s5.52 121717407 Ni 4a 22505 W 10826 1969
+8191.00 29.28 904s 10860.10 758035 32887 7592.69 2a So4dsa.95 121720503 N 4a 22505 W 10836 19.24
+1816300 2334 S100 0860.50 ran 329.08 yas 174 39485226 421723698 N48 22506 w 102.94 98.77
+18259.00 28.58 Sios —toast.27 mina 320.75 06s oa © So4a4eao 121733270 Ni 4a 22504 W 10826 17.95
+18354.00 9022 soa 0862.20 73122 322.00 7a08 64 fer aadeenes 42174274 N48 22503 W 102.9415.
+18988.00 soa sor2 —voa6a.t1 7asi27 322.16 yaa 64 112 54e40.20 21745981 N48 22503 W 102.94 15.49,
+8449.00 a1 anos 10867.05 ya07 23 322.19 700.63 Yes a54a5783 421767254 N48 22503 W 102.9414.
+8474.00 9078 anao 0860.85 yos221 32207 7028.62 Sei 50649575 1217547.52 Ni 4a 22503 W 10826 1419
+1854.00 a1 any) 0860.15 002.14 331.58 7998.60 17 ag4a0442 421761745 N48 22503 W 102.94 1.16,
+1887800 23.08 sneo 1085897 8034.12 331.41 2027.60 Tao $0390 121764044 N48 22503 W 10826 1269
+8840.00 2318 aus? 108s0.95 8098.07 331.16 0.69 oat Soang7 121771358 N 4a 22503 W 10896 1.75
+1873500 ean aur 0862.22 8192.98 sand 13858 11 aa4az74G 421780828 N43 22504 W 102.94 70.35
+8290.00 eras anes = 10868.87 8287 38 32052 2281.50 020 © Sond2416 121700316 Ni 4a 22504 w 10334 206
+1887.00 28.02 soos 10867.05 2128.78 329.65 e227 1a7 39442298 4217H44.11 N48 22505 W 10394 8.5,
+18967.00 2.20 s7si 1087021 8424.58 327.22 4108 130 S4421.78 121EDMDO4 N48 22507 W 10394 6.08
+9062.00 2382 sass 1087210 951033 324.05 ania 151 a54azi.09 421818502 N48 22510 Wi03a4 5.58
+1916800 ona? 820, 1087203 8818.15 321.16 00.27 115447010 4218250.00 N48 22513 Wit3a4 4.13,
+9252.00 9022 9025 10871.38 70004 31985 870025 221 SoMi759121ER2496 Ni 4a 22514 wi0s34 275
+9247.00 2327 anes 1087285 02 98 319.80 7824 205 So41385T2I8ET9.8G Ni 4a 22514 Ww 10334 1.95
+1944300 2318 an20 © 10ar4.c2 saan 87 31863 280421 Oo — So4at095 © 121e615.70 Ni 4a 22515 W 1083.59.08
++9598 00 oad sn28 0874.97 2092.77 31780 0a? 20 134 ased0a4d 4218608 75 N48 225.16 w 102.23 58.57,
++9890.00 ona sos? 1057425 90e8.71 31747 90g. 137 asaa0478 —21e70287 N48 22517 w 108.9357.19
+19725.00 ear s038 —10572.98 18.68 31826 ov7819 oa7 — So440016 © 1218797.55 Ni 4a 22516 W 108335579
+s9e12.00 e337 9225 105r4.18 9268.67 320.26 926018 215 Sorgodas © T2ieeed36 N48 22514 W 10333 5451
+“9908.00 a1 s138 1087.00 9362.68 323.23 9367.10 2oo — Sorae7.91  Y2ig07a10 Ni 4a 22511 W 108335219
+2000.60 93a S148 1087.63 9458.65 325.58 9451.08 450 35381.78 2i9071.88 N48 22508 w 102.2351.74
+20094.00 ea sosz 1057478 9550.64 32730 9548.05 03 384376.27 2i91a5.72 N48 22507 w 102.9350.36
+2180.00 e320 soos 1087.45 9848.50 327.85 940.03 Yeo 3537190 421928059 N43 22506 w 102.23 48.06,
+oze4.c0 esa aus0 1087571 9740.9 32750 9738.00 Vor asiganee —4219955.50 N48 22507 w 102.93 47.57
+0378.00 28.54 aves 1087705 983431 324.96 9828.94 Yeo ag6717  12I9M0.45 N48 22509 w 102.23 46.18,
+asl ST2 Survey 20457.00 ess eran 10570.65 so1a07 321.83 007.36 oa — Sotse7s2 121987849 N 4a 225-12 W 108304802
+ProelantoBt 2059000 ess eras toast.61 soes.e1 31823 nea 74 0.00 S043a7.78 121960140 N 4a 22515 W 108304205
+survey Type Non-Dat Survey
+Survey Error Model: 'SCWSA Rev 03:0 95.000% Cortierece 27055 sigma
+Survey Program
+MDFrem MD To EOU Freq Hole Size Gasing Diameter
+Deseriation Pat Survey Too! Type Borehole Surve
+et om oy io) a) "Teo >
+TTT apna eas Saab Boma SLE MWD-STD Dapin Ory Shainal Holey Wade Federal —
+1 0.000 sana “08.425 so.ona 30000 SLB_MWD.STD Depth Orly cual HOe Wade Federal
+3 “1 Ongynal Hole # Wade Federal
+1 seona seona el Stes 0.000 30.000 SLB_MWD-STDDepih Orly gonmaltioe Wate ee
+“ “ . Onginal Hoe # Wade Federal
+1 szooo 11270000 sel Sins 0.000 soona sua Mwo-sTo ee ettane te
+“ “ 5 S71 Wade Federal 8300 4130
++ vr2ro.go0 ——18058.000 sel Sins 0.000 soona sta. Mwo.sTo 1 Wade Federal S300 41
+7. “ 5 5 ‘872 / Wade Federal 8300 4130
++ 8053.00 20887.000 sel Sins 0.000 soona sta. Mwo.sTo 2 Wale Federal 8300 41
+. “ 5 ' ‘872 Warde Federal 8300 41-30
+1 2nés7.000 ——zosae.000 sel Sins 0.000 gogo SLE _BLINDsTREND aireetietrneon
+Drilling Office 2.8.572.0 Wade Federal 5300 41-30 #7T\ST2Wade Federal 5300 41-30 #7T ST2 18053' to 20530' Definitive ‘12/8/2014 8:39 AM Page 1 of 1
+
+> SUNDRY NOTICES AND REPORTS ON WELLS - FORM 4__
+Gees INDUSTRIAL COMMISSION OF NORTH DAKOTA < “39
+a> OIL AND GAS DIVISION ans 2}
+sh 6} © 600 EAST BOULEVARD DEPT 405 & a. 28587
+Lae? BISMARCK, ND 58505-0840 ue 2
+SN 5749 (09-2008) i REceney BS
+HOLS sy
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM. 7. ot ay
+PLEASE SUBMIT THE ORIGINAL AND ONE COPY. 2s N
+SOO TS”
+Notice of intent (0 oriting Prognosi (1 spill Report
+September 1, 2014 2 Reatilling of Repair CO shooting
+(7 Report of Work Done Casing or Liner CO Acidzing
+CO Plug Weil (Fracture Treatment
+JJ Notice of intent to Begin 2 Workover Project that may Quality (2 Supplemental History (1 change Production Method
+for a Tax Exemption Pursuant to NDCC Section 57-51.1-03, R
+Approximate Start Date (0) Temporarily Abandon (1 Reclamation
+C2 other
+Well Name and Number 24-HOUR PRODUCTION RATE
+Wade Federal 5300 41-30 7T. [__@efoe er
+87 Su 280 We 3o_| 153N | t00w
+Field Poa County [ces MCF] Gas mcr]
+Bakken McKenzie
+a
+DETAILS OF WORK
+Oasis Petroleum respectfully requests to revise the casing plan for the subject well as follows:
+13 3/8" 54.5# surtace casing will be ran to 2,050"
+Contingency 9 5/8" 40# will be ran to 6,400' in order to isolate the Dakota
+7" 32# intermediate casing will be ran to 11,041°
+4.5" 43.5# liner will be ran to 20,590"
+Attached is a revised drill plan, directional plan/plot and well summary.
+Company ‘Telephone Number
+Oasis Petroleum North America LLC 281-404-9491 FOR STATE USE ONLY
+Address
+{001 Fannin, Sute 1500
+buston Tx 77002 FSESY
+natu " ; Printed Name By -
+PRR AG At Brandi Te! LH  f
+Regulatory Specialist July 30, 2044 Petroleum Resource Specialist
+Email Address
+bterry@oasispetroleum.com
+
+SRLS FAN
+OPERATOR ‘COUNTYISTATE
+WELL NAME —_— RG
+WELL TYPE
+LOCATION Sarasa vocaon (survey pig
+est. 7.0. ‘GROUND ELEV: a aigre
+Sroreree S29 aaa KB ELEY.
+[MARKER we ‘Subsee TVD]LOGS: Te Eo
+COM Logs Rae Lag waver Date on he ede Feowat $900 2° 20H Z SE of sxtce
+— to 920 locaton
+oreertom pyres . CALGR Above tp O camBGR 10 ine of categ
+ory peed MWD GR KOP © utera TO
+Dakota $81
+eran a0? DEVIATION: Ea Teg “0 7 Goy_T0 sry every SOT
+ICunnam Sot oe Prod Seng an 1 369 0D. ry every 107
+Duma Sa Gase ena
+Pare Sok 7208
+Pine Sar Bave rs
+Opec Sat am
+|Opacre Sat Base ran
+larmsoen ras
+yer am
+lonertase Merete ret Jjesre Tos ee
+ktoey Live ae
+cranes Sax oats cORES: ‘Rone pies
+Base Last San e189
+Mission Canyon ow
+eagepoe am
+Fateo Bakxon 10888
+per Bakken Shate ery TOCSY tar Sea FAT aha bay
+rae Baker 10.083 : ‘9 samenes m eve and inal
+Lower Elkton Shale ron
+Pronghom 1728
+treeatoris 1078
+Trrvetorisop of Target som
+rrrwatores: Base of “arget 1070
+csystore 10.70 BOP: TT SOB be bind poe & wear
+—_ |__|
+[Max Anticipated BHP: TT Stace Formation: Gigcwmt iy
+Surtace: 2 205 Pawan Lm Somes aero ae NC weed Tar
+iterate: nose ioe “cat ss106 “350 soviet (rc Mud Tanks
+ateral roe p00 Sena a5102 paes iy ic tat Fans
+CHING: Sa Woot Hal Death m0 WK erat
+Surace She Er ie 2080 Te sure 2 sors Pe
+nermecsste Dokcte) red os wa BOT to Stace Es Sat Grong seas Dane
+Intemeaate r Er sue ter set a 1500 above Oat
+Praducton Loar as 1380 . 7a580 eee 50 shove KO
+OTH CJ ery PES FEW SIR Evy
+sunce 28 2480 : ‘Survey Company
+Kor uid Rate now
+coe wea
+Casog Foi - 424
+Mee Banton Unters 7D we
+\Gemenenta:
+Resuent tw wyaices Nasiad an Se WiNae Boer S208 PE ADH SKN Stan a aie
+io Fac sinng planned
+[38 packers and 25 sleeves planned 3 BAM fee 10% ceramic
+68596-30-5 Prin ary Name: Featn, toeeat) GOAZER4E (Pare ery Nom ni Fusies copay Ne- 268476502 (Bovway News Fear a Me 2}
+SHAT6 11 3 (Promacy Nowe Face sty Me 418008 206 (Prnary Nowe: Kerascnel
+
+Oasis
+
+Indian Hills
+
+153N-100W-29/30
+
+Wade Federal 5300 41-30 7T
+
+Wade Federal 5300 41-30 7T
+
+Plan: Design #1
+
+Standard Planning Report
+19 May, 2014
+
+Oasis Petroleum
+Planning Repon
+Database: OpenweisCompass - EDM Prod Local Co-ordinate Reference: Well Wada Federal $300 41-30 7T
+‘Company: Oasis ‘TVD Reference: WELL @ 2070.08 (Onginal Wall Elev)
+Project: Indian Hills MD Reference: WELL @ 2070.0f {Onginal Weil Elev}
+She: 453N-100W-29/90 North Reference: Tre
+Wont: Wade Federal $300 41-30 7T Survey Calculation Method: Minimum Curvature
+Welbore: Wade Federal 5300 41-30 7T
+Design: Design #1
+Project indian Hits
+Map System: US State Plane 1983 ‘System Datum: Mean Sea Level
+| Geo Datum: North Amencan Datum 1983 '
+Mapzone: Nonh Dakow@Nonbem fone
+She 153N-100W-29/30
+‘Site Position: Northing: 395,521.43 Latitude: 4B* 2 32.580N
+From: LavLong Easting: 1,209,621.64ft Longitude: 103" 36° 11.410 W
+Position Uncertainty: OO Slot Radius: 13.2000 Grid Convergence: 2.31"
+‘Well Wade Federal $300 41-30 7T
+Wall Position +S 431.7 ft Northing: 395,088.50 Latitude: 48° 2 28.320N
+SEW 40.1 Exating: 1,209,644.2" tt Longitude: 103" 36° 10.820 W
+Position Uncertainty 0.01 — Walthead Elevation: Ground Level. 2.0450
+‘Wellbore Warde Federal $300 41-30 7T
+Magnetics ‘Modet Name Sample Date Declination Dip Angie Field Strength
+0 0 on
+IGRF200510 ya2e2014 ang 72.95 56,489
+Design Design #1
+Audit Notes:
+Version: Phase: PROTOTYPE Tie On Depth: 00
+Vertical Section: Depth From (TVD) +18 ow Direction
+tn) a] ao Ls]
+00 0.0 i) 91.85
+' Plan Sections
+Measured Vertical Dogleg ‘Buld Tum
+Depth — inclination Azimuth Dept es ew Rate Rate Rats Tro
+a] Li] De] ou) Ds] Bu] heen Coen) (Htem Ful Target
+oo 0.00 0.00 00 oo 00 0.09 0.00 0.00 0.00
+2050.0 0.00 000 = 2.0500 oo 00 000 0.00 9.00 0.00
+2,060.0 0.50 9000 2,060.0 oo 00 500 5.00 0.00 90.00
+8.9256 0.50 9000 89253 0.0 60.0 0.00 0.00 0.00 0.00
+8.9356 0.00 000 = 8,935.3 00 60.9 5.00 “5.00 0.00 180 00
+100003 0.00 0.00 10.000.0 00 60.0 0.00 0.00 0.00 0.00
+10,292.8 0.00 0.00 10.292.5 00 60.0 00 0.00 0.00 0.00
+11.039.9 89.65 412.38 10,7700 7180.7 498.8 1200 12.00 0.00 11238
+11,041.2 89.65 11238 10.700 $181.2 500.0 2.00 0.00 0.00 0.00
+41.782. 99.65 9000 107746 3244 4,222.4 302 0.00 -3.02 269.93
+20590.1 89.65 9000 10.8784 “324.1 10.0300 0.00 0.00 0.00 0.00
+RTUEUEA bo tN Page 2 COMPASS Biot! * Bisa 0
+
+Oasis Petroleum
+Planning Report
+Database: OpenWellsCompass - EDM Prod Local Co-ordinate Reference: Well Wade Federal $300 41-30 7T
+Company: Oasis ‘TVD Raterence: WELL @ 2070.0 (Ongmnal Well Elev)
+Project: ledian Hilts MD Reference: WELL @ 2070.0 (Onginal Well Elev)
+Site: 153N-100W-29/30 North Reference: Tre
+Wel: Wade Federal 5300 41-30 /T Survey Calculation ethos: Minimum Curvature
+Wellbore: Wade Federal 5300 41-30 7T
+Oesign: Desiga #1
+Planned Survey
+Messured Vertical Vertical Degleg Build Tum
+Cepth —nciination Azimuth Oogth ws +64 ‘Section Rate Rate Rate
+(n) () ° (i my ‘ny ™ ¢ri0em ——c/te0m) nn
+00 ooo 0.00 00 0.0 00 00 0.90 0.00 0.00
+100.0 0.00 0.00 100.0 0.0 oo 00 0.00 0.00 0.90
+200.9 0.00 0.00 200.0 0.0 09 oo 0.00 0.90 0.00
+300.9 000 000 200.0 oo 09 09 0.00 0.00 0.00
+400.9 0.00 0.00 400.0 00 00 09 0.00 0.99 0.00
+500.0 000 000 500.0 00 09 oo 0.90 2.00 0.00
+600.0 0.00 0.00 600.0 00 oo 09 0.00 0.00 0.90
+700.0 0.90 0.00 700.0 00 09 oo 000 0.00 000
+800.0 0.00 0.00 800.0 00 0.0 oo 0.00 0.00 0.90
+900.0 0.00 0.00 300.0 00 09 oo 0.00 0.00 0.00
+1,000.0 0.00 000 1,000.0 00 09 09 0.90 0.00 0.00
+1,100.0 0.00 900 1,100.0 00 0.0 oo 0.90 0.00 0.00
+1,200.0 0.90 0.00 1,200.0 oo 90 00 0.00 0.00 0.00
+1,300.0 0.00 0.00 1,300.0 00 oo 00 0.00 0.00 0.00
+1,400.0 0.00 0.00 1,400.0 00 09 oa 0.90 0.00 0.00
+1,800.0 000 000 1,500.0 0.0 09 09 0.00 0.00 0.00
+1,600.0 0.00 0.00 1,600.0 09 09 09 0.90 0.00 0.90
+1,700.0 0.90 2.00 1,700.0 09 0.0 oo 0.00 0.90 0.0
+1.300.0 0.00 000 1,800.0 00 09 09 0.90 0.90 0.00
+1,900.0 0.00 0.00 1,900.0 09 09 09 0.00 0.00 0.90
+1,920.0 0.90 0.00 1,920.0 00 09 oo 0.00 0.00 0.90
+Pere
+2,000.0 0.00 0.00 2,000.0 00 09 00 0.90 9.00 0.90
+2020.0 0.00 900 2,020.0 00 00 oo 0.90 0.90 0.00
+Start Buid 5.00
+2.03.0 0.00 0.00 2,030.0 00 00 09 0.00 0.00 0.00
+Start 6865.6 hold at 2030.0 MD
+2,050.0 0.00 0.00 2,050.0 00 Cr) cy 0.00 0.00 0.00
+ase
+2,060.0 0.50 90.00 2,060.0 00 0.0 09 5.00 5.00 0.00
+2,100.0 050 90.00 2,100.0 oo 04 o4 0.90 0.00 0.00
+2200.0 0.50 90.00 2,200.0 09 13 13 0.00 0.00 0.00
+2,300.0 0.50 90.00 2,200.9 oo 24 24 0.90 0.00 0.00
+2,400.0 0.50 90.00 2,400.0 oo 30 3.0 000 0.00 000
+2,500.0 0.80 90.00 2,500.0 00 39 39 0.00 0.00 0.00
+2,600.0 0.50 90.00 2,600.0 090 48 48 0.90 0.00 0.00
+2,700.0 oso 90.00 2,700.0 0.0 56 58 0.00 0.00 0.00
+2,800.0 080 90.00 2,800.0 00 65 65 0.90 0.00 0.00
+2,900.9 0.80 90.00 2,900 0 09 74 74 0.00 0.00 0.00
+| 3,000.0 0.60 90.00 3,000.0 oo 82 a2 0.00 0.00 0.00
+' 3,100.0 9.80 90.00 3,100.0 0.0 94 94 0.00 0.00 0.90
+3,200.0 0.50 90.00 3,200.9 09 100 10.9 0.00 0.00 0.00
+3,300.0 ose 90.00 3,300.0 00 109 109 0.90 0.90 000
+3400.0 050 90.00 3.3999 0.0 "7 WW? 0.00 0.90 0.00
+3,800.0 0.80 90 00 3,499.9 00 126 126 0.90 0.90 0.00
+' 3,800.0 050 90.00 3.599.9 0.0 135 135 0.00 0.99 0.00
+3,700.0 080 90.00 3,699.9 a0 144 143 9.00 0.00 0.00
+3,600.0 0.50 90.00 3799.9 0.0 18.2 152 9.00 0.00 0.00
+3,900.0 0.50 90.00 3,898.9 00 16.4 161 0.00 0.00 0.00
+4,000.0 0.50 90.00 3,999.9 0.9 170 170 0.00 0.00 0.00
+4,100.0 0.50 90.00 4.099.9 oo 178 178 0.00 0.00 0.00
+4,200.0 0.50 90.00 4,199.9 oo 1a7 187 0.00 0.00 0.00
+4,300.0 a50 90.00 4.2099 00 196 196 9.00 9.00 0.00
+4,400.0 0.50 90.00 4,399.9 09 205 205 0.00 0.90 0.00
+4,500.0 9.50 $0.00 4,499.9 oo 213 213 9.00 0.00 0.00
+RTM DEEZ Page 4 COMPASS 5050 * BL WF
+
+Oasis Petroleum
+Planning Report
+Detebase: CpenWellsCompass - EDM Prod Local Co-ordinate Reference: Wed Wade Federal 5300 41-30 77
+Company: Oasis ‘TVD Reference: WELL @ 2070.0 (Onginal Well Elev)
+Project: Indian Hilts MD Reference: WELL @ 2070.0ft (Orginal Well Elev)
+Stte: 153N-100W-29/30 North Reference: True
+Wel: Wade Federal 5300 41-30 7T ‘Survey Calcudetion Method: ‘Minimum Curvature
+Welltore: Wade Federal 5300 41-30 7T
+Design: Design #1
+Planned Survey :
+I
+Meacured Vertical Vertical Dogleg ‘Build Tum
+Depth Inclination Azimuth Depth WS EW ‘Section Rate Rate Rate .
+i) iv) oO a ro) (my ry CAoeR) (CH00r% (noon)
+4,566.1 050 90.00 4,566.0 00 219 21g 0.00 0.00 0.00
+Greenhom
+4,600.0 0.50 90.00 4599.9 0.0 22.2 22.2 0.00 0.00 0.00
+4,700.0 0.50 90 00 4699.9 0.0 23.1 23.4 0.00 0.00 0.00
+4,800.0 050 9000 4,799.9 00 24.0 23.9 0.00 0.00 0.00
+4,900.0 050 90.00 4,899.9 00 24.8 24.8 0.00 0,00 0.00
+4969.1 050 90.00 4,969.0 00 24 254 0.00 0.00 0.00
+Mowry
+$000.0 0.50 90.00 4,999.9 0.0 26.7 28.7 0.00 0.00 0.00
+5,100.0 0.50 90 00 5,099.9 0.0 26.6 26.6 0.00 0.00 0.00
+5,200.0 0.50 90.00 5,199.9 00 274 274 0.00 0.00 0.00
+5,300.0 0.50 90.00 5,298.9 00 28.3 28.3 0.00 0.00 0.00
+5,391.1 0.50 90.00 5,391.0 00 231 23.1 0.00 0.00 0.00
+Dakota
+6,400.0 0.50 90 00 5,399.9 00 29.2 29.2 0.00 0.00 0.00
+5,500.0 050 90.00 5,499.9 00 304 30.0 0.00 0.00 0.00
+5,600.0 0.50 90.00 5,599.9 00 09 30.9 0.00 0.00 0,00
+5,700.0 0.50 90 00 5,699.9 0.0 ns a8 0.00 0.60 0.00
+5,800.0 0.50 90.00 5,799.9 0.0 327 32.7 0.00 0.00 0.00
+5,900.0 0.50 90.00 5,899.9 00 33.6 35 0.00 0.00 0.00
+6,000.0 0.50 90.00 5,999.8 0.0 wa WA 0.00 0.00 0.00
+6,100.0 0.50 90.00 6,099.8 ie) 3563 35.3 0.00 0.00 0.00
+6,200.0 0.50 90.00 6,199.8 0.0 362 32 0.00 0.00 0.00
+6,300.0 0.50 90.00 6,299.8 0.0 7.0 37.0 0.00 0.00 0.00
+6,400.0 0.50 90.00 6,399.8 0.0 Wg 379 0.00 0.00 0.00
+6.407 2 080 90.00 6,407.0 00 Ke) 36.0 0.00 0.00 0.00
+Rierdon
+‘ 6,500.0 0,50 90.00 6499.8 0.0 8 3B 0.00 0.00 0.00
+6,600.0 0.50 90.00 6,599.8 oo 307 396 0.00 0.00 0.00
+6,700.0 0.50 90.00 6,699.8 00 40.5 40.5 0.00 0,00 0.00
+6,800.0 0.50 90.00 6799.8 0.0 414d 414 0.00 0.00 0.00
+6,896.2 0.50 90.00 6,896.0 0.0 422 422 0.00 0.00 0.00
+| Ounham Salt
+6,900.0 0.50 90.00 6,899.8 0.0 42.3 42.3 0.00 0m ooo
+6,942.2 0.50 90.00 6,942.0 00 426 426 0.00 0.00 0.00
+OCunham Sak Base
+| 7,000.0 050 9000 6,999.8 00 43.2 431 0.00 0.00 0.00
+7100.0 0.50 90.00 7,099.8 0.0 44.0 44.0 0.00 0.00 0.00
+7,200,0 0.50 90.00 7,199.8 0.0 4g 449 0.00 0.00, 900
+7,208.2 0.50 90.00 7,205.0 00 449 44g 0.00 0.00 0.00
+Pine Satt
+7,229.2 0.50 90.00 7,229.0 00 45.2 45.4 0.00 0.00 0.00
+Pine Salt Base
+7292 0.50 90.00 7,291.0 00 45.7 457 0.00 0.00 0.00
+Opeche Sait
+| 7,300.0 0.50 90.00 7,299.8 oo 458 457 9.00 0.00 0.00
+7371.2 0.50 90.00 TID 00 4 464 0.00 0.00 0.00
+Opeche Salt Base
+7,400.0 0.50 90.00 7,399.8 oo 466 466 0.00 0.00 0.00
+7,500.0 0.50 90.00 7,499.8 0.0 475 ars 0.00 0.00 0.00
+7,600.0 0.50 90.00 7,598.8 00 48.4 464 0.00 0.00 0.00
+7,615.2 0.50 96.00 7,615.0 ike) 48.5 485 0.00 0.00 0.00
+Amsden
+7,700.0 9.50 90.00 7,699.8 0.0 49.3 49.2 0.00 9.00 0.00 |
+wrancotd 8 4071PM Puget COMPASS 50.00 * Busi B54
+
+Oasis Petroleum
+Planning Report
+Database: ‘OpenWeltsCompass - EDM Prod Local Co-ordinate Reference: ‘Well Wade Federal 5300 41-30 7T
+Company: Ossie TVD Reference: WELL @ 2070.0f (Onginal Well Elev)
+Project: Indian Hitts MO Reference: WELL @ 2070.08 (Orginal Well Elev)
+‘Site: 153N-100W-29/30. North Reference: Tre
+Wea: Wade Federal 5300 41-30 7T ‘Survey Calculation Method: Minimum Curvature
+‘Wollbore: Wade Federal 5300 41-30 7T
+Design: Design #1
+Planned Survey
+Measured Vertical Vertical Dogg Build Tum
+Depth Inclination Azimuth Depth m8 Ww ‘Section Rate Rate Rate
+nm a 0 " * {ft C) cieen) cHoony cH00n)
+VTA 0.50 90.00 VITO 0.0 49.9 499 0.00 0.00 0.00
+Tyler
+7,800.0 0.50 90.00 7799.8 a0 50.1 50.1 0.00 0.00 0.00
+7,900.0 0.50 90.00 7,899.8 0.0 51.0 51.0 0.00 0.00 0.00
+7,994.2 0.50 90.00 7994.0 0.0 518 518 0.00 0.00 0.00
+(OtterBase Mioneiuss
+8,000.0 0.50 30.00 7,999.8 0.0 519 519 0.00 0.00 0.00
+8,100.0 0.50 90.00 8,099.8 0.0 52.8 52.7 0.00 0.00 0.00
+8,200.0 0.50 90.00 8,199.8 0.0 53.6 536 0.00 0.00 0.00
+8,300.0 0.50 90.00 8,299.8 0.0 45 5 0.00 0.00 0.00
+6,336.3 0.50 90.00 8,336.0 0.0 8 8 0.00 0.00 0,00
+Kibbey Lime
+8,400.0 0.50 90.00 8,399.8 0.0 55.4 $5.3 0.00 0.00 0.00
+8484.3 0.50 90.00 8,484.0 0.0 56.1 56.1 0.00 0.00 0.00
+Chartes Sait
+8,500.0 0.50 90.00 BAR 0.0 56.2 56.2 0.00 0.00 0.00
+8.6000 050 90.00 8599.8 0.0 571 S71 0.00 0.00 0.00
+8,700.0 0.50 90.00 8,699.7 0.0 58.0 58.0 0.00 0.00 0.00
+8,800.0 0.50 90.00 8,799.7 0.0 58.9 58.8 0.00 0.00 0.00
+8895.6 0.50 90.00 8,895.3 8.0 59.7 5o7 0.00 0.00 0.00
+‘Start Drop §,00
+8,900.0 0.50 90.00 8,899.7 00 59.7 59.7 0.00 0.00 0.00
+8905.6 0.50 90.00 8,905.3 00 59.8 59.8 0.00 0.00 0.00
+‘Start 1094.7 hokd at 8905.6 MD
+8925.6 0.50 90.00 8,925.3 0.0 60.0 59.9 0.00 0.00 0.00
+8.9356 0.00 0.00 8,935.3 00 60.0 60.0 5.00 5.00 0.00
+9.000.0 0.00 0.00 8,999.7 0.0 60.0 60.0 0.00 0.00 0.00
+9,100.0 0.00 0.00 9,099.7 0.0 60.0 60.0 0,00 0.00 0.00
+9,163.3 0.00 0.00 9,163.0 0.0 60.0 60.0 0.00 0.00 0.00
+Base Last Salt
+9,200.0 0.00 0.00 9,199.7 oo 60.0 60.0 0.00 0.00 000
+9.300.0 0.00 0.00 9,299.7 0.0 60.0 60.0 0.00 0.00 0.00
+9.3773 0.00 0.00 9,377.0 00 0.0 60.0 0.00 0.00 0.00
+Miasion Canyon
+9400.0 0.00 0.00 9,399.7 00 60.0 60.0 0.00 0.00 0.00
+9,500.0 0.00 0.00 9,499.7 0.0 60.0 60.0 0.00 0.00 0.00
+9,600.0 0.00 0.00 9,599.7 0.0 60.0 60.0 0.00 0.00 0.00
+9,700.0 0.00 0.00 9.699,7 0.0 60.0 60.0 0.00 0.00 0.00
+9.8000 0.00 0.00 9,799.7 0.0 60.0 60.0 0.00 0.00 0.00
+9,900.0 0.00 0.00 9,899.7 0.0 60.0 60.0 0.00 0.00 0.00
+9926.3 0.00 0.00 9,926.0 0.0 60.0 60.0 0.00 0,00 0.00
+Lodgepote
+10.000.3 0.00 0.00 10,000.0 0.0 600 60.0 0.00 0.00 0.00
+‘Start 202.5 hold at 10000.3 MD
+10,100.0 0.00 0.00 40,099,7 0.0 60.0 60.0 0.00 0.00 0.00
+10,200.0 0.00 0.00 10,199.7 0.0 60.0 60.0 0.00 0.00 0.00
+10,292.8 000 0.00 10,292.5 0.0 60.0 60.0 0.00 0.00 000
+‘Start Bulld 12.00 KOP-
+10,300.0 0.86 112.38 10,299.7 00 60.4 60.0 12.00 12:00 oa
+10,325.0 2.86, 112.38 10,324.7 o4 610 61.0 12.00 12.00 0.00
+10,350.09 6.86 112,38 10,349.6 1D 63.2 63.2 12.00 12.00 0.00
+10,375.0 9.86 492.38 10,374 3 “2.7 665 66.6 12.00 12.00 0.00
+10,400.0 12.86 112.38 10,398.85 AG ‘an TAZ 12.00 1200 0.00
+16,425.0 15 86 31238 10.423 4 63 768 77.0 32.00 1200 000
+siapord 557 21M Page ® COMPASS 5090 § Buta &
+
+Oasis Petroleum
+Planning Report
+‘Database: OpenWellsCompass - EDM Prod Local Co-ordinate Reference: Well Wade Federal 5300 44-30 77
+Company: Oasis ‘TVD Reference: WELL @ 2070.08 (Onginal Well Eley)
+Project. Indian Hills MD Reference: WELL @ 2070.08 (Onginal Wall Elev)
+‘Site: 153N-100W-29/30 North Reference: True
+Wort: Wade Federat $300 41-30 7T Survey Calculation Method: Minimum Curvature
+Wellbore: Wade Federal 5300 41-30 7T
+Design: Design #1
+Planned Survey
+Meanured Vertical Vertical Dogleg Bul Tum
+Depth inclination Azimuth Bepth nes +E Section Rete Rate oo
+* bit] ie] * ff) tu) mm (i100) CrtooRy Cron)
+10.4500 18.86 112.38 10.446.9 98 837 84.0 12.00 12.00 0.00
+10,4750 21.86 112.38 10.470.3 131 ne 92.1 12.00 12.00 0.00
+10.500.0 (24.86 192.38 10.493,2 16.9 100.9 104.4 12.00, 12,00 0.00
+10.525.0 27.86 112.38 10,515.7, “21.1 199.2 18 12.00 12.00 0.00
+10,550.0 30.86 192.38 10,537.5 -257 122.5 123.3 12.00 12.00 0.00
+10,575.0 33.86 112.38 10.558.6 -8 134.9 135.8 12,00 12,06 0,00
+10,600.0 86 112.38 10,579.0 64 148.3 149.4 12.00, 12.00 0.00
+10.625.0 39 66 112.38 16,598.6 42.3 162.6 163.9 12.00 12.00 0.00
+10,650.0 42.86 112.38 10.617.3 48.6 A779 VO 12.00 12.00 0.00
+10,675.0 45.86 192.38 10,635.2 65.2 194.1 195.7 12.00 12.00 0.00
+10,700.0 48.86 112.38 10,652.1 62.2 2114 23.0 12.00 12.00 0.00
+10,705.9 49.58 112.38 = 10,656.0 3.9 2182 2172 12.00 12.00 0.90
+False Bakken
+10,724.9 $185 192.38 10.668.0 69.5 228.8 230.9 12.00 12,00 0.00
+Upper Bakken Shale
+10,725.90 51.86 192,38 10,668.1 69.5 228.9 234.0 12.00 12.00 0.00
+10,750.0 S486 112.38 10,683.0 77.2 2aT a 249.8 11,98 11.98 0.00
+Middle Bakken
+10,7780 $7.86 112.38 10.696.8 85.1 266.7 2693 12.02 12.02 0.00
+10,800.0 60.86 412: 38 10,709.6 93.3 286.5 289.4 12.00 12.00 0.00
+10,820.1 63.28 192.38 10,719.90 =100.1 03.0 306.1 12.00 12.00 0.00
+Lower Bakken Shale
+10,825.0 63.86 112.38 10,721.2 101.7 7.0 310.1 12.00 12.00 0.00
+10,841.1 65.79 112,38 10,728.0 107.3 320.5 323.8 12.00 12.00 0.00
+Pronghorm
+10,850.0 66.86 112.38 10,7316 110.4 326.0 3314 12.00 12.00 0.00
+10,875.0 69.86 112,38 10,740.68 2119.2 MOS 353.2 12,00 12.00 0.00
+10,884.6 71,01 112.38 10, 744.0 2122.7 78 16 12.00 12.00 0.00
+Threetorks:
+10,900.0 72.86 112.38 10,748.8 2128.2 a4 375.4 12.00 12.00 0.00
+10,925.0 75.86 112,38 10,755.5 -137.4 393.7 397.9 12,00 12.00 0.00
+10,950.0 78.86 112.38 10,761.0 146.7 418.2 420.7 12,00 12.00 0.00
+10,950.41 78.86 11238 10.761.0 2148.7 4163 4208 0.00 0.00 9.00
+Threotorks(Top of Target)
+10.975.0 81.86 192.38 10,765.2 ~156.1 439.0 443.8 12.03 12,03 0.00
+11,000.0 84.86 412.38 10,768.1 165.5 462.0 467.1 12.00 12.00 0.00
+11,025,0 87.86 192.38 10,769.7 +175.0 485.0 490.4 12,00 12,00 0.00
+11,039.9 29.65 11238 © 10,770.0 -180,7 498.8 504.4 12.00 12.06 0.00
+‘Start 1.3 hold at 11039.9 MD
+11,041.09 89.65 112,38 10,770.0 181.1 499.6 505.4 0.00 0.00 0.00
+: r
+1,041.2 89.65 112.38 10,770.0 181.2 500.0 505.6 0.00 0.00 0.00
+‘Start DLS 3.02 TFO 268.93 7 cag pt
+11084,7 69.65 112.38 10,770.0 182.5 503.3 508.9 0.00 0.00 0.00
+‘Thresforks(Bose of Target)
+11, 100.0 89.65 110.61 10,7704 -202.8 5547 561.0 3.21 0.00 “321
+11,200.0 89.65 107.59 10,771.0 -235.5 649.2 6565 3.02 0.00 -3.02
+*1,300.0 89.64 10457 10.7718 263.1 453 753.4 3.92 0.00 -3.02
+11,400.0 89.64 10158 10,7722 “288.7 27 8515 3.902 0.90 “3.02
+11,500.0 89.64 98.53 10,7728 -303.2 941.1 960.4 3.02 0.00 “3.02
+11,600.0 89.64 95.51 10,773.5 315.4 1,040.4 1,050.0 3.02 0.00 “3.02
+14,700.0 69.65 92.49 10,774.14 -322.3 4,140.1 1,149.9 3.02 0.00 302
+11,782.3 69.65 90.00 10,7746 324.1 1,222.4 1,232.2 3.02 0.00 3.02
+1 ‘Start $807.7 hold at 11782.3 MD. . _ __ . _
+seigmuts bas see Pages COMPASS 5060 + Buta P5
+
+Oasis Petroleum
+Planning Report
+Database: OpenwWellaCompass - EDM Prod Local Co-ordinets Reference: Wot Wade Federal 5300 41-30 7T
+Company: Oasis TWO Reference: WELL @ 2070.00 (Original Well Elev)
+Project: Indian Hits MD Reference: WELL @ 2070.00 (Ongnal Wot Elev)
+Ste: 183N-100W-29/30 North Reference: True
+Wolk: Wade Federal $300 41-30 7T ‘Survey Ceiculetion tkethod: Minimum Curvature
+Wellbore: Wade Federal 5300 41-30 7T
+Design: Design #1
+Ptaneed Survey
+Measured Vertical Vertical Dogleg Bund Tum
+Depth fectination — Azinwuth Depth ws +N ‘Section Rate Rate Rete :
+i) 0 tn) Ld a) i) i) CHo0n) Cron) cr00R)
+11,800.0 8965 90.00 10.7747 324.4 1,240.1 4.249.9 0.00 0.00 0.00
+1,900.0 89.65 90.00 10,775.3 “3244 1340.1 1,§M9.9 9.00 0.00 0.00
+12,000.0 89.65 90.00 10,7759 “324.1 1440.1 1,449.8 0.00 0.00 0.00
+12,100.0 89.65 90,00 10.7765 “324.1 1,540.1 1,549.8 0.00 9.00 0.00
+12,200.0 89.65, 90.00 10,7774 3244 1640.1 1,649.7 0.00 0.00 9.00
+12,300.0 89.65 9000 © 10.777.8 324.1 1.7404 1,749.6 0.00 0.00 0.00
+12,400.0 89.65 90.00 10,778.4 “3241 1,840.1 1,849.6 0.00 0.00 0.00
+12,500.0 29.65 90.00 10.779.0 324.1 1,940.1 1,949.5 0.00 0.00 9.00
+12,600.0 89.65, 90.00 10.779.6 324.1 2,040.1 2,089.5 0.00 0.00 0.00
+12,700.0 89.65 90.00 10,780.2 “3244 2,140.1 2149.4 0.00 0.00 0.00
+12,200.0 89.65 90.00 10.780.8 324.4 2,240.1 2.249.4 0.00 0.00 0.00
+12,900.0 89.65 90.00 10.7814 3244 2.3401 2,348.3 0.00 0.00 0.00
+13,000.0 8965 90.00 90.782.0 324.1 2,440.1 2,449.3 0.00 0.00 0.00
+13.100.0 89.65 90.00 10,782.68 324.4 2.5401 2.5492 0.00 0.00 0.00
+13.200.0 89.65 90.00 10.783.3 “324.1 2,640.4 2,649.2 0.00 0.00 0.00
+13,300.0 39.65 90.00 10,7839 “324.1 2,740.1 2,749.1 0.00 0.00 0.00
+13.400.0 99.65 90.00 10,7845 3241 2,980.1 2,849.1 0.00 0.00 0.00
+13.500.0 89.65 90.00 10.785.1 324.1 2,940.1 2,949.0 0.00 0.00 0.00
+13,600.0 89.65 90.00 10,785.7 324.41 3,040.1 3,048.9 0.00 0.00 0.00
+13.700.0 89.65 90.00 10,786.3 374) 3,140.1 3.1489 0.00 0.00 0.00
+13,800.0 89.65 90.00 10.786.9 32641 3200.1 3,248.8 0.00 0.00 0.00
+13.900.0 89.65 90.00 10.787 5 “324.4 3.34041 3,348.8 0.00 0.00 0.00
+44,000.0 89.65 90.00 10.788.1 “324.1 3,440.1 3,448.7 0.00 0.00 0.00
+14,100.0 89.65 90.00 10.7888 “3241 3,940.1 35487 0.00 0.00 0.00
+14,200.0 89.65 90.00 10,769.4 “326.4 3,640.1 3,640.6 0.00 0.00 0.00
+14,3000 89.65 90.00 10.790.0 324.1 3,740.0 3.7486 0.00 0.00 0.00
+16.400.0 89.65 90.00 10.790.6 “3044 3840.0 3,848.5 0.00 0.00 0.00
+14,500.0 89.65 90,00 10,7912 ~324.1 3,940.0 3.9485 0.00 0.00 0.00
+14,600.0 89.65 90.00 10,791.8 328.1 4.0400 4048.4 G00 9.00 0.00
+14,700.90 29.65 90.00 10,702.4 “4244 4140.0 4.1483 0.00 0.00 0.00
+14,800.0 89.65 90.00 10,793.0 328.41 4240.0 © 4,248.3 0.00 9.00 0.00
+\ 14,900.0 89.65 90.00 10,793.6 “324.4 4340.0 4.3482 0.00 0.00 0.00
+15,000.0 89.65 90,00 10,7943 “324.1 4480.0 4,448.2 0.00 0.00 0.00
+15,100.0 89.85 90.00 10,7949 328.1 4540.0 45481 0.00 0.00 0.00
+1,200.0 8965 90.00 10,795.5 -324.4 4640.0 4.8481 90.00 0.00 0.90
+15.300.0 89.65 90.00 10,796.1 324.4 4740.0 4,748.0 0.00 0.00 0.00
+15,400.0 89.65 90.00 10,796.7 3241 4,840.0 4,848.0 0.00 0.00 0.00
+15.500.0 89.65 90.00 10,797.3, 324.1 4940.0 49479 0.00 0.00 0.00
+15,600.0 89.65 90.00 10,797.9 “32a 5,040.0 5.0479 0.00 0.00 0.00
+15,700.0 89.65 90.00 10,7985 324.1 5140.0 5147.8 0.00 0.00 0.00
+15,800.0 89.65 90.00 10,799.2 -324.1 5240.0 5247.8 2.00 0.00 0.00
+15,900.0 89.65 90.00 10,798.8 “324.4 5.40.0 8.3477 9.00 0.00 9.00
+16,000.0 89.65 90.00 10,8004 “324.1 5440.0 5447.6 0.00 0.00 0.00
+16,100.0 89.65, 90.00 10,801.0 324.1 5540.0 5.5476 0.00 0.00 000
+18,200.0 89.65 90.00 10,801.6 324.1 5,640.0 5647.8 9.00 0.00 0.00
+16,300.0 89.69 30.00 10,802.2 324.1 5,740.0 8,747.5 0.00 0.00 0.00
+16,400.0 89.65 30.00 10,8028 324.1 5940.0 5847.4 0.00 0.00 0.00
+16,500.0 89.65 20.00 10,803.4 “3244 5940.0 5.9474 9.00 9.00 0.00
+16,6000 89.65, 90.00 10,804.0 “324.1 6060.0 6,047.3 0.00 0.00 0.00
+16.700.0 89.65 90.00 10,804.7 324.1 6140.0 —6.147.3 0.00 0.00 0.00
+16,800.0 89.65 90.00 10,805.3 “324.1 6240.0 6,247.2 0.00 0.00 0.00 |
+| 16,900.0 29.65 90.00 10,805.9 324.1 63400 © 6.3472 000 0.00 0.00
+17,000.0 89.65 90.00 10.806.5 324.1 6440.0 6.4471 0.00 9.00 000
+17,100.0 39.65 90.00 10.807.1 326.1 6540.0 6,547.1 0.00 0.00 0.00
+17,200.0 89.65 0.00 10.807.7 2324.1 66400 6,647.0 oo = oto 00 j
+nergzot4 557 uteM Page F COMPASS 5000 t Bova #5
+
+Oasis Petroleum
+Planning Report
+Catabase: OpenWallisCompass - EDM Prod. Locel Co-ordinate Reference: Well Wade Federal 5300 41-30 7T
+Company: Oasis TVD Reterence: WELL @ 2070.01 (Onginal Well Elev)
+Project: Indian Hits MD Reforence: WELL @ 2070.08 (Ongmal Well Elev)
+‘Site: 153N-100W-29/30 North Reference: Tre
+‘Welt: Wade Federal 5300 41-30 7T Survey Calculation Method: Minknum Curvature
+Wellbore: Wade Federal 5300 41-30 7T
+Design: Design #1
+Planned Survey :
+i !
+: Wensured Vertical Vertical Dogieg Bulla Tum
+Depth Inclination Azimuth Depth oN sEN Section Rate Rate Rate
+bu n oO fu] ry Cul ay CAoOR) CH0OR) (een)
+17,300.0 89.65 9000 10,808.3 W241 6,740.0 6,746.9 0.00 0.00 0.00
+17,4000 89.65 90.00 1,808.9 326.1 6.8400 6,846.9 0.00 0.00 0.00
+17.500.0 89.65 90.00 10,809.5 3241 6,940.0 6,946.6 0.00 0.00 0.00
+17.600.0 89.65 3000 10,810,2, 2241 7040.0 7,046.8 0.00 0.00 0.00
+17,7000 89.65 0.00 10.810.8 “3244 7,140.0 7146.7 0.00 0.00 0.00
+17.800.0 89.65 90.00 10,811.4 “324.1 7,240.0 7,246.7 0.00 0.00 0.00
+17,900.0 89.65 90.00 10,.812.0 324.1 7,340.0 736.6 0,00 0.00 0.00
+18.000.0 8965 90.00 10,812.86 “3244 7440.0 7,446.6 0.00 0.00 0.00
+18, 100.0 89.65 900 10,813.2, 324.1 7,540.0 7546.5 0.60 0,00 0.00
+18,200.0 89.65 90.00 10,813.86 “324.1 7,640.0 7,646.5 0.00 0.00 0.00
+18,300.0 89.65. 90.00 10,8144 -324,1 7,740.0 7746.4 0.00 0.00 0.00
+18,400.0 89.65 90.00 10,815.0 324.4 7,840.0 7,846.4 0.00 0.00 0.00
+18,500.0 89.65 90.00 10,815.7 324.41 7,940.0 7,946.3 0.00 0.00 0.00
+18,600.0 89.65 90.00 10,816.39 “324.1 8,040.0 8,046.2 0.00 0.00 0.00
+18,700.0 69.65 90.00 10,816.9 “3244 8,140.0 B1462 0.00 0,00 0.00
+18,800.0 89.65 90.00 10,817.5 324.1 8,240.0 8,246.1 0.00 0.00 0.00
+18,900.0 89.65 90.00 10.8181 “3244 8600 8.3461 0.90 0.00 0.00
+19,000.0 89.65 90.00 10,818.7 324.41 8,440.0 8446.0 0.00 0.00 0.00
+19,100.0 89.65 90.00 10,819.3 “324.41 8540.0 8546.0 0.00 0.00 0.00
+19,200.09 89.65 9000 10.8199 “3244 86000 8.6459 0.00 0.00 0.00
+19,300.0 89.65 90.00 10,820.5 324.1 8,740.0 8,745.9 0.00 0.00 0.00
+19,400.0 89.65 90.00 10,821.2 “324.1 8840.0 8,845.8 0.00 0.00 0.00
+19,500.0 89.65 90.00 10,828 3241 8,940.0 8945.8 0.00 0.00 0.00
+19,600.0 89.65 90.00 10.8224 “3244 9.0399 9,045.7 0.00 0.00 0.00
+19,700.0 89.65 90.00 10,823.0 22441 9,139.9 9,145.6 0.00 0.00 0.00
+19.800.0 89.65 90.00 10,823.6 3241 9,239.9 9,245.6 0.00 0.00 8.00
+19,900.0 89.65 90.00 10.824.2 3241 9,339.9 9,345.5 0.00 0.00 0,00
+1 20,000.0 89.65 90.00 10,824.68 3241 9,439.9 9,445.5 0.00 0.00 0.00
+20,100.0 89.65 90,00 1,825.4 3241 95389 9.5454 0.00 0.00 0.90
+20.200.0 89.65 90.00 10,826.1 3241 9,639.9 9645.4 0.00 0.00 0.00
+20.3000 89.65 90.00 10,8267 324.1 97399 9,745.3 0.00 0.00 0.00
+20,400.0 89.65 90.00 10,827.3 “3241 9,839.9 9,845.3 0.00 0.00 0.00
+| 20,500.0 89.65 90,00 19,827.9 “3241 9,938.9 9,948.2 0.00 0.00 0.00
+20,590.14 89.65 90.00 10,826.4 “324.1 10,030.0 10,035.2 0.00 0.00 0.00
+‘TD at 20500.1
+| Casing Points
+, Measured Vertical Casing Hole
+Depth Depth Diameter Diameter
+| Ba) my Nome fo) {ny fl
+1 2,050.0 2050.0 133/68" 13,375 17.500
+11,041.0 10.770.0 7" 7000 8.750
+tyentd S22 21PM Page 8 COMPASS 5050 + Buta 65
+
+Oasis Petroleum
+Planning Report
+Database: ‘OpenWellsGompass - EDM Prod Local Co-ordinate Reference: Well Wade Federal 5300 41-30 7T
+Company: Oasis TVD Reference: WELL @ 2070.08 (Onginal Well Elev)
+Project: Indian Hilts MD Reference: WELL @ 2070.0ft (Original Well Elev)
+Site: 453N-100W-29/30 North Raference: Tre
+‘Welt: ‘Wade Federal §300 41-30 7T ‘Survey Catculstion Method: Minimum Curvature
+Weltbore: Wade Federal 5300 41-30 7T
+Design: Design #1
+Formations |
+' Meneured Vertical Olp :
+Depth Depth Dip Direction
+i] ‘ny Name Lithology i) o
+1,920.0 1,920.0 Pierre
+4,566.1 4,566.0 Greenhom
+4,969.1 4,969.0 Mowy
+$391.1 5,391.0 Dakota
+6.4072 6,407.0 Riecdon
+6,996.2 6,896.0 Dunham Sat
+6,942.2 6.9420 Dunnam Sat Base
+7,208.2 7.205.0 Pine Satt
+7.2292 7.2290 Pine Saft Basa
+7,201.2 7,291.0 Opeche Sat
+73712 7.71.0 Opeche Saft Base
+78152 7.615.0 Amsden
+1IN2 TIT Tyler
+7,994.2 7,994.0 Otter/Base Minnetusa
+8,336.3 83360 Kibbey Lime
+0.404. 8.4840 Charles Sak
+9,163.3 9.1630 Base Last Sat
+9,377.3 9,377.0 Mission Canyon
+9,926.3 9,926.0 Lodgepote
+10.708.9 10,656.0 False Bakken
+10,724.9 10,668.0 Upper Bahken Shale
+10,750.0 10,683.0 Middle Bakken
+10,820.1 10.719.0 Lower Bakken Shale
+10,8411 10.728.0 Pronghom
+10,8846 10,7440 Threeforks
+: 10,950.1 10.761.0 Thresforks(Top of Target)
+11,044.7 10.770.0 Threeforks(Base of Target)
+| Plan Annotations
+Measured Vertical Local Coordinates
+Depa Depth 4 eT
+" Oa i) ra) Comment
+| 2,020.0 2,020.0 00 00 — Start Buid 5.00
+2.030.0 2,030.0 0.0 00 Start 6865.6 hold at 2030.0 MD
+8,895.6 8,895.3 00 60.0 Start Drop -5.00
+8,905.6 8,905.3 090 60.0 Start 1094.7 hold at 8905.6 MD
+10,000.3 10,000.0 oo 60.0 Start 292.5 hold at 1000.3 MD
+| 10,292.8 10,2925 a0 60.0 Start Bud 12.00 KOP
+11,039.9 10,770.0 -180.7 498.8 Start 1.3 hold at 11039.9 MO
+11,041.27 10,70.0 181.2 5000 Start DLS 3.02 TFO 269.93 7 osg pt
+11.7823 10,7746 324.1 1,222.4 Start 8807.7 nold at 11782,3 MD
+' 20,590.1 soemea 824s 39090.0 TO at 205001 _— _ _ _
+atauuta 547 u:PM Fags 9 COMPASS 51:90 1 Bute #5
+
+T 4 Azimuths to True North SITE DETAILS: 153N-100W-29/30
+Magnetic North: 8,18" sec qe ae Fda BDON
+ite Centre Latitude. ° 2"
+Magnetic Field pernoween Longitude: 103° 36" 10.820 W
+sre oe 12.0" Positional Uncertainity: 0.0
+Date: 1/28/2014 Project indian Hills Convergence: -2.31
+Model. GRF200510 ite: 153N-100W-29/30 Local North True
+Well Wade Federal 5300 41-30 7”
+Wellbore: Wade Federal 5300 41-30 7
+Setbacks Design Design #1
+500' N/S
+200° EW 1128
+‘Ee 3750: <
+= £ 750
+e 2
+3 | g
+2500: | Lay
+= = 375
+> +
+= arr FS $53 FSL S
+5 1250 280" FWA, 210 FEL 2 AL
+=~ ~ o
+z A 5 Wade Federal 5300 41-30 7T oN
+& ° Ware Foden sgo0 eta0@ 8 ss ~
+-1250 T
+2500, -1250 i 1250 2500 3750 5000 6250 7500 ‘8750 10000 11250 412500 “1125 +750 “378 i 375 750
+West(-)East(+) (2500 fvin) West{-)/East(+) (750 fvin)
+CASING DETAILS SECTION DETAILS
+9000: 1
+TvD MD Name Size MD Inc Azi x +E) I
+2050.0 2080.0 13/8" 13,375 O06 0.00 000 yO . ane Dieg
+1070.0 11041.0 7 7.000 2050.0 0.00 0.00 2056.0 0.0 0.0 888
+9450 2080.0 0.50 90.00 2060.0 00 00 5.00
+s 9925.6 0.50 90.00 8925.3 00 60:0 0.00
+a 8935.6 0.00 0.00 8035.3 00 60.0 5.00
+a 10000.3 0.00 0.00 10000.0 60.0 0.00
+= 9900 10292.8 0.00 0.00 1022.5 88 60.0 0.00
+8 Start 292.5 hold at 10000.3 MD 11039.9 89.65 112.38 10770.0 -180.7 498.8 12.00
+5 11041.2 89.65 112.38 10770.0 — -181.2 500.0 0.00
+11782.3 89.65 90.00 10774.6 © -324.1 1222.4 3.02
+gi0980 Start Bull 12.00 KOP 20590.1 89.65 90.00 10828.4 © -324.1 10030.0 0.00
+fS
+al
+10800 7 I I TD at 20590 1
+‘Start 6807 7 hold al 11782.3 MD.
+i} 600 1200 1800 2400 3000 3600 4200 4300 5400 6000 6600 7200 7800 8400 9000 9600 10200
+Vertical Section al 91.85°
+
+Oasis Petroleum
+Well Summary
+Wade Federal 5300 41-30 7T
+Section 30 T153N R100W
+McKenzie County, ND
+SURFACE CASING AND CEMENT DESIGN
+[TT Make-up Torque (f-tbs
+13-98" [_ 0’ to 2,050" 12.615" | 12.459"
+[“‘intervat_ [Description | Collapee | Burat,—|—Tension |
+Po os os (1000 tbs) ¢
+0’ to 2,050 13-8" 54.54, J-55, STC. 8rd 1130/1 18 2730/2.84 514/262
+API Rating & Safety Factor
+a) Based on full casing evacuation with 9 ppg fluid on backside 2,050’ setting depth).
+b) Burst pressure based cn 9 ppg fluid with no fluid on backside {2,050’ setting depth).
+¢) Based on string weight m 9 ppg fiud at 2.050’ TVD plus 100k# overpull. (Buoyed weight equals 96k Ibs.)
+Cement volumes are based on 13-3/8" casing set in 17-1/2" hole with 50% excess to circulate cement back to surface.
+Mix and pump the following slurry
+Pre-flush (Spacer): 20 bbts fresh water
+Lead Slurry: 596 sks (308 bbls) 2.9 yield conventional system with 94 Ib/sk cement, 25 Ib/sk D130 Lost
+Circulation Controt Agent, 2% CaClz, 4% 0079 Extender and 2% D053 Expanding Agent
+Tail Slurry: 349 sks (72 bbls) 1 16 yield conventional system with 94 ib/sk cement, .25% CaClz and 0.25 Ib/sk
+Lost Circulation Control Agent
+
+Oasis Petroleum
+Well Summary
+Wade Federal 5300 41-30 7T
+Section 30 T153N R1OO0W
+McKenzie County, ND
+CONTINGENCY SURFACE CASING AND CEMENT DESIGN
+pT TT Make-up Torque (Fibs
+oe | otoeaoo' | 40 | veo | irc | 883s" 7270 | 9.090
+[“wtervat [Description | Collapse | Burat_—|—Tension |
+es Ss >) (1000 tbs) ¢
+9-5/8", A0#. L-60, LTC. B10 837 /3.86
+API Rating & Safety Factor
+a) Collapse pressure based on 11.5 ppg fluid on the backside and 9 ppg fluid inside of casing.
+b) Burst pressure calculated from a gas kick coming from the production zone (Bakken Pool) at 9,000 psi and a
+subsequent breakdown at the 9-5/8" shoe, based on a 13.5#/ft facture gradient. Backup of 9 ppg fluid.
+
+¢) Yield based on string weight in 10 ppg fluid, (217k ibs buoyed weight) plus 100k Ibs overpull
+Cement volumes are based on 9-5/8" casing set in 12-1/4" hole with 10% excess in OH and 0% excess inside surface
+casing. TOC at surface
+
+Pre-flush (Spacer): 20 bbls Chem wash
+
+Lead Slurry: $92 sks (210 bbls) Conventional system with 75 Ib/sk cement, 0.5 Ib/sk lost circulation, 10%
+
+expanding agent, 2% extender, 2% CaClz, 0.2% anti-foam and 0.4% fluid loss agent.
+Tail Slurry: 521 sks (108 bbls} Conventional system with 94 Ib/sk cement, 0.3% anti-settling agent. 0.3% fluid
+loss agent. 0.3 Ibysk lost circulation control agent, 0.2% anti-foam and 0.1% retarder.
+
+Oasis Petroleum
+Well Summary
+Wade Federal 5300 41-30 7T
+Section 30 T153N R100W
+McKenzie County, ND
+INTERMEDIATE CASING AND CEMENT DESIGN
+a Sa GR OU UE OO Make-up Torque (ft-ibs
+O = 11,041" HGP-110 8970 9870
+“Special drift
+[Interval [Length [Description | Collapee |S Burat —|— Tension |
+po psi spb (1000 tb) ¢
+7°, 32H, HCP-110, LTC, 8rd 14820 / 2.14" 12460 1.28 807/224
+6.696 - 9,163" 7", 328, HCP-110, LTC. 8rd 11820/ 1.07" teaso7130 | i
+API Rating & Safety Factor
+a) “Assume full casing evacuation with 10 ppg fluid on backside. “Assume full casing evacuation with 1.2 psifft
+equivalent fluid gradient across salt intervals.
+b) Burst pressure based on 9000 psig max press for stimulation plus 10.2 ppg fluid in casing and 9 ppg fluid on
+backside-to 10,770’ TVD
+¢) Based on string weight in 10 ppg fluid, (290k Ibs buoyed weight) plus 100k
+Cement volumes are estimates based on 7" casing set in an 8-3/4" hale with 30% excess.
+Pre-flush (Spacer): 50 bbls Saltwater
+40 bbis Weighted MudPush Express
+Lead Slurry: 185 sks (85 bbls) 2.55 yield conventional system with 47 lb/sk cement, 37 Ib/sk 0035
+extender, 3.0% KCI, 3.0% D154 extender. 0 3% D208 viscosifier, 0.07% retarder, 0.2% anti-
+foam, 0.5 Ib/sk, D130 LCM
+Tail Slurry: 878 ske (168 bbls) 1.55 yield conventional system with 94 Ib/sk cement, 3.0% KCI, 35.0%
+Silica, 0.5% retarder, 0.2% Auid loss, 0,2% anti-foam and 0.5 Ib/sk LCM
+
+Oasis Petroleum
+Well Summary
+Wade Federal 5300 41-30 7T
+Section 30 T153N R100W
+McKenzie County, ND
+PRODUCTION LINER
+eS CON NY (SUNN SOO QO GRU
+Lat2'[so2a3~2050r [135 | esto [etc | 392 [3705 [aso
+[tmtervar_ [Description] cottapee | urt_— tension |
+a A
+API Rating & Safety Factor
+@) Based on full casing evacuation with 9 5 ppg fiuid on backside @ 10,828’ TVD
+Burst pressure based on 9000 psi treating pressure with 10.2 ppg intemal fluid gradient and 9 ppg externa!
+b) fluid gradient @ 10,828 TVD.
+c) Based on string weight in 9.5 ppg fluid (Buoyed weight’ 120k Ibs.) pius 100k Ibs overpull
+Oasis Petroleum does not use Diesel Fuel, as defined by the US EPA in the list below, in our hydraulic
+fracture operations.
+68334-30-5 (Primary Name: Fuels, diesel)
+68476-34-6 (Primary Name: Fuels, diesel, No. 2)
+68476-30-2 (Primary Name: Fuel oil No. 2)
+68476-31-3 (Primary Name: Fuel oil, No. 4)
+8008-20-6 (Primary Name: Kerosene)
+
+\gccNORTH DAKOTA. * oe
+Bi aaa Oil and Gas Division
+Bis i Pass 2 as Ba Lynn D. Helms - Director Bruce F. Hicks - Assistant Director
+By . ei Department of Mineral Resources
+‘4 Lynn D. Helms - Director
+" _ North Dakota Industrial Commission
+=O ANE CAP DIRE woww.dmr.nd.gov oilgas “2855 }
+BRANDI TERRY Date: 6/9/2014
+OASIS PETROLEUM NORTH AMERICA LLC
+100t FANNIN STE 1500
+HOUSTON, TX 77002 USA
+RE: CORES AND SAMPLES
+Well Name: WADE FEDERAL 5300 41-307T Well File No.: 28557
+Location: LOT4 306-153-100 County: MCKENZIE
+Permit Type Development - HORIZONTAL
+Field: BAKER | Target Horizon: THREE FORKS BI
+Dear BRANDI TERRY:
+North Dakota Century Cade Section 38-08-04 provides for the preservation of cores and samples and their shipment to the
+State Geologist when requested, The following is required on the above referenced well:
+1) All cores, core chips and samples must be submitted to the State Geologist as provided for under North Dakota
+Century Code: Section 38-08-04 and North Dakota Administrative Code: Section 43-02-03-38.1.
+2) Samples: The Operator is to begin collecting sample drill cuttings no lower than the:
+Base of the Last Charles Salt
+- Sample cuttings shal! be collected at:
+o 30' maximum intervals through al! vertical and build sections.
+© 100’ maximum intervals through any horizontal sections.
+
+- Samples must be washed, dried. placed in standard sample envelopes (3” x 4.5”), packed in the correct order into
+standard sample boxes (3.5 x §.25" x 18.25").
+
+- Samples boxes are to be carefully identified with a label that indicates the operator, well name, well file numbcr,
+American Petroleum Institute (API) number, location and depth of samples; and forwarded in to the state core
+and sample library within 30 days of the completion of drilling operations.
+
+3) Cores: Any cores cut shall be preserved in correct order, boxed in standard core boxes (4.5, 4.5", 35.75”), and the
+entire core forwarded to the slate core and samples library within 180 days of completion of drilling operations.
+
+Any extension of time must have approval on a Form 4 Sundry Notice.
+
+All cores, core chips, and samples must be shipped, prepaid, to the state core and samples library at the following address:
+ND Geological Survey Core Library
+2835 Campus Road, Stop 8156
+Grand Forks, ND_ 58202
+North Dakota Century Code Section 38-08-16 allows for a civil penalty for any violation of Chapter 38 08 not to exceed
+$12,500 for each offense. and each day's violation is a separate offense.
+Sincerely
+pe
+Stephen Fried
+Geologist
+“800 E Boulevard Ave - Dept 40S. Bismarck, North Dakota S8S98-9840 Phone (1 V128-8020 Fax (TAL 2K-KO?D ~~
+
+Oil and Gas Division
+NORTH DAKOTA Vv
+Lynn D. Helms - Direetor Bruce F. Hicks - Assistant Director
+j ty Department of Mineral Resources
+L | ay Lynn D. Helms - Director
+North Dakota Industrial Commission
+VD GAS VISION.
+OIL AND GAS DIVE ww woilgas.nd.gov
+Jane 5, 2014
+Brandi Terry
+REGULATORY SPECIALIST
+OASIS PETROLEUM NORTH AMERICA LLC
+1001 Vannin Street, Suite 1510
+Houston, TX 77002
+RE: HORIZONTAL WELL
+WADE FEDERAL 5300 41-30 7T
+LOT4 Section 30-153N-100W
+McKenzie County
+Well File # 28557
+1dcar Brandi:
+
+Pursuant t Commission Order No. 23752, approval to drill the above captioned well is hereby given. The approval is granted on the
+condition thar all portions of the well bore not isolated by cement, be io closer than the 500" setback from the north & south boundaries
+and 200" scthack from the cast & west boundaries within the 1280 acre spacing unit consisting of SECTIONS 29 & 30 T153N RLOOW
+Tool crrot is not required pursuant co order.
+
+PERMIT STIPULATIONS: Effective Junc 1, 2014, a covered leak-proof cuntainer (with placatd) for filter sock disposal inust be
+maintained on the well site beginning when the well is spud, and must remain on-site during clean-out, completion, and flow-
+back whenever filtration operations are conducted. Due to drainage adjacent to the well site, # dike is required surrounding the
+entire location, OASIS PETROLEUM NORTH AMERICA LLC ust take into consideration NDAC 4302-03-28 (Safety
+Regulation) when contemplating simultancous operations on the above captioned location, Pursuant ta NDAC 43-02-03-28
+(Safety Regulation) “No boiler, portable clectric lighting generator, of treater shall be placed nearer than 150 fect to any
+producing well or oil tink.” OASIS PETRO NO AMER must contact NDIC Ficld Inspector Richard Dunn at 701-770-3554
+prior to location construction.
+
+Drilling pit
+
+NDAC 43-02-(13-19.4 states that “a pit may be utilized to bury drill cuttings and solids generated during well drilling and completion
+operations, providing the pit can be constructed, uscd and reclaimed in a manner that will prevent pollution of the land surface and
+freshwaters. Reserve and circulation of mud system through carthen pits are prohibited. AM! pits shall be inspected by an authorized
+representative of the director prior to lining and usc. Drill cuttings and solids must be stabilized in a manner approved by the director
+prior to placcment in a cuttings pit.”
+
+Form 1 Changes & Hard Lines
+
+Any changes, shortening of casing point or lengthening at Total [depth must have prior approval by the NIC. The proposed directional
+plan is ata legal location, Bascd on the azimuth of the proposed lateral the maximum legal coordinate from the well head is: 377° and
+10042",
+
+Location Construction Commencement (Three Day Waiting Period)
+
+Operators shall nor commence operations on a drill site until the 3rd business day following publication of che approved drilling permir
+on the NDIC - OGD Daily Activity Report. If circumstances require operations to commence before the 3rd business day following,
+publication on the Daily Activity Report, the waiting period may be waived by the Director. Application for a waiver must be by sworn
+affidavit providing the information necessary to evaluate the extenuating circumstances, the factors of NOAC 43-02-03-16.2 1}, (a}-(8, and
+any other information that would allow the Director to conclude that in the event another owner secks revocation of the drilling permit,
+the applicant should retain the permit,
+
+Permit Fee & Notification
+
+Payment was received in the amount of $10) via credit card The permit fee has been received. It is requested that notification be given
+immediately upon the spudding of the well. This information should be relayed to the Oil & Gas Division, Bismarck, via telephone. The
+following information must be included: Well name, legal location, permit number, drilling contractor, company representative, date and
+time of spudding, Office hours are 8:00 aim, to 12:00 pm. and 1:00 p.m. to 5:00 pam. Central Time, Our telephone number is 701) 328-
+80120, leave a message if after hours or on the weekend.
+
+600 E Boulevard Ave - Dept 405, Bismarck, North Dakota 58505-0840 Phone (701)328-8020 Fax (701)328-8022
+
+Brandi Terry
+June 5, 2014
+Pape 2
+Survey Requirements for Horizontal, Horizontal Re-entry, and Directional Wells
+NDAC Scction 43-02-03-25 (Deviation Tests and Dircctional Surveys) states in part (that) the survey contractor shall file a certified copy
+of all surveys with the dircetor free of charge within thirty days of completion. Surveys must be submitted as one clectronic copy, or in a
+form approved by the dircetor. However, the director may require the dircetional survey to be filed immediately after completion if the
+survey is needed to conduct the operation of the director's office in a timely manner. Certified surveys must he submitted via cmail in one
+adobe document, with a certification cover page to certsurveyéind.oov
+Survey points shall be of such frequency to accurately determine the entire location of the well bore.
+Specifically, the Horizoneal and Dircctional well survey frequency is 100 feer in the vertical, 30 fect in the curve (or when sliding) and 90
+feet in the lateral
+Surface casing cement
+Tail cement utilized on surface casing must have a minimum compressive strength of 50D psi within 12 hours, and tail cement
+uslized on production casing must have a minimum compressive strcnpth of 50) psi before drilling the plug or initiating tests.
+Logs
+NDAC Scetion 43-012-03-31 requires the running of (1) a suite of open hole logs from which formation tops and porosity zones
+can be determined, 2) a Gamma Ray Log nun from rotal depth to ground tevel elevation of the well bore, and (3) a log from which the
+presence and quality of cement can be determined (Standard CBI. or Ultrasonic ccment evaluation Jog) in cvcry well in which production
+or intermediate casing has been sct, this log must be run prior to completing the well. All logs run must be submitted free of charge, as
+one digital THA! (tagged image file format) copy and onc digital LAS (log ASCID formatted copy. Digital logs may be submitted on a
+standard CLD, DVD, or attached ro an email sent to digitallop sfénd.poy
+Thank you for your cooperation.
+Sinecrely,
+Alice Webber
+Enpincering Tech
+
+ot tte, APPLICATION FOR PERMIT TO DRILL HORIZONTAL WELL - FORM 1H
+oe an ~ INDUSTRIAL COMMISSION OF NORTH DAKOTA
+ane 2 OIL AND GAS DIVISION
+fy iS 800 EAST BOULEVARD DEPT 405
+Se si BISMARCK, ND 58505-0840
+SFN 54269 (08-2005)
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM.
+PLEASE SUBMIT THE ORIGINAL AND ONE COPY.
+New Location Oil & Gas 5 / 30 / 2014 No
+Operator Telephone Number
+1001 Fannin Street, Suite 1500 Houston T™X 77002
+Notice has been provided to the owner of any This well is not located within five hundred
+permanently occupied dwelling within 1,320 feet. feet of an occupied dwelling.
+WELL INFORMATION (if more than one lateral proposed, enter data for additional laterals on page 2)
+Well Name Well Number
+[Surface Footages Otr-Qtr [Section Township [Range County
+Longstring Casing Point Footages Otr-Qtr Section Township [Range County
+Longstring Casing Point Coordinates From Well Head [Azimuth Longstring Total Depth
+fevers renvi goog ron | iy29°[ oat fsb” torre rear |
+553 F SL 212F E .| LOT6 29 153_N 100 W. Williams
+324 S From WH 10030 _E From WH 10292 Feet MD 90.0 ° 20590 Feet MD 10828 Feet TVD
+48° 02° 28.32"| -103° 36° 10.82 " |NAD8&3 Spacing Unit: SECTIONS 29 & 30 T153N R100W
+Ground Elevation [Acres in Spacing/Drilling Unit] Spacing/Drilling Unit Setback Requirement Industrial Commission Order
+2069 Feet Above S.L. 1280 500 Feet NS 200 Feet EW 23752
+10513 Feet 10522 Feet 5082 Feet 5236 Feet
+Three Forks B1 1920
+Proposed Size Weight Depth [Cement Volume |NOTE: Surface hole must be drilled with fresh water
+Proposed Size Weight(s) Longstring Total Depth [Cement Volume [Cement Top |Top Dakota Sand
+TRIPLE COMBO: KOP TO KIBBEY GR/RES TO BSC GR TO SURF CND THROUGH THE DAKOTA
+Drilling Mud Type (Vertical Hole - Below Surface Casing) Drilling Mud Type (Lateral)
+[Survey Type in Vertical Portion of Well [Survey Frequency: Build Section [Survey Frequency: Lateral [Survey Contractor
+NOTE: A Gamma Ray log must be run to ground surface and a CBL must be run on intermediate or longstring casing string if set.
+Surveys are required at least every 30 feet in the build section and every 90 feet in the lateral section of a horizontal well. Measurement
+inaccuracies are not considered when determining compliance with the spacing/drilling unit boundary setback requirement except in the
+following scenarios: 1) When the angle between the well bore and the respective boundary is 10 degrees or less; or 2) If Industry standard
+methods and equipment are not utilized. Consult the applicable field order for exceptions.
+If measurement inaccuracies are required to be considered, a 2° MWD measurement inaccuracy will be applied to the horizontal portion of the well
+bore. This measurement inaccuracy is applied to the well bore from KOP to TD.
+REQUIRED ATTACHMENTS: Certified surveyor's plat, horizontal section plat, estimated geological tops, proposed mud/cementing plan,
+directional plotiplan, $100 fee.
+See Page 2 for Comments section and signature block.
+
+Page 2
+SFN 54269 (08-2005)
+COMMENTS, ADDITIONAL INFORMATION, AND/OR LIST OF ATTACHMENTS
+Lateral 2
+Feet MD ° Feet MD Feet TVD From WH From WH
+ea
+From WH From WH From WH From WH
+F L ig L N Ww
+F L ig L N Ww
+Lateral 3
+Feet MD ° Feet MD Feet TVD From WH From WH
+a a
+From WH From WH From WH From WH
+F L ig L N Ww
+F L F L N w
+Lateral 4
+Feet MD ° Feet MD Feet TVD From WH From WH
+mene pee
+From WH From WH From WH From WH
+F L ig L N Ww
+F L F L N w
+Lateral 5
+Feet MD ° Feet MD Feet TVD From WH From WH
+oe pee
+From WH From WH From WH From WH
+F L ig L N Ww
+F L F L N w
+03 / 31 / 2014
+Printed Name Title
+Brandi Terry REGULATORY SPECIALIST
+FOR STATE USE ONLY FOR STATE USE ONLY
+28557 33_- 053 - 05998 6 / 5 / 2014
+Field By
+Pool Permit Type Title
+
+. oe
+— Oil and Gas Division
+Lyon D. Helms - Director Bruce F. Hicks - Assistant Director
+r to Department of Mineral Resources
+a Tynn D. Heims - Director
+North Dakota Industrial Commission
+OML_AND_GAS DIVISION .
+www.oilgas.nd.gav
+April 9, 2014
+RE: Filter Socks and Other Filter Media
+Leakproof Container Required
+Oil and Gas Wells
+Dear Operator,
+North Dakota Administrative Code Section 43-02-03-19.2 states in part that all waste material associated with
+exploration or production of oil and gas must be properly disposed of in an authorized facility in accord with all
+applicable local. state, and federal laws and regulations.
+Filtration systems are commonly used during oil and gas operations in North Dakota. The Commission is very
+concerned about the proper disposal of used filters (including filter socks) used by the oil and gas industry.
+Effective June 1, 2014, a container must be maintained on each well drilled in North Dakota beginning when the
+well is spud and must remain on-site during clean-out, completion. and flow-back whenever filtration operations
+are conducted. The on-site container must be used to store filters until they can be properly disposed of in an
+authorized facility. Such containers must be:
+« leakproof to prevent any fluids from escaping the container
+* covered to prevent precipitation from entering the container
+« placard to indicate only filters are to be placed in the container
+If the operator will not utilize a filtration system. a waiver to the container requirement will be considered, but
+only upon the operator submitting a Sundry Notice (Form 4) justifying their request.
+As previously stated in our March 13, 2014 letter, North Dakota Administrative Code Section 33-20-02.1-01
+states in part that every person who transports solid waste (which includes oil and gas exploration and production
+wastes) is required to have a valid permit issued by the North Dakota Department of Health, Division of Waste
+Management. Please contact the Division of Waste Management at (701) 328-5166 with any questions on the
+solid waste program. Note oil and gas exploration and production wastes include produced water, drilling mud,
+invert mud. tank bottom sediment, pipe scale. filters, and fly ash.
+Thank you for your cooperation.
+Sincerely,
+Bruce E, Heche
+Assistant Director
+600 E Boulevard Ave - Dept 405, Bismarck, North Dakola 58505-0840 Phone (701 )328-8020 Fax (701)328-8022
+
+g :
+WELL LOCATION PLAT : E
+OASIS PETROLEUM NORTH AMERICA, LLC 3 a
+1001 FANNIN, SUITE 1500, HOUSTON, TX 77002 2 ri
+“WADE FEDERAL 5300 41-30 71" 2 F §|
+877 FEET FROM SOUTH LINE AND 260 FEET FROM WEST LINE g E
+SECTION 30, T153N, R100W, Sth P.M., MCKENZIE COUNTY, NORTH DAKOTA 5 4 |
+~ EDGE OF ele r
+FOLND STONE } “TAKE ole a
+FOUND STONE W/ REBAR ‘aa LAKE THEORETICAL : Es
+W/ REBAR, arn en at eee sean’ Sta ay Az onenn’an” mas (AA OSITION a
+W/REESS\, AZ 90°0S'05 B37 Ny AZ 90°00'G0" 1207" {GLO} AZ SOOO 548" (G10) wo tH
+a Loy 1 | LOTS hi \ LOT1 |
+| 8 gl
+l . waa = lela
+—_ —-— — —_ i —_— —_— — — Le an
+rc RA _ & sl£la4
+Hl \ oS GL sja
+3 { | | O geese
+in oA z Sre/E|s
+iS | | My he LOT 2 ~ BSele|: 4
+“| Lora LOT6, RR a! s55]8
+< BV Pa | | B S fesals
+FOUND STONE = \ LoS oma Z |eesle
+w/ 2” ACS i % & +i _ _ _  TEZes! | 4
+é $ _ _ _ vs) = a lulz ol
+LS 2884 “2 ins g o 1s|14
+LAA QD Hl S = ile =). 8
+~ LOT 3 | \ LS zg LOT 3 S ral ai
+hee WADE FEDERAL 5300 41-30 7T | \ a , | | bb w &&
+cS GROUND ELEY. 2088.8" \ bia mae \ 8 =
+Pye) LATITUDE 48°02'25,32"N | aa 4 \ | | mM a
+q VONGITIIE 103°36" 0.87" Ww | LOT 7\; 3 i sy S
+GPS SURVEY DATJM: NAD 85 \ Oe ‘ << i
+, I madi dae < |i e.g?
+ap 280 ag | \ AZ 35975500 bees" aa es
+BPO Ae toga LN reO I tora. tos | LOTS oy egeseet
+S LOT 4 | | AOU ee en & | eos28ee:
+ol ok | LOT 8 Wo uae BOTTOM HOLE LOCATION Z eo aieses
+N fe , : LAIIUD= 48°02'25.22°N | i] = We sséeee
+FOUND STONE <t an _ LOR GITUBE, 10333 43.20" ‘9 x = ?
+Ws) ACN, i Oy : OFS SLRVEY DATUN: NAD 63__bes) 5 :
+‘ Sor TEED AD os Sea AT = x ———— ty
+AZ 89°37°27 2662.07 AZ 89308 2639.77 / \- A383" oN IHEORE CAL
+FOUND SIONE FOUND REBAR w// AZ 90°00'00" POSITION ©)
+W/ RIBAR 2” AC LS 2BBe 358 (GLO) MICINITY_MAP
+58 {GLO} <7 = =
+nn ery 7 ” gz
+STAKED ON © /10/14 - yal BS a Pow ss
+. ! VWORTICAL CONTROL DATLM WAS BASCD UPON | ee RO ee j rn Bu
+Ts OCUR ENT Bas oS @) CON ROL PORT /O05 WIH AN L_EVAIIGN OF 2158.3" = é. 1.) AWADE 5300 { - \ = Pe 4
+ASEM AN Do” RECISTRATION NCMBER THIS SURVEY AND PLAT IS RPING =ROVIDED AT THE RPQUEST _? ay a, | 5S 5
+3880 ON 21k“ 4. AND dk OF ERIC BAYES OF O&SS PETRCLEJM. | CERTIFY THAT HIS } i Sy B08” ‘ 29 Sa
+ORGINAL DOCUMENTS ARE STORED AT PLAT CORRECTLY 2EPRESENTS WORK PERFORMED BY VE OR 9 -——> ~ COED reef \ i
+Tir oercrs OF NTPRSTA"S UNDER MY SUMERVISON AND S TRUE ANU CORRECT IO cc ANG Ae ° a pw Stee i
+ENGINEERING, NC c 1c0c THE BEST OF MY KNGWLEIGE AND 3ELIEF. A Se Reg WADE REDERAL :
+1” = 1000" LE OARYL D. a . » 5300 41-30 7, . 3
+Ler KASEMAN \&\ | “2 Abe IN Y “oud x
+To _ Oo Sep waaey A wee Re yA
+5 sayERe ae w\ bS-S880 fs) | ot snorosei : ST ey wi ay —
+— MONJMENT — RECOVERED BPR SL 1D Gaccess ROAD “ «Uf a S
+cho Fo > MONJMENT — NOT RECOVERED 4 - $ boas Qe Ne Nel NL (2 @) g|
+BARYL D. KASEMAN LS— 3880 ORF; oo pot Rae ca kN TE
+A SEM - = i : ae a) Ed
+HDA es 5 2 ew bores an y :
+
+OPERATOR n COUNTYSTATE To
+WELL NAME RIG Te
+ELL TYPE 1
+Location 1 Safco Loan any 7
+est. 7.0. GROUND ELEY Sab Height
+1ST LATERAL cae KBELEV;
+MARKER THD Subsea TWD]LOGS: Tze tena
+Ct Logs. Retest Loy waver dosed on the Wade Feral S300 21 30H 150°N of sutace
+Pere woe MAP 1920 se iocton
+Steennarn 1808 ees CALA. Above op of cement a base of easing
+wy ‘ee8 2s MWD GR. KOP lateral TD
+Dakota best Suz
+Redon ect 42s: DEWATION: Sa Jaap, a1 Ge TOG ay ava
+urna Sah eee fie Prod S dag. inax. 1 dag! 100: sey every 100
+urinam Sah Base foe fees
+Pine Satt 7208 335
+Pine Salt Base pees re!
+lopecne Sat pest be
+lopecne Sat Base in a
+msdn 7618 on
+er hn oe
+oterrBase Minnetsa 74 2 su STS: Tera panned
+Kivbey Lime 8206 pel
+chares Sat aes sta] CORES: Tora anne
+Base Last Sat ses cy
+isson Canyon sar Fs
+Lodgepale see8 Fei
+Fase Bakion 1.86 eu
+Upper Balen Shale rosea i $e NUDLOGENG Two Wan Gaga TOT above Rover
+itice Bakken rosea eens 50 amples meurve and tral
+ower Batten Shale ors oes
+Pronghorn to7e8 eee
+restos tors eee
+reeforstTap of Tagen 0761 ees
+reeforstBaue of Target 0770 es
+Est. bip Rate:
+nt Ta Ta Fama
+Surface: Gi 2060 EwiGel tre Sweps e480 ease nC cre Tanks
+intermediate: 2.060 tos" men seis 06 sosttnp ire Moa Tanks
+tera Toft 20880 saliiner sei mase NC Gre Mua Tanks
+CASING: ‘Size Wtppt Hole Depth Cement WOC Remarks:
+Surtace Sas ae tenes “To surface 12 100'rto Pee
+Iriermediave 7 ase eae tion eet Pa 1500" above anata
+Production Line iy tie & 20890 Tou @ 10295 30 above KEP
+OTHER: w TD ERUESL———ELEWE Sta a
+suiace. 2060 0 Se tio aT Survey Company,
+Kop toe3s cess Bye TSL worm Se tise are ‘hung ate: 12 dog 100
+foe. us Grey eserse sorwl | Lau at nea
+Casing Ports 1 ce Grey eserst rR 3e Lise ar ies
+Mid Bakken ateral TD, 29S ees 1 tes ate 200
+comments:
+Request Log waiver based on the Wade Federal §900 21-20H 2.150" ol surface location
+Ino av sting panned
+35 packers ant 25 steeves planned 3.6MM Ibs 30% ceramic
+Oasis Petroleum does not use Diesel Fuel, as defined bythe US EPA inthe list below, in our hydraulic fracture operations
+68334-30-5 (Primary Name: Fuels, diese!) 68476-34-6 (Primary Name: Fuels, diesel, No. 2)68476-30-2 (Primary Name: Fuel oil No. 2)
+68476-31-3 (Primary Name: Fuel oil, No. 4)8008-20-6 (Primary Name: Kerosene)
+
+Oasis Petroleum
+Well Summary
+Wade Federal 5300 41-30 7T
+Secion 30 T153N R100W
+McKenzie Co, ND
+SURFACE CASING AND CEMENT DESIGN
+PT Mae-up Torque (fttbs)
+[size] interval | Weight | Grade _| Coupling | 0. | brift | Minimum] Optimum | Max_|
+oss] 2050] | se | ss | ttc [asenfa7es] 3400 | 4530 | se60
+[interval | Deseription | Collapse | Burst | Tension
+re ns (psi /a (psi) /b (1000 bs) /c
+2050 9-5/8", 36#, J-55, LTC, 8rd 2020/ 2.13 3520 / 3.72 453 / 2.78
+API Rating & Safety Factor
+a) Based on full casing evacuation with 9 ppg fluid on backsidq2050 |setting depth)
+b)} Burst pressure based on 9 ppg fluid with no fluid on backside|2(}50 betting depth)
+c) Based on string weight in 9 ppg fluid al2050 [VD plus 100k# overpull. (Buoyed weight
+equals 63k Ibs.)
+Cement volumes are based on 9-5/8" casing set in 13-1/2 " hole with 60% excess to circulate cement back to surface
+Mix and pump the following slurry.
+Pre-flush (Spacer): 20 bbls fresh water
+Lead Slurry: 425 sks (225 bbls), 11.5 Ib/gal, 2.97 cu. Ft./sk Varicem Cement with 0.125 il/sk Lost Circulation
+Additive
+Tail Slurry: 173 sks (62 bbls), 13.0 Ib/gal, 2.01 cu.ft./sk Varicem with .125 lb/sk Lost Circulation Agent
+
+Oasis Petroleum
+Well Summary
+Wade Federal 5300 41-30 7T
+Secion 30 T153N R100W
+McKenzie Co, ND
+INTERMEDIATE CASING AND CEMENT DESIGN
+Po Make-up Torque (f-tbs)
+| size | interval [Wweight| Grade | Coupling | up. | brit [Minimum | Optimum] Max |
+o'- 11041" HCP-110 6.094" | 6.000" | 6730 8970 9870
+“Special Drift 7" 32# to 6.0"
+[intervar_ [Length [ _Deseription [Collapse
+a (psi) b (1000 Ibs) ¢
+0'- 11041' 11041° 7", 32#, P-110, LTC, 8rd 11820 / 2.11" 12460 / 1.28 897 / 2.24
+6696" - 9163" 2467" 7", 32#, HCP-110, LTC, 8rd| 11820 / 1.07" 240/130 | |
+API Rating & Safety Factor
+a} *Assume full casing evacuation with 10 ppg fluid on backside. **Assume full casing evacuation with
+1.2 psi/ft equivalent fluid gradient across salt intervals.
+b) Burst pressure based on 9000 psig max press for stimulation plus 10.2 ppg fluid in casing and 9
+ppg fluid on backside-te 10770' TVD.
+ce) Based on string weight in 10 ppg fluid, (300k Ibs buoyed weight} plus 100k Ibs overpull.
+Cement volumes are estimates based on 7" casing set in an 8-3/4" hole with 30% excess.
+Mix and pump the following slurry
+Pre-flush (Spacer): 100 bbls Saltwater
+20bbis CW8
+20bbis Fresh Water
+Lead Slurry: 185 sks (85 bbls), 11.8 ppg, 2.55 cu. ft./sk Econocem Cement with .3% Fe-2 and
+-25 Ib/sk Lost Circulation Additive
+Tail Slurry: 575 sks (168 bbls), 14.0 ppg. 1.55 cu. ft./sk Extendcem System with .2% HR-5
+Retarder and .25 Ib/sk Lost Circulation Additive
+
+Oasis Petroleum
+Well Summary
+Wade Federal 5300 41-30 7T
+Secion 30 T153N RLOOW
+McKenzie Co, ND
+PRODUCTION LINER
+Po ake-up Torque (ribs)
+| size | interval [ Weight | Grade | Coupling | 1.0. [ britt | Minimum[ optimum] Max |
+4-1/2"| 10243" - 20591" P-110 3.920" | 3.795" | _ 2270 3020 3780
+Collapse [| Burst_ | Tension _|
+Pes (psi) b (1900 Ibs) ¢
+10243' - 20591' 10348 4-1/2", 13.5 Ib, P-110, BTC] 10670 / 1.99 12410/ 1.28 443 / 2.01
+API Rating & Safety Factor
+a) Based on full casing evacuation with 9.5 ppg fluid on backside @ 10828' TVD.
+b) Burst pressure based on 9000 psi treating pressure with 10.2 ppg internal fluid
+gradient and 9 ppg external fluid gradient @ 10828' TVD
+ce) Based on string weight in 9.5 ppg fluid (Buoyed weight: 120k Ibs.) plus 100k Ibs.
+overpull.
+
+T 4 Azimuths to True North SITE DETAILS: 153N-100W-29/30
+Magnetic North: 8.18° ree N
+a Site Centre Latitude: 48° 2' 28.320
+Magnetic Field me PETROLEUM Longitude: 103° 36' 10.820 W
+Se rales TB abe Positional Uncertainity: 0.0
+Date: 1/28/2014 Project: Indian Hills Convergence: -2.31
+Model: IGRF200510 ite: 153N-100W-29/30 Local North: True
+: Well: Wade Federal 5300 41-30
+Wellbore: Wade Federal 5300 41-30 7
+Setbacks Design: Design #1
+500’ N/S
+200' EW 1125
+= 3750 =
+S E 70
+2 2
+8 6
+& 2500 &
+= =e 375
+> -
+= SHL 30 29 BHL =
+© 877 FSL 553° FSL S
+B 1250 280 FWL 210° FEL 2
+€ So
+= A = Wade Federal 5300 41-30 7T
+Bo 8
+6 —™ Wade Federal §300 41-30 77 ® aw
+“1250
++2500 +1250 a 1250 2500 «3750 = 5000 6250-7500» 8750 «=: 10000-11250 ~—«12500 1125-750 375 a 375 750
+West(-)/East(+) (2500 ft/in) West(-)/East(+) (750 ttin)
+CASING DETAILS SECTION DETAILS
+9000
+TvD MD Name Size MD Inc Azi Tvb 7 r
+2050.0 2050.0 9 5/8" 9.625 0.0 0.00 0.00 oo a 5 ow Dieg
+10770.0  11041.0 7 7.000 2050.0 0.00 0.00 2050.0 0.0 0.0 888
+9450: 2060.0 0.50 90.00 2060.0 00 0.0 5.00
+s 8925.6 0.50 90.00 8925.3 00 60.0 0.00
+a 8935.6 0.00 0.00 8935.3 00 60.0 5.00
+a 10000.3 0.00 0.00 10000.0 9 60.0 0.00
+mq 9900 10292.8 0.00 0.00 10292.5 88 60.0 0.00
+8 Start 292.5 hold at 10000.3 MD 11039.9 89.65 112.38 10770.0 -180.7 498.8 12.00
+o 11041.2 89.65 112.38 10770.0 -181.2 $00.0 0.00
+= Start Build 12.00 KOP 11782.3 89.65 90.00 1074.6 -324.1 1222.4 3.02
+910350 20590.1 89.65 90.00 10828.4 -324.1 10030.0 90.00
+fc
+r
+10800 TD at 20590.1
+Start 8807.7 hold at 11782.3 MD
+Ct) 600 1200 1800 2400 3000 3600 4200 4800 5400 6000 6600 7200 7800 8400 go00 9600 10200
+Vertical Section at 91.85°
+
+Oasis
+
+Indian Hills
+
+153N-100W-29/30
+
+Wade Federal 5300 41-30 7T
+
+Wade Federal 5300 41-30 7T
+
+Plan: Design #1
+
+Standard Planning Report
+19 May, 2014
+
+Oasis Petroleum
+Planning Report
+Database: OpenWellsCompass - EDM Prod Local Co-ordinate Reference: Well Wade Federal 5300 41-30 7T
+Company: Oasis ‘TVD Reference: WELL @ 2070.0f (Original Well Elev)
+Project: Indian Hills, MD Reference: WELL @ 2070.0ft (Original Well Elev)
+Site: 153N-100W-29/30 North Reference: True
+Well: Wade Federal 5300 41-30 7T Survey Calculation Method: Minimum Curvature
+Wellbore: Wade Federal 5300 41-30 7T
+Design: Design #1
+Project Indian Hills
+Map System: US State Plane 1983 ‘System Datum: Mean Sea Level
+Geo Datum: North American Datum 1983
+Map Zone: North Dakota Northern Zone
+Site 153N-100W-29130
+Site Position: Northing 395,521.43 f Latitude: 48° 2 32.580 N
+From: LatiLong Easting: 1,209,621.64ft Longitude: 103° 36 11.410 W
+Position Uncertainty: O.0f Slot Radius: 13.200 in Grid Convergence: “231°
+Well Wade Federal 5300 41-30 7T
+Well Position +NES 431.7 Northing: 395,088.50 Latitude: 48° 2' 28.320 N
++ELW 40.1f Easting: 1,209,644.31 ft Longitude: 103° 36° 10.820 W
+Position Uncertainty 0.0% — Wellhead Elevation: Ground Level: 2,045.0 ft
+Wellbore Wade Federal 5300 41-30 7T
+Magnetics Model Name Sample Date Declination Dip Angle Field Strength
+i] e (nT)
+\GRF200510 1128/2014 818 72.95 56,489
+Design Design #1
+Audit Notes:
+Version: Phase: PROTOTYPE Tie On Depth: 0.0
+Vertical Section: Depth From (TVD) +NES +ERW Direction
+(ft) i) i) °
+a0 00 0.0 91.85
+Plan Sections
+Measured Vertical Dogleg Build Tum
+Depth Inclination Azimuth Depth ANAS +ERW Rate Rate Rate FO
+cs 0 0 (fy) co) (f) (Hoon) = (rMDOR) «rt ° Target
+a0 0.00 0.00 0.0 00 0.0 0.00 0.00 0.00 0.00
+2,060.0 0.00 0.00 2,050.0 00 0.0 0.00 0.00 0.00 0.00
+2,060.0 0.50 90.00 2,080.0 00 0.0 5.00 5.00 0.00 90.00
+8,925.6 0.50 90.00 8,925.3 00 60.0 0.00 0.00 0.00 0.00
+8,935.6 0.00 0.00 8,935.3 00 60.0 5.00 6.00 0.00 180.00
+10,000.3 0.00 0.00 © 10,0000 00 60.0 0.00 0.00 0.00 0.00
+10,2928 0.00 0.00 10,2925 00 60.0 0.00 0.00 0.00 0.00
+1,039.9 89.65 112.38 10,7700 180.7 498.8 12.00 12.00 0.00 112.38
+11,081.2 89.65 112.38 10,7700 181.2 500.0 0.00 0.00 0.00 0.00
+11,7823 89.65 90.00 10,7746 3241 1,222.4 3.02 0.00 -3.02 269.93
+20,590.1 89.65 90.00 10,8284 8241 10,030.0 0.00 0.00 0.00 0.00
+S/9I2014 5:57:21PM Page 2 COMPASS 5000.1 Build 65
+
+Oasis Petroleum
+Planning Report
+Database: OpenWellsCompass - EDM Prod Local Co-ordinate Reference: Well Wade Federal 5300 41-30 7T
+Company: Oasis ‘TVD Reference: WELL @ 2070.0f (Original Well Elev)
+Project: Indian Hills, MD Reference: WELL @ 2070.0ft (Original Well Elev)
+Site: 153N-100W-29/30 North Reference: True
+Well: Wade Federal 5300 41-30 7T Survey Calculation Method: Minimum Curvature
+Wellbore: Wade Federal 5300 41-30 7T
+Design: Design #1
+Planned Survey
+Measured Vertical Vertical Dogleg Build Turn
+Depth Inclination Azimuth Depth +NAS +EW ‘Section Rate Rate Rate
+(fe ° ° (fy (fo. (ny (fo (Pron) CHoor) Hoot)
+0.0 0.00 0.00 0.0 00 00 0.0 0.00 0.00 0.00
+100.0 0.00 0.00 100.0 00 00 0.0 0.00 0.00 0.00
+200.0 0.00 0.00 200.0 00 00 0.0 0.00 0.00 0.00
+300.0 0.00 0.00 300.0 00 a0 0.0 0.00 0.00 0.00
+400.0 0.00 0.00 400.0 00 00 0.0 0.00 0.00 0.00
+500.0 0.00 0.00 500.0 00 00 0.0 0.00 0.00 0.00
+600.0 0.00 0.00 600.0 00 a0 0.0 0.00 0.00 0.00
+700.0 0.00 0.00 700.0 00 00 0.0 0.00 0.00 0.00
+800.0 0.00 0.00 800.0 00 00 0.0 0.00 0.00 0.00
+200.0 0.00 0.00 200.0 00 a0 0.0 0.00 0.00 0.00
+1,000.0 0.00 0.00 1,000.0 00 00 0.0 0.00 0.00 0.00
+4,100.0 0.00 0.00 4,100.0 00 a0 0.0 0.00 0.00 0.00
+4,200.0 0.00 0.00 4,200.0 00 00 0.0 0.00 0.00 0.00
+1,300.0 0.00 0.00 1,300.0 00 00 0.0 0.00 0.00 0.00
+1,400.0 0.00 0.00 1,400.0 00 a0 0.0 0.00 0.00 0.00
+1,500.0 0.00 0.00 1,500.0 00 00 0.0 0.00 0.00 0.00
+1,600.0 0.00 0.00 1,600.0 00 a0 0.0 0.00 0.00 0.00
+4,700.0 0.00 0.00 4,700.0 00 00 0.0 0.00 0.00 0.00
+1,800.0 0.00 0.00 1,800.0 00 00 0.0 0.00 0.00 0.00
+1,900.0 0.00 0.00 1,900.0 00 a0 0.0 0.00 0.00 0.00
+1,920.0 0.00 0.00 1,920.0 00 a0 0.0 0.00 0.00 0.00
+Pierre
+2,000.0 0.00 0.00 2,000.0 00 00 0.0 0.00 0.00 0.00
+2,020.0 0.00 0.00 2,020.0 00 00 0.0 0.00 0.00 0.00
+Start Build 5.00
+2,030.0 0.00 0.00 2,030.0 00 a0 0.0 0.00 0.00 0.00
+Start 6865.6 hold at 2030.0 MD
+2,050.0 0.00 0.00 2,050.0 00 a0 0.0 0.00 0.00 0.00
+9518”
+2,060.0 0.50 90.00 2,060.0 00 a0 0.0 5.00 5.00 0.00
+2,100.0 0.50 90.00 2,100.0 00 od 04 0.00 0.00 0.00
+2,200.0 0.50 30.00 2,200.0 00 13 13 0.00 0.00 0.00
+2,300.0 0.50 90.00 2,300.0 00 24 24 0.00 0.00 0.00
+2,400.0 0.50 30.00 2,400.0 00 30 3.0 0.00 0.00 0.00
+2,500.0 0.50 90.00 2,500.0 00 39 39 0.00 0.00 0.00
+2,600.0 0.50 90.00 2,600.0 00 48 48 0.00 0.00 0.00
+2,700.0 0.50 30.00 2,700.0 00 56 56 0.00 0.00 0.00
+2,800.0 0.50 90.00 2,800.0 00 65 65 0.00 0.00 0.00
+2,900.0 0.50 30.00 2,900.0 00 74 74 0.00 0.00 0.00
+3,000.0 0.50 90.00 3,000.0 00 82 a2 0.00 0.00 0.00
+3,100.0 0.50 90.00 3,100.0 00 a4 at 0.00 0.00 0.00
+3,200.0 0.50 30.00 3,200.0 00 10.0 10.0 0.00 0.00 0.00
+3,300.0 0.50 90.00 3,300.0 00 109 10.9 0.00 0.00 0.00
+3,400.0 0.50 30.00 3,399.9 00 WT 17 0.00 0.00 0.00
+3,500.0 0.50 90.00 3,499.9 00 126 128 0.00 0.00 0.00
+3,600.0 0.50 90.00 3,599.9 00 13.5 135 0.00 0.00 0.00
+3,700.0 0.50 30.00 3,699.9 00 144 14.3 0.00 0.00 0.00
+3,800.0 0.50 90.00 3,799.9 00 15.2 15.2 0.00 0.00 0.00
+3,900.0 0.50 30.00 3,899.9 00 16.1 16.1 0.00 0.00 0.00
+4,000.0 0.50 90.00 3,999.9 00 17.0 17.0 0.00 0.00 0.00
+4,100.0 0.50 90.00 4,099.9 00 178 178 0.00 0.00 0.00
+4,200.0 0.50 90.00 4,199.9 00 187 187 0.00 0.00 0.00
+4,300.0 0.50 30.00 4,299.9 00 196 19.8 0.00 0.00 0.00
+4,400.0 0.50 30.00 4,399.9 00 20.5 20.5 0.00 0.00 0.00
+4,500.0 0.50 90.00 4,499.9 00 21.3 21.3 0.00 0.00 0.00
+S/9I2014 5:57:21PM Page 3 COMPASS 5000.1 Build 65
+
+Oasis Petroleum
+Planning Report
+Database: OpenWellsCompass - EDM Prod Local Co-ordinate Reference: Well Wade Federal 5300 41-30 7T
+Company: Oasis ‘TVD Reference: WELL @ 2070.0f (Original Well Elev)
+Project: Indian Hills, MD Reference: WELL @ 2070.0ft (Original Well Elev)
+Site: 153N-100W-29/30 North Reference: True
+Well: Wade Federal 5300 41-30 7T Survey Calculation Method: Minimum Curvature
+Wellbore: Wade Federal 5300 41-30 7T
+Design: Design #1
+Planned Survey
+Measured Vertical Vertical Dogleg Build Turn
+Depth Inclination Azimuth Depth +N +ERW Section Rate Rate Rate
+cy i) °) ( ) (fh cs (itor) = eHtoarty root
+4,566.1 0.50 90.00 4,566.0 00 219 218 0.00 0.00 0.00
+Greenhorn
+4,600.0 0.50 90.00 4599.9 00 22.2 22.2 0.00 0.00 0.00
+4,700.0 0.50 30.00 4,699.9 00 23.1 23.1 0.00 0.00 0.00
+4,300.0 0.50 30.00 4,799.9 00 24.0 23. 0.00 0.00 0.00
+4,900.0 0.50 90.00 4,399.9 00 248 24.8 0.00 0.00 0.00
+4,969.1 0.50 30.00 4,969.0 00 25.4 254 0.00 0.00 0.00
+Mowry
+5,000.0 0.50 90.00 4,999.9 00 267 28.7 0.00 0.00 0.00
+5,100.0 0.50 90.00 5,099.9 00 266 26.6 0.00 0.00 0.00
+5,200.0 0.50 30.00 5,199.9 00 274 274 0.00 0.00 0.00
+5,300.0 0.50 90.00 5,299.9 00 28.3 28.3 0.00 0.00 0.00
+5,391.1 0.50 30.00 5,391.0 00 294 29.4 0.00 0.00 0.00
+Dakota
+5,400.0 0.50 90.00 5,399.9 00 29.2 292 0.00 0.00 0.00
+5,500.0 0.50 30.00 5,499.9 00 30.1 30.0 0.00 0.00 0.00
+5,600.0 0.50 30.00 5599.9 00 30.9 30.8 0.00 0.00 0.00
+5,700.0 0.50 90.00 5,699.9 00 318 318 0.00 0.00 0.00
+5,800.0 0.50 30.00 5,799.9 00 32.7 327 0.00 0.00 0.00
+5,900.0 0.50 90.00 5,399.9 00 33.6 33.5 0.00 0.00 0.00
+6,000.0 0.50 90.00 5,999.8 00 344 344 0.00 0.00 0.00
+6,100.0 0.50 30.00 6,099.8 00 36.3 36.3 0.00 0.00 0.00
+6,200.0 0.50 90.00 6,199.8 00 36.2 36.2 0.00 0.00 0.00
+6,300.0 0.50 30.00 6,299.8 00 37.0 37.0 0.00 0.00 0.00
+6,400.0 0.50 90.00 6,399.8 00 37.9 378 0.00 0.00 0.00
+6,407.2 0.50 30.00 6,407.0 00 38.0 38.0 0.00 0.00 0.00
+Rierdon
+6,500.0 0.50 90.00 6,499.8 00 38.8 38.8 0.00 0.00 0.00
+6,600.0 0.50 90.00 6599.8 00 397 396 0.00 0.00 0.00
+6,700.0 0.50 90.00 6,699.8 00 40.5 40.5 0.00 0.00 0.00
+6,800.0 0.50 90.00 6,799.8 00 a4 414 0.00 0.00 0.00
+6,896.2 0.50 30.00 6,896.0 00 422 422 0.00 0.00 0.00
+Dunham Salt
+6,900.0 0.50 90.00 6,899.8 00 423 423 0.00 0.00 0.00
+6,942.2 0.50 90.00 6,942.0 00 426 426 0.00 0.00 0.00
+Dunham Salt Base
+7,000.0 0.50 90.00 6,999.8 00 43.2 43.1 0.00 0.00 0.00
+7,100.0 0.50 90.00 7,099.8 00 44.0 44.0 0.00 0.00 0.00
+7,200.0 0.50 30.00 7199.8 00 44.9 44.9 0.00 0.00 0.00
+7,208.2 0.50 30.00 7,208.0 00 44.9 44.9 0.00 0.00 0.00
+Pine Salt
+7,208.2 0.50 90.00 7.28.0 00 45.2 45.1 0.00 0.00 0.00
+Pine Salt Base
+7291.2 0.50 90.00 7291.0 00 457 457 0.00 0.00 0.00
+Opeche Salt
+7,300.0 0.50 90.00 7,299.8 00 458 457 0.00 0.00 0.00
+7371.2 0.50 30.00 7371.0 00 46.4 464 0.00 0.00 0.00
+Opeche Salt Base
+7,400.0 0.50 90.00 7,399.8 00 46.6 46.6 0.00 0.00 0.00
+7,500.0 0.50 90.00 7,499.8 00 475 475 0.00 0.00 0.00
+7,600.0 0.50 90.00 7599.8 00 48.4 48.4 0.00 0.00 0.00
+7615.2 0.50 30.00 7,615.0 00 48.5 48.5 0.00 0.00 0.00
+Amsden
+7,700.0 0.50 90.00 7,699.8 00 49.3 49.2 0.00 0.00 0.00
+S/9I2014 5:57:21PM Page 4 COMPASS 5000.1 Build 65
+
+Oasis Petroleum
+Planning Report
+Database: OpenWellsCompass - EDM Prod Local Co-ordinate Reference: Well Wade Federal 5300 41-30 7T
+Company: Oasis ‘TVD Reference: WELL @ 2070.0f (Original Well Elev)
+Project: Indian Hills, MD Reference: WELL @ 2070.0ft (Original Well Elev)
+Site: 153N-100W-29/30 North Reference: True
+Well: Wade Federal 5300 41-30 7T Survey Calculation Method: Minimum Curvature
+Wellbore: Wade Federal 5300 41-30 7T
+Design: Design #1
+Planned Survey
+Measured Vertical Vertical Dogleg Build Turn
+Depth Inclination Azimuth Depth +N +ERW Section Rate Rate Rate
+cy i) °) ( ) (fh cs (itor) = eHtoarty root
+TIT2 0.50 90.00 TIT 00 49.9 49.9 0.00 0.00 0.00
+Tyler
+7,800.0 0.50 90.00 7,799.8 00 50.1 50.1 0.00 0.00 0.00
+7,900.0 0.50 90.00 7,899.8 00 51.0 51.0 0.00 0.00 0.00
+7,994.2 0.50 30.00 7,994.0 00 518 518 0.00 0.00 0.00
+Otter/Base Minnelusa
+8,000.0 0.50 90.00 7,999.8 00 519 518 0.00 0.00 0.00
+8,100.0 0.50 30.00 8,099.8 00 52.8 527 0.00 0.00 0.00
+8,200.0 0.50 90.00 8,199.8 00 53.6 53.6 0.00 0.00 0.00
+8,300.0 0.50 90.00 8,299.8 00 54.5 54.8 0.00 0.00 0.00
+8,336.3 0.50 30.00 8,336.0 00 548 548 0.00 0.00 0.00
+Kibbey Lime
+8,400.0 0.50 90.00 8,399.8 00 55.4 55.3 0.00 0.00 0.00
+8,484.3 0.50 30.00 8,484.0 00 56.1 56.1 0.00 0.00 0.00
+Charles Salt
+8,500.0 0.50 90.00 8,499.8 00 56.2 56.2 0.00 0.00 0.00
+8,600.0 0.50 90.00 8599.8 00 87.4 874 0.00 0.00 0.00
+8,700.0 0.50 30.00 8,699.7 00 58.0 58.0 0.00 0.00 0.00
+8,800.0 0.50 90.00 8,799.7 00 58.9 58.8 0.00 0.00 0.00
+8,895.6 0.50 30.00 8,895.3 00 59.7 597 0.00 0.00 0.00
+Start Drop -5.00
+8,900.0 0.50 90.00 8,899.7 00 597 597 0.00 0.00 0.00
+8,905.6 0.50 30.00 8,905.3 00 59.8 598 0.00 0.00 0.00
+Start 1094.7 hold at 8905.6 MD
+8,925.6 0.50 90.00 8,925.3 00 60.0 59.9 0.00 0.00 0.00
+8,935.6 0.00 0.00 8,935.3 00 60.0 60.0 5.00 -6.00 0.00
+9,000.0 0.00 0.00 8,999.7 00 60.0 60.0 0.00 0.00 0.00
+9,100.0 0.00 0.00 9,099.7 00 60.0 60.0 0.00 0.00 0.00
+9,163.3 0.00 0.00 9,163.0 00 60.0 60.0 0.00 0.00 0.00
+Base Last Salt
+9,200.0 0.00 0.00 9,199.7 00 60.0 60.0 0.00 0.00 0.00
+9,300.0 0.00 0.00 9,299.7 00 60.0 60.0 0.00 0.00 0.00
+9,377.3 0.00 0.00 9,377.0 00 0.0 60.0 0.00 0.00 0.00
+Mission Canyon
+9,400.0 0.00 0.00 9,399.7 00 60.0 60.0 0.00 0.00 0.00
+9,500.0 0.00 0.00 9,499.7 00 60.0 60.0 0.00 0.00 0.00
+9,600.0 0.00 0.00 9,599.7 00 60.0 60.0 0.00 0.00 0.00
+9,700.0 0.00 0.00 9,699.7 00 60.0 60.0 0.00 0.00 0.00
+9,800.0 0.00 0.00 9,799.7 00 60.0 60.0 0.00 0.00 0.00
+9,900.0 0.00 0.00 9,899.7 00 60.0 60.0 0.00 0.00 0.00
+9,926.3 0.00 0.00 9,926.0 00 60.0 60.0 0.00 0.00 0.00
+Lodgepole
+10,000.3 0.00 0.00 10,000.0 00 60.0 60.0 0.00 0.00 0.00
+Start 292.5 hold at 1000.3 MD
+10,100.0 0.00 0.00 10,0997 00 60.0 60.0 0.00 0.00 0.00
+10.200.0 0.00 0.00 10,1997 00 60.0 60.0 0.00 0.00 0.00
+10,2928 0.00 0.00 10,2925 00 60.0 60.0 0.00 0.00 0.00
+Start Build 12.00 KOP
+10,300.0 0.86 112.38 10.2997 00 60.1 60.0 12.00 12.00 0.00
+10,325.0 3.86 112.38 10,3247 04 610 61.0 12.00 12.00 0.00
+10,350.0 6.86 112.38 10,349.6 13 63.2 63.2 12.00 12.00 0.00
+10,375.0 9.86 112.38 10,3743, 27 66.5 66.6 12.00 12.00 0.00
+10,400.0 12.86 112.38 10,398.8 “46 mA 12 12.00 12.00 0.00
+10.425.0 15.86 112.38 10,423.41 69 76.8 77.0 12.00 12.00 0.00
+S/9I2014 5:57:21PM Page 5 COMPASS 5000.1 Build 65
+
+Oasis Petroleum
+Planning Report
+Database: OpenWellsCompass - EDM Prod Local Co-ordinate Reference: Well Wade Federal 5300 41-30 7T
+Company: Oasis ‘TVD Reference: WELL @ 2070.0f (Original Well Elev)
+Project: Indian Hills, MD Reference: WELL @ 2070.0ft (Original Well Elev)
+Site: 153N-100W-29/30 North Reference: True
+Well: Wade Federal 5300 41-30 7T Survey Calculation Method: Minimum Curvature
+Wellbore: Wade Federal 5300 41-30 7T
+Design: Design #1
+Planned Survey
+Measured Vertical Vertical Dogleg Build Turn
+Depth Inclination Azimuth Depth +N +ERW Section Rate Rate Rate
+cy i) °) ( ) (fh cs (itor) = eHtoarty root
+10,450.0 18.86 112.38 10,446.9 98 837 34.0 12.00 12.00 0.00
+10.475.0 21.86 112.38 10,470.83, 134 918 92.1 12.00 12.00 0.00
+10,500.0 24.86 112.38 10,493.3 169 100.9 101.4 12.00 12.00 0.00
+10,525.0 27.86 112.38 10.5157 214 11.2 111.8 12.00 12.00 0.00
+10,550.0 30.86 112.38 10.837.5 257 1225 123.3 12.00 12.00 0.00
+10.875.0 33.86 112.38 10,558.6 308 134.9 138.8 12.00 12.00 0.00
+10,600.0 36.86 112.38 10.579.0 36.4 148.3 149.4 12.00 12.00 0.00
+10,625.0 39.86 112.38 10,598.6 423 162.6 163.9 12.00 12.00 0.00
+10,650.0 42.86 112.38 10.6173 486 179 179.4 12.00 12.00 0.00
+10.675.0 45.86 112.38 10,635.2 552 194.1 198.7 12.00 12.00 0.00
+10,700.0 48.86 112.38 10,6521 62.2 aia 213.0 12.00 12.00 0.00
+10,705.9 49.58 112.38 10,656.0 639 215.2 217.2 12.00 12.00 0.00
+False Bakken
+10.724.9 51.85 112.38 10,668.0 695 228.8 230.9 12.00 12.00 0.00
+Upper Bakken Shale
+10,725.0 51.86 112.38 10,668.1 695 228.9 231.0 12.00 12.00 0.00
+10.750.0 54.86 112.38 10,683.0 T72 247.4 249.8 11.98 11.98 0.00
+Middle Bakken
+10.775.0 57.86 112.38 10,6968 851 266.7 269.3 12.02 12.02 0.00
+10,800.0 60.86 112.38 10,709.6 93.3 286.5 289.4 12.00 12.00 0.00
+10,8201 63.28 112.38 10.719.0 100.1 303.0 306.1 12.00 12.00 0.00
+Lower Bakken Shale
+10,825.0 63.86 112.38 10,7212 A017 307.0 310.1 12.00 12.00 0.00
+10.8411 65.79 112.38 10.728.0 107.3 3205 323.8 12.00 12.00 0.00
+Pronghorn
+10,850.0 66.86 112.38 10.7316 1104 328.0 331.4 12.00 12.00 0.00
+10.875.0 69.86 112.38 10,7408 119.2 349.5 353.2 12.00 12.00 0.00
+10,884.6 71.01 112.38 10.744.0 122.7 357.8 361.6 12.00 12.00 0.00
+Threeforks
+10,900.0 72.86 112.38 10.7488 128.2 3714 378.4 12.00 12.00 0.00
+10,925.0 75.86 112.38 10,755.5 1374 393.7 397.9 12.00 12.00 0.00
+10,950.0 78.86 112.38 10.761.0 146.7 416.2 420.7 12.00 12.00 0.00
+10,950.1 78.86 112.38 10.761.0 146.7 416.3 420.8 0.00 0.00 0.00
+Threeforks(Top of Target)
+10,975.0 81.86 112.38 10,765.2 “156.1 439.0 443.8 12.03 12.08 0.00
+11,000.0 84.86 112.38 10,768.1 165.5 462.0 467.4 12.00 12.00 0.00
+11,025.0 87.86 112.38 10.769.7 175.0 485.0 490.4 12.00 12.00 0.00
+1,039.9 89.65 112.38 10.770.0 “180.7 498.8 504.4 12.00 12.00 0.00
+Start 4.3 hold at 11039.9 MD
+1,041.0 89.65 112.38 10.770.0 1814 499.8 505.4 0.00 0.00 0.00
+Po
+11,041.2 89.65 112.38 10.770.0 181.2 500.0 505.6 0.00 0.00 0.00
+Start DLS 3.02 TFO 269.93 7” csg pt
+11,0447 89.65 112.38 10.770.0 182.5 503.3 508.9 0.00 0.00 0.00
+Threeforks(Base of Target)
+11,100.0 89.65 110.61 10.7704 202.8 554.7 561.0 3.21 0.00 “3.21
+1,200.0 89.65 107.59 1071.0 235.5 649.2 656.5 3.02 0.00 -3.02
+11,300.0 80.64 104.57 10.7716 263.1 745.3 753.4 3.02 0.00 -3.02
+11,400.0 80.64 101.55 10.7722 285.7 842.7 851.5 3.02 0.00 -3.02
+11,500.0 89.64 98.53 10,7728 -303.2 g4at4 950.4 3.02 0.00 -3.02
+11,600.0 80.64 95.51 10,7735 3154 1,040.4 1,050.0 3.02 0.00 -3.02
+11,700.0 89.65 92.49 10,7741 322.3 1,140.1 4,149.9 3.02 0.00 -3.02
+11,782.3, 89.65 30.00 10,7746 324.1 1,222.4 4,232.2 3.02 0.00 -3.02
+Start 8807.7 hold at 11782.3 MD
+S/9I2014 5:57:21PM Page 6 COMPASS 5000.1 Build 65
+
+Oasis Petroleum
+Planning Report
+
+Database: OpenWellsCompass - EDM Prod Local Co-ordinate Reference: Well Wade Federal 5300 41-30 7T
+
+Company: Oasis ‘TVD Reference: WELL @ 2070.0f (Original Well Elev)
+
+Project: Indian Hills, MD Reference: WELL @ 2070.0ft (Original Well Elev)
+
+Site: 153N-100W-29/30 North Reference: True
+
+Well: Wade Federal 5300 41-30 7T Survey Calculation Method: Minimum Curvature
+
+Wellbore: Wade Federal 5300 41-30 7T
+
+Design: Design #1
+
+Planned Survey
+
+Measured Vertical Vertical Dogleg Build Turn
+
+Depth Inclination Azimuth Depth +NAS +EW ‘Section Rate Rate Rate
+(fe ° ° (fy (fo. (ny (fo (Pron) CHoor) Hoot)
+1,800.0 89.65 90.00 10.7747 824.1 1,240.1 4,249.9 0.00 0.00 0.00
+11,900.0 89.65 90.00 10.775.3 324.1 1,340.1 1,349.9 0.00 0.00 0.00
+12,000.0 89.65 90.00 10.775.9 324.1 1,440.1 1,449.8 0.00 0.00 0.00
+12,100.0 89.65 30.00 1076.5 324.1 1,540.1 1,549.8 0.00 0.00 0.00
+12,200.0 89.65 90.00 10.77.41 324.1 1,640.1 1,649.7 0.00 0.00 0.00
+12,300.0 89.65 30.00 10.7778 324.1 1,740.1 1,749.6 0.00 0.00 0.00
+12,400.0 89.65 90.00 10.78.4 324.1 1,840.1 1,849.6 0.00 0.00 0.00
+12,500.0 89.65 90.00 10,779.0 324.1 1,940.1 1,949.5 0.00 0.00 0.00
+12,600.0 89.65 30.00 10.779.6 324.1 2,040.1 2,049.5 0.00 0.00 0.00
+12,700.0 89.65 90.00 10,780.2 324.1 2.1401 2,149.4 0.00 0.00 0.00
+12,800.0 89.65 30.00 10.7808 324.1 2,240.1 2,249.4 0.00 0.00 0.00
+12,900.0 89.65 90.00 10,7814 324.1 2,340.1 2,349.3 0.00 0.00 0.00
+13,000.0 89.65 90.00 10,782.0 324.1 2.4401 2,449.3 0.00 0.00 0.00
+13,100.0 89.65 30.00 10,7826 324.1 2.5401 2,549.2 0.00 0.00 0.00
+13,200.0 89.65 90.00 10,783.3, 324.1 2.8401 2,649.2 0.00 0.00 0.00
+13,300.0 89.65 30.00 10.783.9 324.1 2,740.1 2,749.1 0.00 0.00 0.00
+13,400.0 89.65 90.00 10,784.5 324.1 2.8401 2,849.1 0.00 0.00 0.00
+13,500.0 89.65 90.00 10,785.1 324.1 2,940.1 2,949.0 0.00 0.00 0.00
+13,600.0 89.65 90.00 10,7857 324.1 3,040.1 3,048.9 0.00 0.00 0.00
+13,700.0 89.65 30.00 10,786.3 324.1 3.1401 3148.9 0.00 0.00 0.00
+13,800.0 89.65 30.00 10,786.9 324.1 3.2401 3,248.8 0.00 0.00 0.00
+13,900.0 89.65 90.00 10,7875 324.1 3.3401 3,348.8 0.00 0.00 0.00
+14,000.0 89.65 90.00 10,788.1 324.1 3.4401 3,448.7 0.00 0.00 0.00
+14,100.0 89.65 90.00 10,7888 324.1 3.5401 3,548.7 0.00 0.00 0.00
+14.2000 89.65 30.00 10,789.4 324.1 3,640.1 3,648.6 0.00 0.00 0.00
+14,300.0 89.65 30.00 10,790.0 324.1 3,740.0 3,748.6 0.00 0.00 0.00
+14,400.0 89.65 90.00 10,7906 324.1 3,840.0 3,848.5 0.00 0.00 0.00
+14,5000 89.65 90.00 10,791.2 324.1 3,940.0 3,948.5 0.00 0.00 0.00
+14,6000 89.65 90.00 10,7918 324.1 4.0400 4,048.4 0.00 0.00 0.00
+14.7000 89.65 30.00 10,7924 324.1 4140.0 4,148.3 0.00 0.00 0.00
+14,800.0 89.65 30.00 10.793.0 324.1 4,240.0 4,248.3 0.00 0.00 0.00
+14,900.0 89.65 90.00 10,7936 324.1 4340.0 4,348.2 0.00 0.00 0.00
+15,000.0 89.65 30.00 10,794.3, 324.1 4440.0 4,448.2 0.00 0.00 0.00
+15,100.0 89.65 90.00 10,794.9 324.1 4.5400 4,548.1 0.00 0.00 0.00
+15,200.0 89.65 90.00 10,795.5 324.1 4840.0 4,648.1 0.00 0.00 0.00
+15,300.0 89.65 30.00 10,796.1 324.1 4.7400 4,748.0 0.00 0.00 0.00
+15,400.0 89.65 90.00 10,7987 324.1 4.8400 4,848.0 0.00 0.00 0.00
+15,500.0 89.65 30.00 10,7973, 324.1 4.9400 4,947.9 0.00 0.00 0.00
+15,600.0 89.65 90.00 10.7979 324.1 5,040.0 5,047.9 0.00 0.00 0.00
+15,700.0 89.65 90.00 10,798.5 324.1 5,140.0 5147.8 0.00 0.00 0.00
+15,800.0 89.65 30.00 10,799.2 324.1 5,240.0 5,247.8 0.00 0.00 0.00
+15,900.0 89.65 90.00 10,799.8 324.1 5,340.0 5,347.7 0.00 0.00 0.00
+16,000.0 89.65 30.00 10,8004 324.1 5,440.0 5,447.6 0.00 0.00 0.00
+16,100.0 89.65 90.00 10,801.0 324.1 5,540.0 5547.6 0.00 0.00 0.00
+16,2000 89.65 90.00 10,8016 324.1 5,840.0 5,647.5 0.00 0.00 0.00
+16,300.0 89.65 30.00 10,8022 324.1 5,740.0 5,747.5 0.00 0.00 0.00
+16,400.0 89.65 90.00 10,8028 324.1 5,840.0 5,847.4 0.00 0.00 0.00
+16.5000 89.65 30.00 10,8034 324.1 5,940.0 5,947.4 0.00 0.00 0.00
+16,600.0 89.65 90.00 10,804.0 324.1 6,040.0 6,047.3 0.00 0.00 0.00
+16,700.0 89.65 90.00 10,8047 324.1 6,140.0 6147.3 0.00 0.00 0.00
+16.800.0 89.65 30.00 10,805.3 324.1 6,240.0 6,247.2 0.00 0.00 0.00
+16,900.0 89.65 90.00 10,805.9 324.1 6,340.0 6,347.2 0.00 0.00 0.00
+17,000.0 89.65 90.00 10,806.5 324.1 6,440.0 6,447.1 0.00 0.00 0.00
+17,100.0 89.65 30.00 10,807.1 324.1 6,540.0 6,547.1 0.00 0.00 0.00
+17.200.0 89.65 30.00 10,8077 324.1 6,640.0 6,647.0 0.00 0.00 0.00
+
+S/9I2014 5:57:21PM Page 7 COMPASS 5000.1 Build 65
+
+Oasis Petroleum
+Planning Report
+Database: OpenWellsCompass - EDM Prod Local Co-ordinate Reference: Well Wade Federal 5300 41-30 7T
+Company: Oasis ‘TVD Reference: WELL @ 2070.0f (Original Well Elev)
+Project: Indian Hills, MD Reference: WELL @ 2070.0ft (Original Well Elev)
+Site: 153N-100W-29/30 North Reference: True
+Well: Wade Federal 5300 41-30 7T Survey Calculation Method: Minimum Curvature
+Wellbore: Wade Federal 5300 41-30 7T
+Design: Design #1
+Planned Survey
+Measured Vertical Vertical Dogleg Build Turn
+Depth Inclination = Azimuth Depth +NAS +EW ‘Section Rate Rate Rate
+(fe ° ° (fy (fo. (ny (fo (Pron) CHoor) Hoot)
+17,300.0 89.65 90.00 10,808.3, 824.1 6,740.0 6746.9 0.00 0.00 0.00
+17,400.0 89.65 90.00 10,808.9 324.1 6,840.0 6,846.9 0.00 0.00 0.00
+17,500.0 89.65 90.00 10,809.5 324.1 6,940.0 6,946.8 0.00 0.00 0.00
+17,6000 89.65 30.00 10.810.2 324.1 7,040.0 7,046.8 0.00 0.00 0.00
+17,700.0 89.65 90.00 10.8108 324.1 7,140.0 7148.7 0.00 0.00 0.00
+17,800.0 89.65 30.00 108114 324.1 7,240.0 7,248.7 0.00 0.00 0.00
+17,900.0 89.65 90.00 10,812.0 324.1 7,340.0 7,346.6 0.00 0.00 0.00
+18,000.0 89.65 90.00 10.8126 324.1 7,440.0 7,446.8 0.00 0.00 0.00
+18.100.0 89.65 30.00 10.8132 324.1 7,540.0 7,548.5 0.00 0.00 0.00
+18.200.0 89.65 90.00 10.8138 324.1 7,840.0 7,646.5 0.00 0.00 0.00
+18,300.0 89.65 30.00 108144 324.1 7,740.0 7746.4 0.00 0.00 0.00
+18,400.0 89.65 90.00 10,815.0 324.1 7,840.0 7.8464 0.00 0.00 0.00
+18,500.0 89.65 90.00 10.8157 324.1 7,940.0 7,946.3 0.00 0.00 0.00
+18,600.0 89.65 30.00 10.8163 324.1 8,040.0 8,046.2 0.00 0.00 0.00
+18,700.0 89.65 90.00 10.816.9 324.1 8,140.0 8146.2 0.00 0.00 0.00
+18,800.0 89.65 30.00 10.8175 324.1 8,240.0 8,246.1 0.00 0.00 0.00
+18,900.0 89.65 90.00 10,818.1 324.1 8,340.0 8,346.1 0.00 0.00 0.00
+19,000.0 89.65 90.00 10.8187 324.1 8,440.0 8,446.0 0.00 0.00 0.00
+19,100.0 89.65 90.00 10,819.83, 324.1 8,540.0 8,548.0 0.00 0.00 0.00
+19.200.0 89.65 30.00 10.819.9 324.1 3,640.0 8,645.9 0.00 0.00 0.00
+19,300.0 89.65 30.00 10,8205 324.1 8,740.0 8,745.9 0.00 0.00 0.00
+19,400.0 89.65 90.00 10,8212 324.1 8,840.0 8,845.8 0.00 0.00 0.00
+19,500.0 89.65 90.00 10821.8 324.1 8,940.0 8,945.8 0.00 0.00 0.00
+19,600.0 89.65 90.00 10,8224 324.1 9,039.9 9,045.7 0.00 0.00 0.00
+19,700.0 89.65 30.00 10,.823.0 324.1 9,139.9 9145.6 0.00 0.00 0.00
+19,800.0 89.65 30.00 10,823.6 324.1 9,239.9 9,245.6 0.00 0.00 0.00
+19,900.0 89.65 90.00 10,824.2 324.1 9,339.9 9,345.5 0.00 0.00 0.00
+20,000.0 89.65 90.00 10,824.8 324.1 9,439.9 9,445.5 0.00 0.00 0.00
+20,100.0 89.65 90.00 10,8254 324.1 9,539.9 9545.4 0.00 0.00 0.00
+20,200.0 89.65 30.00 10,826.1 324.1 9,639.9 9,645.4 0.00 0.00 0.00
+20,300.0 89.65 30.00 10,8267 324.1 9,739.9 9,745.3 0.00 0.00 0.00
+20,400.0 89.65 90.00 10,827.38 324.1 9,839.9 9,845.3 0.00 0.00 0.00
+20,500.0 89.65 30.00 10,8279 324.1 9,939.9 9,945.2 0.00 0.00 0.00
+20,590.41 89.65 30.00 10,828.4 324.1 10,030.0  10,035.2 0.00 0.00 0.00
+TD at 20590.1
+Casing Points
+Measured Vertical Casing Hole
+Depth Depth Diameter Diameter
+(fo) {ft} Name fin) (in)
+2,050.0 2,050.0 9 5/8" 9.625 13.500
+1,041.0 1070.0 7° 7.000 8.750
+S/9I2014 5:57:21PM Page 6 COMPASS 5000.1 Build 65
+
+Oasis Petroleum
+Planning Report
+Database: OpenWellsCompass - EDM Prod Local Co-ordinate Reference: Well Wade Federal 5300 41-30 7T
+Company: Oasis ‘TVD Reference: WELL @ 2070.0f (Original Well Elev)
+Project: Indian Hills, MD Reference: WELL @ 2070.0ft (Original Well Elev)
+Site: 153N-100W-29/30 North Reference: True
+Well: Wade Federal 5300 41-30 7T Survey Calculation Method: Minimum Curvature
+Wellbore: Wade Federal 5300 41-30 7T
+Design: Design #1
+Formations
+Measured Vertical Dip
+Depth Depth Dip Direction
+tf (fo) Name Lithology 0 i]
+1,920.0 1,920.0 Pierre
+4566.1 4,566.0 Greenhom
+4969.1 4,969.0 Mowry
+5,991.1 5,391.0 Dakota
+6,407.2 6,407.0 Rierdon
+6,896.2 6,896.0 Dunham Salt
+6,942.2 6,942.0 Dunham Salt Base
+7,208.2 7,205.0 Pine Salt
+7,229.2 7,228.0 Pine Salt Base
+7,291.2 7,291.0 Opeche Salt
+7371.2 7,371.0 Opeche Salt Base
+7618.2 7,615.0 Amsden
+TIN ZITO Tyler
+7,994.2 7,994.0 Otte/Base Minnelusa
+8,336.3 8,336.0 Kibbey Lime
+8,484.3 8,484.0 Charles Salt
+9,163.3 9,163.0 Base Last Salt
+9377.3 9,377.0 Mission Canyon
+9,926.3 9,926.0 Lodgepole
+10,708.9 10,656.0 False Bakken
+10,7249 10,668.0 Upper Bakken Shale
+10,7500 10,683.0 Middle Bakken
+10,8201 10,719.0 Lower Bakken Shale
+10,8411 10.728.0 Pronghorn
+10,884.6 10,744.0 Threeforks
+10,9501 10,7610 Threeforks(Top of Target)
+11,0847 10,770.0 Threeforks(Base of Target)
+Plan Annotations
+Measured Vertical Local Coordinates
+Depth Depth NAS +ELW
+(ft) i) (ft) (ft) Comment
+2,020.0 2,020.0 00 0.0 Start Build 5.00
+2,030.0 2,030.0 00 0.0 Start 6865.6 hold at 2030.0 MD
+8,895.6 8,895.3 00 60.0 Start Drop -5.00
+8,905.6 8,905.3 a0 60.0 Start 1094.7 hold at 8905.6 MD
+10,000.3, 10,000.0 00 60.0 Start 292.5 hold at 1000.3 MD
+10,2928 10,2925 00 60.0 Start Build 12.00 KOP
+11,039.9 10,770.0 “180.7 498.8 Start 1.3 hold at 11039.9 MD
+11,081.2 10,770.0 181.2 500.0 Start DLS 3.02 TFO 269.93 7" csg pt
+11,782.3, 10,7746 3241 1,222.4 Start 8807.7 hold at 11782.3 MD
+20,590.1 10,828.4 3241 10,030.0 TD at 20590.1
+S/9I2014 5:57:21PM Page 9 COMPASS 5000.1 Build 65
+
+SECTION BREAKDOWN : i
+OASIS PETROLEUM NORTH AMERICA, LLC 4 a
+1001 FANNIN, SUITE 1500, HOUSTON, TX 77002 Q i
+“WADE FEDERAL 5300 41-30 7T” g 74]
+877 FEET FROM SOUTH LINE AND 280 FEET FROM WEST LINE 5 bE?
+SECTIONS 29 & 30, T153N, R100W, 5th P.M,, MCKENZIE COUNTY, NORTH DAKOTA ale |
+FOUND SIONE ~ EDGE OF il fa
+SOUND STON= W7 REBAR / ~~ LAKE THEORETICAL Bi a]
+W/ RTBAR\ nine W/ REBAR \ a . snatnn” teantan” antantan” meng ane “POSITION Bonn:
+. two AZ SOO OS AZ $0°03'03" No AZ 90°CO'00" \ “207' fcLo} AZ 9O°CO'OO AZ 90°CO'90 AZ 90°00'0G AZ 90°00'090 Re = i
+; 1329.65" 1321.72 3 1sc7' (GLC) \ aS 1188" (CLO}p Bls20 (CLoya] 1520" (CLO} ig] 1.529" (GLORST Ba:
+‘ol. N.. 6}. \ BG ZS PIS a3 Slo Le cs
+pal Rea) i | + wl iQ I Q ! we wl & | 2 ge ae 4
+ay Ble p10 1) @@ a oy or hae S Z
+Sj= LOT1 as als LOT5 as LOT1 Ho Blo rae als
+5 5/5 5) (| 32 mo ms mS i Ese
+NI = = { on 5 2 xn 2 ni? nt o «
+AZ 89°56'39 A7 89°56'39 4Z g0°CO' OO" a a AZ 9OCO 00 AZ GO°GO'OS AZ 90°O0'CO AF 9O°O0' 0 < 35/8 3g
+1551.48" 1322.23" 2, 1643' (CLO)r m2 1778 (G-O}, 1320" (GLOYq] 1320" (GLOYig) 1320" (CLOYS] eee} 4
+*n N S|. i < 25 mls =|9 S19 eeele|.
+“lo sf to 8 in A 216 ae) GS roslels
+Ale sls 38 LOTS. Lot2 8 & vie o[. ca ea ESe|S|2 2
+ole a lho teen o Bre Blo ral et al>][°%
+Sf= LOT2 ZS BS az goroo’o0", | Az 90°90"03 Ble ey ls Ble 25 5]e
+{2 |B PLE 233" (SLO) a 901? (SLO: ao mf rule nS o We8el8
+FOUND STOVE] paeggysh eorant smb ay anentant | \ = az oooc'co% yar soroo'o0! az gevoo'og= = We#s|y
+ws 2 ao Ad 8Y'S0 15 AZ 89°SC15 ‘a AZ 90°00100 \ \ Zé 90°00'0 AZ 90°00! AZ_90°00'0C = pee Std
+LS 2684 1333.35 5 1309.75) SF 1320° (GLO i 1520" (GLO) 1520" (CLO}p}.1520' (GLC) S| _— g o BIeyl4
+B + ES) Ola LOT3= & | -~ wo SLO a Ws =
+XI. comes 2. two aN na mo DG wo] ed © Ho 23
+29 Lora. BS aE a \ A? 9c°00'C0" rearel ie 22 Are 2
+sla Bs a ae 7 SOONG ge = “18 gle Zz
+4 ra a 5 Y u Q
+A? agass AZ Be4751°") az aoron’oa” Xx _ AZ Q0"OO'00"a] TAZ 90°O0'00 AZ 90°00'09 Ww i
+7 1335.48" 4 423.57" *o 1326' (GLO},' i ; 1$20° (GLO)g ql s20" (CLO},,| 1520" (CLOYS on ry 2 42,8!
+a. =. Sl Be \ AZ 359°55'45" ¥ inl 3 2g, SIS by Wl eeS8 88 23
+tals ries) 7 “leroy a in| 4 21a BScede ga
+ia] | Bo Be NX 424 (GLO) LoT4. > 2] BIE rae
+sje b0T4 25 gle lo LOTS OS BS LOTS Ao LOTS Bly 5 ecsceeas
+O14 5|5 ry mig AZ 359°55'20” JZ s]e Pye Z lle sbeees
+FOLND STONE | nN NI nye 228.00" =| ~ y ° a] | ne
+Ws 2 ACN az 893/727" | az 89°37'27"S | AZ B9DBOR"S| AZ 8975808" By =e, 3 i
+135/63 "324,39 1319.86 139.86 / epg tire
+FOUND S "ONE FOUND REBAR w// AZ 90°C0'D0” POST IGN ©)
+W/ REAR 2" aC LS 2884 va a as VICINITY MAP
+858° (GLO} al ar —<z ws
+ae Es oN ‘ . as
+gh BB, : ms : Re
+IHIS_ DOCUMENT WAS CRIGINALLY P oe so A # \ ? as |
+ISSUED AND SEA-ED BY DARYL C _ 0 ae, BR. | 5° i
+KASEMAN, PLS, REG STRATION NUMBER iN; ) cs es 30} e i ' ! 29 SG:
+3880 ON 38 8/4 aND THE SANG PROPOSED aay aes i
+is os ore a 4 - =
+ORIGINAL DOCUMENTS ARE STORED AT ALL AZIMLTHS ARE BASED ON G.P.S. ee SY -AGGESS OHO acy ap Sage . i
+IHE OFFICES OF INIERSIATE : ORSTRVATCOKS. THD ORGKAL SURVEY OF THIS vy _ zy ned a WADE FEDERAL :
+ENGINEERING, INC. AREA =OR IHE GENERAL LAND OFFICE (G.L.0.) PA YAARYL DINE ~ a - 5300 41-30 7T =
+WAS 1897, —1E CORNERS FCUND AR= AS CEE KASEMAN \T a : As, 93 ye .
+- 2 7 Les wa v | ede. B:
+INDICATED AND All OTHERS ARF COMPJT=D FROM S ? . 2 ee . lgt .
+TIOSE CORNERS FOUND AND BASCD ON GLO w LS-3880 4 Ly ny re Ah 4 Ne
+DATA, THE MAPPING ANG_E FOR “4S AREA IS we%/1R/TA at pRorose”’ 6 NR YT we ENN
+MONUMENT — RECOVES AP©ROXIMATE_Y 0°03’ RATES eV |” access ROAD OI fi = .
+] Hi MONUMEN RECOVERED 4 a § : ey Ni se Roa’ an i -_ oe)
+of MONUMFN7 NOT RFCGVFRFD ——— ORG ae Bok NS ER ~S —
+
+PAD LAYOUT
+OASIS PETROLEUM NORTH AMERICA, LLG
+1001 FANNIN, SUITE 1500, HOUSTON, TX 77002
+“WADE FEDERAL 5300 41-30 7T"
+877 FEET FROM SOUTH LINE AND 280 FEET FROM WEST LINE
+SECTION 30, T153N, R100W, 5th P.M., MCKENZIE COUNTY, NORTH DAKOTA
+"Wf li B@kly gp]
+AS F207 F-33.0° : <
+A FG = 20446 F-35.8' SY |
+A \ pore Fe=z08  F-38.5;/
+i YN FG= 20946 Fess WY
+| A 1%[SLOPE yortcu. 1%|SLOPE Y
+aN Hl WA
+| % F186 TN F219! {SEE DETAIL) F28.1'/| ps2.9/Y | |
+wR = 20445 FS 2056 Fe=20060 Fa ais WY
+N ae
+A R Mwy
+7 Swi Hf
+IAS 2 Yall
+aS ey
+% o ly
+= a = OM )
+In a BERM M4
+| q (SEE DETAIL) vii |
+HAS BERM Mill
+Be \ a
+A (SEE DETAIL) N IHIS DOCUMENT WAS GRIGINALLY ISSUE
+y S AND SEALE) BY DARYL D. KASEWAN
+Z S .
+N ne WADE FEDERAL 5300 31730) 23 N PLS, REGISTRATION NUMBER 3880 ON
+q Ss GROUND ELEV. = 2048. 1 S BBs 4 ARG TEE ORIGINAL
+AN FINISH PAD FLEV, = 2945.0" N DOCUMENTS ARE STORED An TRE
+AF -145 coz} C-24.2N SUMENTS ARE SORE) A7 .
+% cy 5 x OFFICES CF INERSIATE ENGINEERING,
+Va’ — 5 fd : i
+SHA SIXTZENTH LINE 4 Nl SIXICENTH LINE
+220°0560 HM ze, cea |
+p Access WHI WADE FEDERAL 9300 41-30/312
+MHA &] GROUND CLE, = 2048.3" N \
+‘| A coef FIViSe PAD Elev. = 7045.0] copeN
+HZ: ig _,| WACE FEDERAL 5300 41-30]4T SES ORM
+WAN %] cROUND ELEY. = 2051.6° =_s JNO
+K CALI SFNISH PAD FLEV. = 7025.0] 6.241) NE=—— ng ie SS
+AA? r Ta ae 1 ee a Otiane So
+PAIN WADE FEDERAL 5309 41-30 572 ie | i vA ZAARYL D. A
+Y N GROUNY ELEV. = 2056.5 ie 75 OST KASEMAN  \z
+N FINISH PAD ELEY. - 2045.0" a 7
+6 : Hl | Wal Ls-3a80 |S
+N ie
+ZAK CUT CLOPES = 2:1 H fo | 6; ke
+| FILL SLOPES = 1.5:1 . gu
+1 oo oe STH DNS
+| | 7 ed PIT WILL a Y re | 7
+| ja BE OFFSITE o in a
+q Bm 8 a 3}
+oa | 7) " NY]
+z 4 Y
+' Hi z a Z .
+ga 4 a 8 ie ig NOTE: Pad dimensions shown are to
+> is 2° | 4 usable area, the v-ditch and berm
+4 -, wa A mt 60>, areas shall be built to the outside of
+w = u ——$———— YO imensi
+Zz i 1! —————— GN the pad dimensions.
+4 A
+a} | i BERM ; gp al
+yy S N B rs 7
+N WADE FICDERA. 5300 41-30 63 N Bo CGO ~ 3ERM
+N GROUND ELEY. - 2073.5" S mo % =
+N FINISH PAD ELEY, = 2045.0" N a a 34
+N B N 4) P sed Cortsurs
+Nro4 3 caaaN 4 ——@  — Proposed Cortcurs
+| § WADE FEDERAL 5300 47-30 7T four N iN
+( N QELEV. = 2068.38" | a N ia -————- Origiral Corteurs
+GUIS PAD ELEV. = 2045.0 8 oN 0
+l N WADE FEDERAL 5300 41-36 812 CBs N 4
+WV N GROUND] LEV. = 2063.2 Pa N Z
+IW NFINISH FAD ELEV. = 2045.0" < C-37.5'N Z
+| NF1a | CER N g !
+| NN Wade FFDERAL S500 41-30 98 Horx20" N 4
+Ncrouno| Elev, = 2058.4" PROPPANT —xe== S Y
+| | NFINISH FAD ELEV. = 2045.0° PITS Set -E]k 4
+WIN a N Y
+N oa N Y
+N R Zi
+1 Se Coy Y
+AS — 5 N Z| CG ac
+il \ N = _|vprtcn aN YY es |
+All N (SEE DETAIL) 2 VA "= BO
+HRA 203 R 2 RY
+tl IIA F-28.3 & = Rf Y
+(alt MLAS FS = 2048 ay vert MUA BERM
+" a F280 ro _| a2 [roy (SEE DETAIL)
+NING 25.0" Z PROP DS
+Co A Fe 2055 FET Dogo FO=aue\ Paaoeosen
+ra. %
+ro % V-DITCH DETAIL
+Za 2 F-30.8" talsiore F114 F888 | a
+\ A Fg SOaa8 Fezme \RE=au8\
+0 heey TMA BLED | 2 st mir
+IWAN RSS —
+SS
+NO-E: Al utilities show are preliminary only, a complete
+utilities ocation ‘s recoremendec before construction
+© 2014, INTERSTATE ENGINEERING, INC.
+Interstate Engineering, In OASIS PETROLEUM NORTH AMERICA, LLC [ev] emcee)
+425 East Main Strect SECTION 30, T153N, RIO0W
+INTERSTATE Sidney, Montana 69270 se
+ENGINEERING. Ph (406) 433-5617, MCKENZIE COUNTY. NORTH DAKOTA co
+3/ 8 (= G Fax (408) 429-8618 Oran By) _ BH Project Nos _ Siseeno0 ;—f
+wwwinterstateeng.com “ —_—um Lf fT Tt
+SHEET NO. "rofesnonas yee need pene ou rat ‘a oneas in enol. NOT Dea ae So HO Checkow By. OOK Date: a2
+
+WELL LOCATION SITE QUANTITIES
+OASIS PETROLEUM NORTH AMERICA, LLC
+1001 FANNIN, SUITE 1500, HOUSTON, TX 77002
+"WADE FEDERAL 5300 41-30 7T"
+877 FEET FROM SOUTH LINE AND 280 FEET FROM WEST LINE
+SECTION 39, T153N, R100W, Sth P.M., MCKENZIE COUNTY, NORTH DAKOTA.
+WELL SITE ELEVATION 2068.8
+WELL PAD ELEVATION 2045.0
+EXCAVATION 149,966
+PLUS PIT ie]
+149,966
+EMBANKMENT 113,402
+PLUS SHRINKAGE (25%) 28,351
+141,753
+STOCKPILE PIT 0
+STOCKPILE TOP SOIL (6") 7,955
+BERMS 2,533 LF = 821 CY
+DITCHES 1,655 LF = 253 CY
+DETENTION AREA 4,219 CY
+STOCKPILE MATERIAL 3,909
+DISTURBED AREA FROM PAD 10.18 ACRES
+NOTE: ALL QUANTITIES ARE IN CUBIC YARDS (UNLESS NOTED)
+CUT END SLOPES AT 2:1
+FILL END SLOPES AT 1.5:1
+WELL SITE LOCATION
+877' FSL
+280' FWL
+BERM DETAIL DITCH DETAIL
+a z, ; &
+2.5' | min Xo Y r.almin
+__ 6.0 nin __ Lig io mir
+© 2014, INTERSTATE ENGINEERING, INC.
+INTERSTATE eis naien et, | SECTION 30-T153N, RIOOW ns REET
+ENGINEERING Ph (406) 433-5017 |[NCKENZIE COUNTY, NORTH DAKOTA >=} $$
+suce- no, snc ee ea Mans Nn Gna aD a es a Se ey
+
+CROSS SECTIONS
+OASIS PETROLEUM NORTH AMERICA, LLG
+1001 FANNIN, SUITE 1500, HOUSTON, TX 77002
+"WADE FEDERAL 5300 41-3077"
+877 FEET FROM SOUTH LINE AND 280 FEET FROM WEST LINE
+SECTION 30, T153N, R100W, 5th P.M., MCKENZIE COUNTY, NORTH DAKOTA
+2090 2090 2060 2060
+2000 2080 2050 2050
+2070 2070 2040 _ 2040
+2060 2060 2090 a 2030
+ee
+2050 2050 2020 2020
+2040 ae Er 2010 — 2010
+2030 2030 2000 ~ 2000
+2020 2020 1990 1990
+“50-300 250 200 150 100-5020 +~«S00~=CtSO «00S “350 300-250 200 150-100-500 +50 «100 +~«tsD~=«00~=CSD«d
+STA. 8+00 STA. 9+40
+2000 2030 2000 2030
+2080 2080 2080 a 2080
+2070 2070 2070 2070
+2060 2060 2060 2060
+z0s0 2050 2050 2050
+2000 e040 2000 e040
+z090 20a 2000 20a
+z020 zz z020 zz
+So ee ’a50 300-250-200 180 -100°=~-50~=C«@~S*C«SSC«OSCSC0DSO
+STA. 7+00 STA. 6+00
+2090 2090 2090 2090
+2080 — 2080 2080 2080
+2070 2070 2070 2070
+2060 2060 2060 2060
+2050 2080 2050 2080
+2040 ~ 2040 2040 2040
+2000 2030 2000 2030
+“o50 300 250 200 150 100-50 0 50 100 i50 200 e280 300 “350 00 250 200 150 100-5020 +~+«50~=00*S=C«SDSCOOSCSSC
+STA. 4+00 STA. 5+00
+2000 2030 2000 zoe
+‘2080 ~~ 2080 2070 2070
+2070 2070 2060 2060
+2060 2060 2050 2050
+z0s0 2050 2000 e040
+2040 —— 2040 2030 2030
+2030. 2030 2020, — 2020
+*o50 300 250-200-150 100-50 ~«@~=~«SDSC«COSCASO«00 «SOC ’a50 300 250-200-180 -100°=~-50 =~ ~=~=C«SSCODSCSDC00 «SOC
+STA. 3+00 STA. 2+00
+2050 2080 2050 2080
+2040 2040 2040 2040
+2030 2030 2030 Ne 2030
+2020 _ 2020 2020 2020
+2010 oo 2010 200 2010
+2000 2000 2000 2000
+“oso 300-250 200 50 100-50 0 50 100 i50 200 280 300 “50 300-250 200150 -100=«~-50~=~«~S*=«~CSCSCSCOC
+STA. 0+00 STA. 1+00
+TRAD
+LE ee cANG
+Gye SD
+x.
+Wo BARYL D DA TIS DOCUMENT WAS ORIGNAILY ISSUZR AND
+2”, bee . Ora v 3 s SR ATIC
+GREY wm SEALED BY DARYL D. KASEMAN, P_S, REGIS”RATION
+AF KASEMAN \Uz NUMBER 3880 ON _ S/1e/14 AND THE ORICINAL
+ui LS—3880 ie) SOCUNENTS ARE STORED Al THE OFFICES OF
+we ne 2D NTERSTA-= ENGINEERING, INC.
+pate: 3 TE A
+16) ES
+C7 ONS
+SCALE
+HORIZ 1°=160"
+VERT 1”=40'
+© 2014, INTERSTATE ENGINEERING, INC.
+Interstate Engineenng, Ine. ‘OASIS PETROLEUM NORTH AMERICA, LLC [ex] own
+rE ce fe ns : = Ls = =
+sas toatntenbvet SECTION 30. FOUN, RI00W
+INTERSTATE sige), Mota 270 a
+118 (Bese Fax (406) 433-5616 Drown By _ BH Project No. _ ST. 08.351.06 }__f tt
+‘wows intarstateeng.corm “ss Ceram | A I i SS |
+
+ACCESS APPROACH
+OASIS PETROLEUM NORTH AMERICA, LLC
+1001 FANNIN, SUITE 1500, HOUSTON, TX 77002
+“WADE FEDERAL 5300 41-30 7T"
+877 FEET FROM SOUTH LINE AND 260 FEET FROM WEST LINE
+SECTION 30, T153N, R100W, Sth P.M., MCKENZIE COUNTY, NORTH DAKOTA
+| 7 «Lote | |
+WAD= 5390 cds |
+21 30H —_ _ AZ 22540
+FOUND STONE | ree PT |
+#7 2 ACY eee fe a
+LS 2884 1 ee
+af G9
+—25- 50 — —_____ — — -
+iN = 99°90" ce
+_AZ 199700
+AZ 970°00" | | ~ \2,
+70.7 \ PROPOSED. | ‘a |
+j WADE FEDERAL 5300 \\.g
+Is 3130 11T & | \e
+WADE FEDERAL 5300 WS
+- , > M-31 1072 | \\
+AZ 180°06 \ LOT 3 \\
+742.3 \|]| /
+AZ 81°57 WESLEY LINDVIG |
+3| F “00.0 wr /2 SCCTON 36
+x 1 2498.2 FFFT = 15? RODS
+S.]4
+Sli \\
+*W— 4 aoeeeet — H----—+--
+ally | WADE FEDERAL \
+£ | \
+an 5300 41-3077 | \
+5
+aI |
+“TL LOT4 —, proposzd
+|_| OFFSIIE PIT |
+wl.
+NO
+SH
+aS A i ~|
+yay | EL AZ 205 .
+| vA | ay AZ, |
+1 SA I > hat ipiloa»
+Se Laz 169°52 SG 83
+FOUND STONE | | wwe 377.9" | ? »
+w/ 2” ACY | EX. 33 R/W \\
+2s hi}éo ‘| \ so
+——— es ph an —
+36 7 31 AL 893797" 2622.02 aw ae FOLKD STONE
+ale Ex. 33) 2/w |
+aE oe W/ REBAR
+sls S
+js S&S LANG
+xix 4 SO
+‘ - !
+SAWARRYL D. va
+THIS DOCLMENT WAS ORIGINA_LY AS KASEMAN  \tz
+ISSUED AND SEALED BY CARYL B Wit Ls—3880 is)
+KAS=MAN, PLS, REGISTRATION NUMBER a ; ea
+3880 ON _2/18/ 4 AND TUE ATES RATA
+ORGNAL DOCLMEN-S ARE STORED AT 5 sco
+THE OFFICES OF INTERSTATE Jos EY 6 a
+ENGINEERING, INC 7} vs |
+H DA Vos 590"
+NOTE: All utilities scown are preiminary only, a complete
+@ 2014, INTERSTATE ENGINEERING, INC, _Urliffas location is recommended aeere ‘construction
+y= i nn i ee
+425 Ena tn Sst SECTION 30, TISIN, R100
+INTERSTATE Sine, Moan, 8872 ISN, Se
+4/8 (Bec Foe taoe) a3 91 es a a
+EET roles s pos Se eno NL “norms nnn gs, en Uy oe um uh cS A
+
+a) eos al by gM ok as oe
+} a A i} : | 7 ‘
+SP eg aL t <
+a) ine SASIS PCTROLEJY NORTI AMERICA, LC | i
+ve ee WADE FEDERAL 5300 41-30 77
+ia eet ed Ss LOS 877 FSL/280" oT
+r p She: 877° FSL/280° FWL |
+ee __ GvAD LOCATION MAP i
+mo Ey Se cee tON TIS3N, RICOW :
+og A MCKENZIE COUNTY, NORTH DAKOTA Coe ee
+2 ae peel a “ .
+a ws fa oa nein Beatie Ba
+eo ees, ry fe ‘arporet, 1 |
+a a aoe leh” fs hein aL... I
+ce TERE S J ow
+Fee SL Wave 5300) . ! :
+0 ESE tye 21-30H oe gy | = | :
+| pmorostb » Se SORE \ | ‘
+AEGESE ROADS oe OSs i 29 1
+ame \pWADE FEDERAL |” oop
+y. a if “—~\ 5300.41-30 77, i
+“77. PROPOSED Pree nan WBS gh >
+2 PagC CESS ROAD Fare WEI y ieee eee NY
+ART Oe Meenas
+OP op fee ps) are rr ar iS
+er ne ae ge ae? if WE a eee
+() 2014, INTERSTATE ENGINEERING, INC. u : ee . a9 k 4 “A
+5/8 INTERS' Sroecce «Yun vocnrioniay CS
+JIN ENGINEERING fr ‘eet —
+————e eee a
+
+COUNTY ROAD MAP
+OASIS PETROLEUM NORTH AMERICA, LLC
+1001 FANNIN, SUITE 1500, HOUSTON, TX 77002
+“WADE FEDERAL 5300 41-30 7T"
+877 FEET FROM SOUTH LINE AND 280 FEET FROM WEST LINE
+SECTION 30, T153N, R100W, 5th P.M., MCKENZIE COUNTY, NORTH DAKOTA
+5 eee oe ea eS ee
+Saree al a -
+i fe PO . ne ra
+[pee PON Tf FROM EX. LEASE ROAD Raw
+9 Sd ————— < TO WELL SITE ses TES
+a 2.2 WADE FEDERAL’ «gt =£0.55 MILES
+~—-gee . 8300 41-30 7TS NL. on
+= = = TF zt Pros 4, ra
+=o < i = fis r = *% a!
+SReceed ; <a —; \ xb “
+ar ipo fe . - FROM COUNTY 20AD 29
+aa 7 a fe ALONG EX. LEASE ROAD
+Spo wee; ~~ — TO PROPOSED LEASE ROAD
+a on 4 ae ae .
+at Fe=h_ . nes a ‘3
++ - efs "54 : - : “SO —+.-
+ad FROM HIGHWAY 85 Mp ey 2 tt
+; ALONG COUN7Y ROAD 29 . ~ik oo. or.
+y TO CX. LEASE ROAD i; ro} a
+=e =+9.07 MILFS a a. ce
+ft -it > 2. =
+* 2 the > = : . a= : =, = 2
+“Fak >» a 3 ‘ Fe
+2 2 he * ~
+5 "yon 2 we ie ca . Ay : : :
+* yo. foe . an - f Fal
+rr acne rr oi i a ~7i
+. 2 ne ee ae een ae : on t
+: = has ee “ht al as ee
++ . si. feb. : a rs “2b RSS, 4
+1 + = . : ee 3
+: = : H + oe ere _
+“Me : ies $> ef - 24 f
+© 2014, INTERSTATE ENGINEERING, INC. SCALE: 1” - 2 MILE
+6 | 8 Cece: eens, ore se ss Riou __ Fa cee
+ENGINEERING Pr (406) 493-3617 - Ct
+SHEET NO Date wend xis meet ptt pt “Di tia ROR ca a
+
+Of PETROLEUM ___
+STATEMENT
+This statement is being sent in order to comply with NDAC 43-02-03-16 (Application for permit to drill
+and recomplete) which states (in part that) “confirmation that a legal street address has been requested
+for the well site, and well facility if separate from the well site, and the proposed road access to the
+nearest existing public road”. On the date noted below a legal street address was requested from the
+appropriate county office.
+McKenzie County
+Aaron Chisolm — McKenzie County Dept.
+Wade Federal 5300 31-30 2B
+Wade Federal 5300 31-30 3T2
+Wade Federal 5300 41-30 4T
+Wade Federal $300 41-30 5T2
+Wade Federal $300 41-30 6B
+Wade Federal 5300 41-30 7T
+Wade Federal $300 41-30 8T2
+Wade Federal 5300 41-30 9B
+WROuLe d Uy
+Brandi Terry
+Regulatory Specialist
+Oasis Petroleum North America, LLC
+
+From: Heather McCowan
+
+To: Webber, Alice D.; Chelsea Covington; Brandi Terry
+
+Subject: RE: Wade Federal 8 Well Pad
+
+Date: Thursday, June 05, 2014 9:25:20 AM
+
+Attachments: image002.png
+
+Hell Alice,
+
+The cuttings will be buried offsite for this well. | believe a sundry was sent in.
+
+Thanks,
+
+Heather McCowan
+
+Regulatory Assistant | 1001 Fannin, Suite 1500, Houston, Texas 77002 | 281-404-9563 Direct |
+hmccowan@oasispetroleum.com
+
+From: Webber, Alice D. [mailto:adwebber@nd.gov]
+
+Sent: Thursday, June 05, 2014 9:12 AM
+
+To: Chelsea Covington; Brandi Terry; Heather McCowan
+
+Subject: RE: Wade Federal 8 Well Pad
+
+Good morning Ladies,
+
+Just checking in to see if we know where the cuttings are being hauled to for this pad. That is the
+only thing we are waiting for and | would like to get these permitted for Oasis today.
+
+Thanks,
+
+Alice

@@ -1,0 +1,3370 @@
+Well Integrity Report - Form 19 Summary
+INDUSTRIAL COMMISSION OF NORTH DAKOTA
+OIL AND GAS DIVISION
+600 EAST BOULEVARD DEPT 405
+BISMARCK, ND 58505-0840 Well File No. 190329 ‘
+UIC No. [W0437S0919D_
+Test Date: pa 1/2020 10:58:29AM Contractor Performing Pressure Test: [Castle eee ee wi
+Operator: oasis PETROLEUM NORTH AMERICA LLC Telephone : 2814049500 1
+Address: [TOOL FANNIN'STE 1500 City: [HOUSTON 7 State: [FRC zip Code: [77003 |
+‘Well Name: |EARSON SWD 5301 12-24 . | Field: [BAKER __ |
+Location: Qtr-Qtr: [Renw a Section: fa . ! Township: fis : Range: [ior Cnty: [MCKENZIE . |
+WELL TEST DATA
+Formation: |DAKOTA _. Perforations: —|5950-7080 i Feet
+Tool Type: PKR ' Depth: | 5821! Feet Packer Model: Nickle plated. Arrowset _ ;
+Tubing Size: {4.5 : Inches Tubing Type: [11.6 #J-55 Polycore
+‘Well Type: [Disposal Well Reason for Test: fac MIT Test Type: |5 Year MIT
+BEFORE TEST START of TEST END of TEST
+Tubing Pressure: 1400: PsiG [Flowing i 1400 PSIG [Flowing __ 1400, PSIG [Flowing
+Annulus or Casing Pressure: |. 0: PSIG 1000 PSIG __1000: PSIG
+Annulus or Casing Fluid : [Freatea Salt Water Test Fluid: fsa Water :
+Amount of Fluid Needed to Filt Annulus or Casing: Jozs | Bbls
+Test Length: fis Minutes Was Annulus or Casing Bled to Zero After Test?: res If No - Pressure Left: | .
+INSPECTION COMMENTS
+Test Result: [Acceptable nee coe E Report of Work Done Required: [Ro_ oe :
+i passed with no pressure loss over 15 min, MIT due for 5 year test.
+This Report is true and complete to the best of my knowledge.
+Company Representative Witnessing Test: ice Brock cos |. Title: wore Foreman !
+Commission Field Inspector Witnessing Test: [William] Ryan . .
+NDIC Initials J av
+
+CE
+Siro he 56a04
+AUTHORIZATION TO PURCHASE AND TRANSPORT OIL FROM LEASE - Form 8 ro
+EELS INOUSTRIAL COMMISSION OF NORTH DAKOTA Welt Fie Wo,
+fe EEN OIL AND GAS DIVISION APR - 8 2019 90329
+fee ae 600 EAST BOULEVARD DEPT 405 NDIg CTE No
+Swett SOE
+a eT BISMARCK, ND 58505-0840 b & (oS Galle)
+Seu. BAS SFN 5698 (03-2000) Re
+init Oe Ra
+PLEASE READ INSTRUCTIONS BEFORE FLING OUT FCRM € Gas
+PLEASE SUBMIT THE ORIGINAL AND FOUR COMES
+[Weil Name and Number Ot-Orr Section | Township] Range County
+[CARSON SWD 5301 12-24 NENW 24 153 401 Mckenzie
+(Operator FTelephone Number Field
+Oasis Petroleum North America LLC (284) 404.9573 BAKER
+[Address city [State Zip Code
+1004 Fannin, Suite 1500 Houston Tx 77002
+Name of First Purchaser Telephone Number|  % Purchased Date Effective
+Oasis Petroleum Marketing LLC (281) 404-9627 100% January 1, 2019
+Principal Place of Business city State Zip Code
+4001 Fannin, Suite 1500 Houston 1K 77002
+— “
+[Transporter ‘Tetephone Number | % Transported Date Effective
+Power Energy Logistics, LLC (812) 363-5296 100% January 1, 2019
+Address city State Zip Code
+4927 Lohmans Crossing Suite 103 Lakeway Tx 7a734
+‘The above named producer authorizes the above named purchaser to purchase (he percentage of cit stated above which is produced from the
+lease designated above uni further notice ‘The ot! will be transported by Ihe above named transporter
+[Other Transporters Transporting From This Lease % Transported Date Effective
+ier Transpores Tanspotag Fom Ths Lease Pi Transported
+Other Transporters Transporting From This Lease % Transported Date Effective
+other Transporters Transporting From This Lease 1% Transported Date Effective
+Thereby swear or affirm that the information provided is true, complete and correct as determined fram Date
+all available records. April 3, 2019
+Signature + Printed Name Title
+A, Claudia Arguelles Contracts Administrator
+Above Signatare Witnessed By: A 4
+‘Signature = —— Printed Name Tale
+VY fi J Kenzie Buchanan Scheduler
+\
+FOR STATE USE ONLY
+Date Approved Dp nit
+APR 11 2018 .
+ritte 7
+
+yoann . see
+1 | Oil and Gas Division
+1 at \ Lynn D. Heims - Director Bruce E. Hicks - Assistant Director
+\ Department of Mineral Resources
+| \ Lynn D. Helms - Director
+7 fe \ North Dakota Industrial Commission
+L ‘OW, AND GAS DIVISION wow.dinr. nd. gov/oilgas: 44
+ke 5H
+May 11. 2016
+RE: Saltwater Disposal Well Reporting and Monitoring Requirements
+Dear Saltwater Disposal Operator:
+
+This letter is to outline and clarify the Commission's requirements for monthly reporting and
+monitoring of saltwater disposal wells which are outlined under North Dakota Administrative
+Code (NDAC) Section 43-02-05-12. and the type of wastes thal can be injected pursuant to the
+EPA guidelines for Exempt and Non-Exempt Oil and Gas Exploration and Production Wastes,
+
+All injection into a saltwater disposal well mast be measured, either through a meter or by an
+approved method. Accurate gauges must be placed on the tubing and tubing-casing annulus of the
+wel! for pressure monitoring. Any noncompliance with regulations or permit conditions must be
+reported to the Commission orally within 24 hours followed by a written explanation within 5
+days.
+
+Monthly reporting of the following information is required lo be submitted lor a saliwater
+disposal well on a Saltwater Disposal Report (Form 16):
+
+!. Beginning and end of month meter readings.
+
+2. Total barrels injected for the month.
+
+3. Average daily operating injection pressure (this means a typical pressure observed while
+
+the well is injecting. not a mathematical average).
+
+4. Sources of received fluid (these sources need to be listed by well or facility name and
+number. NDIC well or facility file number. and the location of each source by
+guarter-quarter, section, township. and range).
+
+5. Amount of fluid received from each source,
+
+6. Nature of the received fluid (Le. produced water. pit water, cte.).
+
+7. ‘Transportation method used o transport the injection {uid to the disposal well site (Le.
+pipeline or truck).
+
+Saltwater Disposal Reports (Form 16) are due on or before the filth day of the second month
+succeeding the month in which the well is capable of disposal (ie. January report due March 3th).
+
+Pursuant to NDAC Section 43-02-05-13.1, all records from which to make and substantiate
+required reports shall be kept for a period of not less than six years.
+
+a
+600 E Boulevard Ave - Dept 408, Bismarck, North Dakota 58505-0840 Phone (70 1328-8020 Fax (701 )328-8022
+
+May 11, 2016
+
+Saltwater Disposal Well Reporting and Monitoring Requirements
+
+Page 2 of 2
+
+The NDIC abides by the Environmental Protection Agency guidelines for Exempt and
+Non-Exempt Oil and Gas Exploration and Production Wastes to determine what wastes can be
+accepted for disposal from oil and gas exploration and production operations. Attached is an
+example list of exempt and non-exempt oil and gas exploration and production wastes along with a
+flow chart for determining the status of a waste.
+
+The operator is only authorized to inject Class II fluids into a saltwater disposal well. Class
+II fluids are generally defined as follows:
+
+1. Produced water from oil and gas production.
+
+2. Waste fluids from actual drilling operations.
+
+3. Used workover, completion, and stimulation fluids recovered from production, injection,
+
+and exploratory wells.
+
+4. Waste fluids from circulation during well cementing.
+
+5. Pigging fluids from cleaning of collection and injection lines within the field.
+
+6. Enhanced recovery waters including fresh water makeup and other waters containing
+
+chemicals for the purpose of enhanced recovery.
+
+7. Gases used for enhanced recovery/pressure maintenance of production reservoirs.
+
+8. Brine reject from water softeners associated with enhanced recovery.
+
+9. Waste oil and fluids from clean up within the oil field.
+
+10. Waste water from gas plants which are an integral part of production operations unless
+
+those waters are classified as hazardous waste at the time of injection.
+
+The following fluids are non-exempt fluids and are not authorized to be injected into a Class
+II saltwater disposal well:
+
+1. Unused fracturing fluids or acids.
+
+2. Vacuum truck and drum rinsate from trucks and drums containing non-exempt waste.
+
+3. Refined gasoline or diesel fuels.
+
+4. Used equipment lubricating oils.
+
+5. Refinery wastes.
+
+6. Radioactive tracer wastes.
+
+7. Car wash wastes.
+
+Please distribute this letter and the attachment to the appropriate personnel responsible for
+reporting on and monitoring each saltwater disposal well your company operates. If you have any
+questions, do not hesitate to contact me.
+
+Sincerely,
+Ashleigh Day
+Underground Injection Supervisor
+
+’ gi, WELL COMPLETION OR RECOMPLETION REPORT - FORM AGU Sam
+(fg INDUSTRIAL COMMISSION OF NORTH DAKOTA Ss 4 ay
+Ce) GIL AND GAS DIVISION fe SEP (eres |
+A ai 600 EAST BOULEVARD DEPT 405 oad ete 90329
+err ae BISMARCK, ND 58505-0840 on RECEIyp: gy
+ei SFN 2488 (04-2010) cz ND Oe nD yl
+(o
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM a) , OWISION ae,
+PLEASE SUBMIT THE ORIGINAL AND ONE COPY. oa eg 09
+Designate Type of Compietion ™
+O onwei C1 EOR Weil 1 Recompletion CD Deepened Welt 0 Added Horizontal Leg 1 Extended Horizontal Leg
+O Gas Wet 1 swo well O_water Supply Well ©] Other:
+Carson SWD 5301 12-24
+Oasis Petroleum North America (281) 404-9591 Baker
+Address Poot
+LOCATION OF WELL
+eum cere we enw [an [saw [Sor w fwckonsie |
+April 13, 2015, April 19, 2015. Nabors B27 2109 2084
+Type of Electric and Other Logs Run (See Instructions)
+CASING & TUBULARS RECORD {Report all strings set in well
+| wicoe | tee seein | ors | ri | “ton | came | “wary” | "agora" | cea | con
+Well Bore Type Sie (inch) | (MDF) | (MOFH | inch) | (Losey | (MOFD (MOF) | Cement_| Cement
+[SurfaceHole [Surface [ese [oT ano [aaa [ose ee
+[verticaiHole [intermediate [ 7 | oo | mea [esa [a2 Pa ae |
+NS NN NS RS EE SN
+a A NE COD SONSONINNN MOOD (OS ON OUSCOIOSS EE GO
+aS SR SS ES RN ES OS
+SS NN SR SS UD ROUEN MY GE
+NS GS NN CY GRO (SO (GO
+PERFORATION & OPEN HOLE INTERVALS
+Open Hole/Perforat Top of
+Wel Bore Driters Devt Completion iastiony (MOE Kwon Casing Date Pertd Date Isolation | Sacks
+(MD FD Type Tee potiom | (MD FS window oF Oriled tsolated Method | Cement
+[Latorali” | 727 [Pertorations —|__sego_[ "oso | ases_| fosowzors | fT
+a CS NO RS NN
+poe
+Po fee ff
+ee eee A SS RS NS SO I
+RN NR RS NS NE OUD GOR
+poe
+SS A GN SOC SS EE CO
+a NS QOS QUE QO |
+a RS Re RE SO A ND
+PRODUCTION
+Lateral 1-
+June 18, 2015
+24-Hour Rate
+
+Page2
+SFN 2488 (04-2010)
+
+GEOLOGICAL MARKERS PLUG BACK INFORMATION
+[Sreenhom ages ue
+[Mowry | sos sean Pee S|)
+[Newcastle Tag sty |
+[Dakota ge sae
+
+a
+
+a RD TS es SO a
+fo
+Po
+[eee eee EE ee eee ee
+PO eee PRE
+Lo
+RS I CS OO CRS (OO
+a fey SS
+TS RS es CO QO
+Po
+a RS RS pe
+a SS RE ps DO SE
+a A fp RN NR US
+es ee | eS CS
+a es | eS RS
+po
+ee ee |
+es es | CORES CUT
+po | roe en Tecottom fy Formation [Top (Fp [Benen (raf Formaton |
+pO
+a RT RS Oe SD ee
+DO) ee eS ee Eee EE ee)
+Drill Stem Test
+Sample Chamber Recovery
+[Sample Chamber Recovery
+
+Pagea ~
+SFN 2468 (04-2010)
+Well Specific Stimulations
+Date Stimulated Stimulated Formation Top (Ft} [Bottom (Ft)] Stimulation Stages Volume: Volume Units
+Barrels
+
+Maximum Treatment Pressure (PS!) [Maximum Treatment Rate (BBLS/Min)
+Date Simulated [Stimulated Formation Top (Fi) [Sottom (Ft) Stimulation Stages
+Acid % Maximum Treatment Pressure (PS(} [Maximum Treatment Rate (BBLS/Min}
+Lbs Proppant [Maximum Treatment Pressure (PSI) _ |Maximum Treatment Rate (BBLS/Min)
+re reniment eee PeePerrene [Maximum Treatment Pressure (PSI) [Maximum Treatment Rate (BBLS/Min)
+ADDITIONAL INFORMATION AND/OR LIST OF ATTACHMENTS
+Thereby swear or affirm that the information Email Address Bate
+
+ided is true, complete and correct as A 5
+Betermined from alt available records a iswenson@oasispetroleum.com 09/23/2015
+Signature Printed Name Title
+
+Oooo Jennifer Swenson Regulatory Specialist
+
+19510 Oil Center Blvd
+) ) RYAN DIRECTIONAL SERVICES, INC. Houston, TX 77073
+ANABORS COMPANY Bus 281.443.1414
+Fax 281.443.1676
+Monday, April 27, 2015
+State of North Dakota
+Subject: Surveys Re: Oasis
+Carson SWD 5301 12-24
+McKenzie, ND
+Enclosed, please find the original and one copy of the survey performed on the above-referenced well by
+Ryan Directional Services, Inc.. Other information required by your office is as follows:
+TD Straight
+Borehole Start End _—_ Start End ‘Type Line
+‘Surveyor Name Surveyor Title Number Depth Depth Date Date of Projection
+Daniel Ogden MWD Operator OH. 22107163" O4/15/15 04/18/15 MWD T2417
+If any other information is required please contact the undersigned at the letterhead address or phone
+number.
+Douglas Hudson
+Well Planner
+
+ap RYAN DIRECTIONAL SERVICES, INC. Ryan Directional Services, inc.
+19510 Oil Center Blvd.
+A NABORS COMPANY
+Houston, Texas 77073
+Bus: 281.443.1414
+Fax: 281.443.1676
+Saturday, April 18, 2015
+State of North Dakota
+County of McKenzie
+Subject: Survey Certification Letter
+Survey Company: Ryan Directional Services, Inc.
+Job Number: 8858 Surface: 404279.54 N, 1206936.03 E
+Survey Job Type: Ryan MWD API. No: 33-053-90329
+Customer: Oasis Petroleum Location: McKenzie, North Dakota
+Well Name: Carson SWD 5301 12-24 RKB Height: 2109"
+Rig Name: Nabors B27 Distance to Bit: 54°
+TD Straight
+Borehole Start End Start End Type Line
+Surveyor Name Surveyor Title | Number Depth Depth Date Date of Projection
+ee riocvon
+Daniel Ogden MWD Supervisor OH = 2273) 7163" 04/1415 048/15 MWD 7217"
+The data and calculations for this survey have been checked by me and conform to the calibration
+standards and operational procedures set forth by Ryan Directional Services, Inc. | am authorized and
+qualified to review the data, calculations and these reports; the reports represents true and correct
+Directional Surveys of this well based on the original data, the minimum curvature method, corrected to
+True North and obtained at the well site.
+he
+MWD Supervisor
+Ryan Directional Services, inc.
+
+Repos “i RYAN DIRECTIONAL SERVICES, INC. yan oo #__s0s0
+SURVEY REPORT
+Customer sis Petotsum MWD Operator __D. Foley /D. Ogden
+
+Well Name: Garon SW 5301 1238 Directional Driers Pu
+
+Pag Nabors 827 Suney Covected To Tue Nowth
+
+Ale 30053-00028 Veticl Section Breton 180
+
+Caleulaton Method: Minimum Curvature Galeuation Total Crecion 320
+
+Temperature Frecasing Mode! [Chat On) Togartne
+
+[surveys [wo [tne tem temp vs is ew es
+| tien [2210 [ooo [| ooo | 000 | 221000 | ooo | ooo | ooo | 000 |
+[1 | 2273 [ogo [270.10 | 8400__| 2273.00 | 0.00 | 000 | 04s | 1.27 _|
+[2 | 2367 4.10__| 268.20 | 91.00__| 236698 | 007 | 007 | 200 | 033 _|
+[ 3 [aac] t20 260.70 Tatoo | easo.g7 [ost | o.s1 ser Tota
+[4 | 2556.40 [256.40 | 91.00_| 255508 | 07s | 07s | 598 | 023 _|
+[—s | _2650 [4.70 | 261.60 | 95.00 | 6aa.o1 | 422 | ze | ea? | os |
+[5 | 74a [320 [26410 | 96.00 | 27aae5 | 160 | 1.60 | 1164 | 05s _|
+[ 7  [ 2esa_ | oso oa.z0 | toz00 | eears2 | 222 | 222 [1367 | 205 |
+[se | 2032 4.10__| 17800 | 10400 | 2031.81_| 386 | ase | 1383 [073 _|
+[2 | 3026 [4.00 [182,80 [105.00 | 025.80 827 | 827 | 1379 | o19 |
+[10 | aiz1[og0 [205.50 | 107.00 | 12079 | 670 | 670 | ani | oa _|
+[1 [sais | oso eoato | tov00 | sat4.7a [790-790 [146s | oa
+[12 | 3300 [1.00 [tao [109.00 [30877 [azo | 920 [1534 [025 |
+[13] sa0a_ [4.00 [220.10 [111.00 | 340375 [1054 | -to.ss_| 1630 | o16 _|
+[14 | s408 [ogo [256.10 | 11300 | sao7.7_ [11.25 | 125 | 174s | 076 _|
+[15 | 3592 [ogo [271.50 | 100 | 350176 | 132 | nga | 70 [on |
+[16 |e [0.60 [263.90 | 116.00_| 685.74 11.36 | 11.6 | 1862 [022 _|
+[47 | s7a0_[0.30__[ 179.40 [11800 | 377974 [1168 | 1166 | 19.10 [069 _|
+[18 | 3874 [0.40 [188,70 | 12000 | 367373 | 1223 | 1223 | rasa [012 _|
+[19 | sa60 [0.40 [189.50 | 12200 | 068.73 | 1289 | 12.89 | 1923 [002 |
+[20 | —aos3[~o30 [660 | 123.00 | a0sa.73_[ 1297 | 1297 | -1926 [| o74 |
+[21 | ais7_ [oso | 12.00 | 12300 | ans673_| 1292 | 12.52 | 91a [022 |
+[22 | asx [ogo [328.50 | 125.00 | 4250.73 1165 | 1165 | 1924 [039 |
+[23 | ases__ [0.40 [270.60 | 12700 | a3e5.72_[ 11.52 | 132 | 1976 [033 _|
+[ 2a [aaa | oso 5.70 | tza.00 | aaso.7e [nat [at [2087 [ozs |
+[25 | assa__ [ozo | 265.40 | 12800 | asaa.71_[ 11.39 | 139 | 2164 [on _|
+[26 | asza__ [0.90 260,00 | 12700 | aezz.71_[ 11.56 | -11.56| 2298 | 023 _|
+[27 | ass o.90___| 267.50 | 12700 | aee5.70_[ 1159 | 11.59 | 23.20 [06s _|
+[28 [aces | oso 70.70 | tos00 | acea.70 [160 | 11.60 [2350 | os8 |
+[29 | 4696 1.50__| 213,00 | 105.00 | ao95.70_[ 1194 | 11.98 | 2394 [409 _|
+[30 | _aver [aso [188.80 | 105.00 | 472565 | 1308 | 1348 | -2aaa | 10.30 _|
+[a1] aso [9.40 [84.20 | 111.00 | aveea1_[| 1733 | 1793 | 2073 [1540 _|
+[ se a7oo | tzs0 [tea.90 | ta.o0 | aveasa [2320 | e320 [2514 | 10.00 |
+[—s3__|—as21__ [13.00 [183.30 | 11600 | as19.07__| 003 | -30.03 | 28.57 | 1.67 _|
+[ss | asa [13.80 | 178.30 | 11800 | a8s0.20_[ a7aa | 37.48 | 25.66 | 440_|
+[35 | —aasa__ [1410 | 175.90 | 12000 | ageo.29 | aa90 | -4a90_| -2528 | 2.10 |
+[a7 | ages [44.50 [173.70 | 12200 | ageo.a7_| 6014 | 60.18 | 2380 [072 _|
+[ss | —aa7a__ [1640 | 178.90 | 12300 | ag71.o1_| essa | 686s | 2327 [734 _|
+[ss | sooo [1950 | 184,60 | 12300 | s000.70_| 7817 | -7a.17_| -23.60 | i148 |
+[-a0| soar 2250 [187.40 | 12800 | s030.67_| e957 | -0.57 | -2a82 | 928 |
+[-—~a1_|-—sova__[~25.40 | 188,70 | 129.00 | 088,90 | 10208 | 10206 | -26.36 | 9.40 |
+[as [ses [3.10 [182.80 | 131.00 | stao.ae | taser | -t4n61_| 2087 [838 |
+[—~as__|-—si97_ [36.40 | 181,90 | 131.00 | 5166.69 | 166.49 | 16649 | -0.60 | 7.61 _|
+[-—as__|_sez0 [3660 | 181.30 | 131.00 | sto1.a2_| tass2_| 10552 | 3113 | 128 |
+[-—47__| seco [38.50 | 180,50 | 131.00 | s215.98 | 2083 | 20803 | 31.43 | 664 |
+[-—43__|—se00 [4270 [179.20 | 12900 | 240.25 | 22627 | 20527 | 31.36 | 13.08 _|
+[a9 s3z3 | aa. [vaso | t2a00 | sees [| ases | 2468 | 3095 | 659 |
+[so | s35s__ [46.90 | 178.90 | 12900 | _s26a97_| 26961 | 26961 | -30as | 601 _|
+[—s1__| sass [4950 | 178.40 | 12900 | s305.63_| 29271 | 20271 | 2091 | 8.7 _|
+[ss __|ss12__ [84.30 | 178.40 | 12900 | s3e2.a3_| s92sa_| so2sa_| -27.34 | s.a1__|
+[se | ssea_[s7.10 | 17800 | 12900 | s3s9.90_| aia13_| #1813 | 2683 | 909 |
+[so | s6s9 [790 | 181.80 | 12900 | s4sag0_[ sa1.11_| -sa111_| -2634 | 10.11 _|
+Page 1 of?
+
+Repos “i RYAN DIRECTIONAL SERVICES, INC. yan oo #__s0s0
+SURVEY REPORT
+Customer sis Petotsum MWD Operator __D. Foley /D. Ogden
+
+Well Name: Garon SW 5301 1238 Directional Driers Pu
+
+Pag Nabors 827 Suney Covected To Tue Nowth
+
+Ale 30053-00028 Veticl Section Breton 180
+
+Caleulaton Method: Minimum Curvature Galeuation Total Crecion 320
+
+Temperature Frecasing Mode! [Chat On) Togartne
+
+[Surveys [wo [tne em temp vo vs os ew
+[61 [sree | eto tar.30 | tza00 [ saas.0g [carte | satis | -2a77 136
+[ss | 6087 [71.40 [17850 | 132.00 | 557351 | 88096 | -sso96 | 2798 [1.41 |
+[65 [e141 | oso [vaso | 13400 | se0ass | ava7e2 | -97e72 | -2s8e | 1.17 |
+[ss | _62as__ [7000 | 178.40 | 134.00 | 036,27 | 1067.11 | 106711 _| 23.26 [033 _|
+[sa | 6aza_ [7130 [178.20 | 136.00 | 5700.05_| 12aa94 | -12aa94 | 18.29 | 1.50__|
+[ so [sia | izo | tvazo | tsa00 | s7a0.26 | 1as3.91 | 1333.91 [1550 [ont |
+[70 | e611 [72.30 [178.40 [138.00 | s7sa.a9 | taz19 | taza19_ [1288 [120 |
+[72 | 6790 [69.80 | 178.40 | 14100 | sevz.71_| 160082 | 160082 | 789 | 319 |
+[75 | 7082 [72.80 [177.70 | 143.00 | 5907.98 | 196887 | 1eaa7_| 077 [1.11 |
+[Projection | za17 [69.10 | 178.30 | 145.00 | sosa.68_[ 1995.80 | 199580 | 494 | 000 |
+Page 2 of 2
+
+ite, WELL COMPLETION OR RECOMPLETION REPORT - FORM 6
+af ays, INOUSTRIAL COMMISSION OF NORTH DAKOTA STP >
+Coe JL. OILAND GAS DIVISION ab a?
+{as “<) S00 EAST BOULEVARD DEPT 405 ~~ » 90329
+<Srgni®” BISMARCK, ND 58505-0840 OS iy nas a
+‘SEN 2486 (04-2010) (el JUL 2935 3
+iS
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM. ra RECEIVED Sg
+PLEASE SUBMIT THE ORIGINAL AND ONE COPY. OU GAS S
+Designate Type of Completion o id
+D oilwen DO EOR Welt © Recompletion 1 Deepened Well CRigibasa6iioetsi Leg DD Extended Horizontal Leg
+D_Gas welt @ swo well water Supply Wel [1 Other:
+Carson SWD 5301 12-24
+Operator Telephone Number Fie
+Oasis Petroleum North America (281) 404-9591 Baker
+Address Poot
+City State Zip Code Permit Type
+LOCATION OF WELL
+eee waar sm wenw [2 [aca w [ser w_\iekeneie
+584 F NOL 2477 =F Wi] NENW 153, ON 101_W_ |McKenzie
+April 13, 2015 April 19, 2015 Nabors B27 2109 2084
+WD/GR from surface to TD
+CASING & TUBULARS RECORD (Report all strings set in well
+Fe [ge en |e al aa ae | ar |e [os |
+Well Bore Typ Size(inchy | (MDF | (MDF | finch) | (os) | (MDD (MDFt) | Cement | Cement
+[SutfacoHol [Surtace [988 To fame T aawe Tae Pte
+[vertical Hole [intermediate [ 7 S| oo | ries | ase Tae fas tao |
+eS RS NN RS NS OS SEES: GS
+a Re ee es
+po eee ee eee See eee
+po se eee eee eee ees)
+SS RD MD RS ES S(O |
+PERFORATION & OPEN HOLE INTERVALS
+Open Hole/Pertor Top of
+Well Bo enor TO | Completion mint (Mor). Kick-off Casing Date Perta Date Isolation | Sacks
+re | Drillers Depth 7 Point
+ype Window | or Drilled Isolated Method {Cement
+(MO Ft) Top gottom | MOFO | Mo ey
+[Lateratt | 7217 [perforations | soso | 7080 | 4605 | fosmuzns [TT
+SR SS NS RUD OD
+a ND NN OS CS (OS |
+ee ee es ee ee ee ee ee oe
+es LS ON SO |
+a ES NS GR NS OE
+A A I SO OED OO GO (OO OS CO |
+eS A SS OO SO SO QOS OOS
+pee Eee
+Lo eee
+PRODUCTION
+ateral 1-
+June 18, 2015
+24-Hour Rate
+
+Page 2
+SFN 2468 (04-2010)
+
+GEOLOGICAL MARKERS PLUG BACK INFORMATION
+[Greenhornes Tass
+[Mowry cose sat Pee EE eee |
+[Noweaatig TT stpg sty
+[Dakota ses ae eT
+po
+Po
+po Ee eee
+Po eee
+Po
+[eee
+Po
+a A NR op SS (
+Po
+PO
+ES A I yD RS
+eS RS 0 SS OD
+a 0 |
+a EE Se se ee |
+A NN NN Os GO (RCO
+———
+es Ss a Ss ee
+po
+rs
+ee CORES CUT
+eS RN Be ACY)
+a Ss A ES ST OS
+a RS A pS SS OS
+a fy
+Drill Stem Test
+Sample Chamber Recovery
+Sample Chamber Recovery
+
+_ Page
+SFN 2468 (04-2010)
+Weil Specific Stimuiations
+Date Stimulated [Stimulated Formation Top (Ft) [Bottom (Ft)[ Stimulation Stages Volume’ Fvotume Units
+Barrels
+Type Treatment Acid % Lbs Proppant [Maximum Treatment Pressure (PSI) [Maximum Treatment Rate (BBLS/Min)
+Sand Frac
+Date Stimulated Stimulated Formation Top (Ft) [Bottom (Ft)| Stimulation Stages Volume Units
+Type Treatment Lbs Proppant — [Maximum Treatment Pressure (PSI) [Maximum Treatment Rate (BBLS/Min)
+Date Stimulated Stimulated Formation Top (Fi) [Bottom (Ft)|Stmulation Stages Volume Units
+Type Treatment Lbs Proppant [Maximum Treatment Pressure (PSI) Maximum Treatment Rate (BBLS/Min)
+Date Stimulated Stmulated Formation Top (Ft) [Bottom (Ft)] Stimulation Stages eure Rourne Units
+Type Treatment Lbs Proppant [Maximum Treatment Pressure (PS!) [Maximum Treatment Rate (BBLS/Min)
+Date Stimulated Stimutated Formation Top (Ft) [Bottom (Ft}] Stimulation Stages Volume Units
+Type Treaiment Maximum Treatment Pressure (PSI) [Maximum Treatment Rate (BBLS/Min)
+Details
+ADDITIONAL INFORMATION AND/OR LIST OF ATTACHMENTS:
+This ia» pretiminary completion report. A supplemental report will be filed upon first production of the well,
+Thereby swear or affirm that the information Email Address Date
+ided is Irue, te and ta ‘
+eetermined for camper e Tooords . iswenson@oasispetroleum.com 06/25/2015
+[Signature Printed Name Title
+ae Jennifer Swenson Regulatory Specialist
+
+BER SUNDRY NOTICES AND REPORTS ON WELLS - FORMA 5E7
+es INDUSTRIAL COMMISSION OF NORTH DAKOTA ats each oy .
+Ce } OIL AND GAS DIVISION a 4 2 Well File No
+Bees: 600 EAST BOULEVARD DEPT 405 aS dl . 90329
+Se fs JUN oy,
+\Sia?” BISMARCK, ND 58505-0840 Cj RE 2
+‘SEN 5749 (09-2006) — Ni CEIVED
+4 1D ON eS CS
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM ay OWISION A,
+PLEASE SUBMIT THE ORIGINAL AND ONE COPY. OF 40
+ALA SOR
+UT Notice of intent (01 Dhiling Prognosis LD Spit Report
+O Redriliing or Repair DO Shoating
+{Zl Report of Work Done © Casing or Liner O Acidizing
+dune 18, 2015 1 Plug Well O Fracture Treatment
+Notice of intent to Begin a Workover Project that may Qualify 0 Supplemental History DO Change Production Method
+for a Tax Exemption Pursuant to NDCC Section §7-51.1-03. 1 \y Abands oR :
+Approximate Start Date 1 Temporanty lon ‘edamation
+W Other injection Start Date for SWD Well
+(Well Name and Number 24-HOUR PRODUCTION RATE
+CARSON SWD 5301 12-24 Re
+Footages Township — [Range
+SeaeN 2477 7 Wo 153 N_| 1041 W
+Baker Dakota McKenzie
+DETAILS OF WORK
+Oasis Petroleum North America, LLC respectfully Informs the NDIC that first injection for the subject Salt Water
+Disposal Well occurred on June 18, 2015.
+K Submit a Fern Co Wl Complion Rupert (KCC)
+[Company Felephane Number
+Oasis Petroleum North America, LLC (713) 770-6430 FOR STATE USE ONLY
+Address
+pe Of2e fis
+Houston ™ [77002 26/15
+Loe Ce David Copeland Ca
+Title . Pate Title
+Regulatory Specialist dune 24, 2015 KEVIN CONNORS
+Email Address NDERGROUND is FON
+dcopeland@oasispetroleum.com SUPERVISOR
+
+Well Integrity Report - Form 19 Summary
+
+INDUSTRIAL COMMISSION OF NORTH DAKOTA
+
+OIL AND GAS DIVISION
+
+600 EAST BOULEVARD DEPT 405
+
+BISMARCK, ND 58505-0840 Well File No. [90329
+
+UIC No. |W0437S0919D
+Test Date: [57572015 11:13:32 AM Contractor Performing Pressure Test: |Castle Oilfield Service
+Operator: OASIS PETROLEUM NORTH AMERICA LLC Telephone : 2814049500
+Address: 1001 FANNIN STE 1500 City: [HOUSTON State: |TX Zip Code: [77002
+WellName; {CARSON SWD $301 12-24 Field: JBAKER
+Location: Qtr-Qtr: [NENW Section: [24 Township: |153 Range: | ol Coty: [MCKENZIE
+WELL TEST DATA
+Formation: |DAKOTA Perforations: [5950 - 7080 Feet
+Tool Type: PKR Depth: | 5821 Feet Packer Model: [Nickle plated Arrowset
+Tubing Size: [4.5 Inches Tubing Type: [11.6 # J-55 Polycore
+Well Type: Disposal Well Reason for Test: foic MIT Test Type: [Initial MIT
+BEFORE TEST START of TEST END of TEST
+Tubing Pressure: 0 PSIG [Shut In 0 PSIG [Shut In 0 PSIG yShut In
+Annulus or Casing Pressure: 0 PSIG 1000 PSIG 960 PSIG
+Annulus or Casing Fluid : ‘Treated Salt Water Test Fluid: |Treated Salt Water
+Amount of Fluid Needed to Fill Annulus or Casing: 1.25 Bois
+Test Length: [15 Minuies Was Annulus or Casing Bled to Zero After Test?: Yes If No - Pressure Left: |
+INSPECTION COMMENTS
+Test Result: [Acceptable Report of Work Done Required: Yes
+MIT passed. Perfs, 7040-7010, 6970-7010. 6879-6894, 6820-6840, 6664-6679, 6597-6612, 6140-6170, 5950-5990. Pressure test
+three times.
+Submit Form 6 Completion Report. Due within 30 days after well completion (KCC)
+Submit Form 4 Sundry Notice date of first injection when applicable (KCC)
+This Report is true and complete to the best of my knowledge.
+Company Representative Witnessing Test: [iosh Trowbridge Title: [Rig Supervisor
+Commission Field Inspector Witnessing Test: [Richard Ryan
+NDIC Initials { C C
+
+Aphis SUNDRY NOTICES AND REPORTS ON WELLS - FORM 4
+FESR (26 aF
+eee {INDUSTRIAL COMMISSION OF NORTH DAKOTA se (7) 2
+ta ‘. AS . 3
+x es 600 EAST BOULEVARD DEPT 405 SAR 2019 a 90329
+Se sawn BISMARCK, ND 58505-0840 i 4
+_ SEN 5749 (09-2008) gz REC 1g
+es pat
+Go ai
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM Zo, Divi os wy
+PLEASE SUBMIT THE ORIGINAL AND ONE COPY. CTEM oy
+WZ Notice of intent 1 Oritling Prognosis ~ (1 Spill Report
+prii 15, 2015 i
+DO Reatilling or Repair 1 Shooting
+DD Plug Welt 0 Fracture Treatment
+1 Notice of intent to Begin a Workover Project that may Qualify T Supplemental History Change Producten Method
+for a Tax Exemption Pursuant to NDCC Section §7-51.1-03.
+Approrinate Start Date (0 Temporarily Abandon 1 Recamation
+@ Other Change to Original APD
+[Well Name and Number 24-HOUR PRODUCTION RATE
+Carson SWD 5301 12-24 [sere ter
+Footages trate Township [Range
+SearN 2477 FW_ | NENW 153 N | 101 W
+Baker Dakota McKenzie
+DETAILS OF WORK
+Oasis Petroleum respectfully requests approval to make the following changes to the above permit:
+Surface casing design:
+Intermediate Casing of 7" with weight of 32# (previously weight 26#)
+[Company Telephone Number
+Oasis Petroleum North America LLC (281) 404-9500 FOR STATE USE ONLY.
+Address
+1001 Fannin Suite 1500 LZ] Approved
+Houston x 7002 3¥f30/2016
+KC
+(zz, Victoria Siemieniewskt
+Tite Date a
+Regulatory Specialist March 23, 2015 te KEVIN CONNORS
+Emaii Address NUERGROUND IN ON
+vsiemieniewski@oasispetroleum.com SUPERVISOR
+
+“| Noniimeanoia 7 . y see
+sh | Oil and Gas Division
+P Lynn D, Hedms - Director Bruce [, Hicks ~ Assistant Director
+= Department of Mineral Resources
+Lynn D. Helmy - Director
+i 4 North Dakota Industrial Commission
+__ TAD OON wwww.diir.nd.gowoilgas!
+PERMIT FOR FLUID INJECTION
+
+OPERATOR; Oasis Petroleum North America, LLC
+
+ADDRESS: 1001 Fannin, Suite 1500 Houston, 1X 77002
+
+WELL NAME & NO.: Carson SWD 5301 12-24
+
+LOCATION: NENW Section 24, T153N, R1O01W McKenzie County, ND
+
+AUTHORIZED INJECTION ZONE: Dakota Group
+
+UNDERGROUND INJECTION CONTROL (UIC) NO.: W0437S0919D
+
+WELL FILE NO.: 90329
+
+PERMIT DATE: March 20, 2015
+
+The operator shall notify the North Dakota Industrial Commission (“Commission”) at least
+24 hours prior to plugging back and converting said well to a saltwater disposal well. This
+permit is conditioned upon the operator complying with the provisions set forth in Chapter
+43-02-05, Chapter 43-02-03, any other applicable rules or orders of the Commission, and the
+following stipulations:
+
+(1) Effective June 1, 2014, all operators of disposal wells in North Dakota will be required
+to maintain an on-site container to store filters until they can be properly disposed of in an
+authorized facility. Such containers must be:
+
+* Leak-proof to prevent any fluids from escaping
+¢ Covered to prevent precipitation from entering the container
+* Labeled to indicate only filters arc to be placed in the container
+
+(2) — The operator shal! obtain approval on plug-back procedure prior to converting said well
+to a saltwater disposal well.
+
+(3) The injection interval shall be isolated by cement and verified by a cement bond log
+prior to injecting fluids,
+
+(4) Injection shall be through tubing and packer set within 100 feet of the top perforation.
+
+(5) A Commission Field Inspector must witness a satisfactory mechanical integrity test on
+the tubing-casing annulus prior to injecting fluids.
+
+(6) Accurate pressure gauges shall be placed on the tubing and on the tubing-casing
+annulus.
+
+600 F Boulevard Ave - Dept 405, Bismarck, North Dakota $8505-0840 Phone (701)328-8020 Fax (701)328-8022
+
+Permit For Fluid Injection
+Oasis Petroleum North America, LLC
+Carson SWD 5301 12-24
+Page 2 of 3
+(7) Written notice must be given of the date of first injection immediately and of any
+discontinuance within ten days. Written notice must also be given of the date injection
+recommences.
+(8) All fluids injected shall be metered or measured using an approved method.
+(9) The operator is only authorized to inject Class II fluids into said well. Class IT Muids are
+generally defined as follows:
+a. Produced water from oil and gas production;
+b. Waste fluids from actual drilling operations;
+c. Used workover, completion, and stimulation fluids recovered from production,
+injection and exploratory wells;
+d. Waste fluids from circulation during well cementing;
+e.  Pigging fluids from cleaning of collection and injection lines within the field;
+f. Enhanced recovery waters including fresh water makeup and other waters
+containing chemicals for the purpose of enhanced recovery;
+g. Gases used for enhanced recovery/pressure maintenance of production reservoirs;
+h. Brine reject from water softeners associated with enhanced recovery;
+i. Waste oil and fluids from clean up within the oil field;
+j. Waste water from gas plants which are an integral part of production operations
+unless those waters are classified as hazardous waste at the time of injection.
+
+(10) Copies of all logs run hereinafter and a Sundry Notice (Form 4) detailing the
+conversion of this well must be submitted to the Commission within 30 days after the completion
+of the conversion. All logs run must be submitted free of charge, as one digital TIFF (tagged image
+file format) copy and one digital LAS (og ASCII) formatted copy, The Sundry Notice shall include,
+but not be limited to, the following information: work completed and depths to plug back well,
+plug back depth, details of any isolation squeezes, perforated interval, packer type and depth, tubing
+size and type, and any other remedial work done as well as the dates the work was performed
+
+(11) The operator shall report any noncompliance with regulations or permit conditions
+within 24 hours followed by a written explanation within five days.
+
+{12) Approval shall be obtained prior to attempting any remedial work to the casing strings.
+
+(13) Following any remedial work done to this well over the life of this well, a Sundry
+Notice (Form 4) must be submitted detailing the work done. This report shall include the reason for
+the workover, the work done, dates, size and type of tubing, type and location of packer, result of
+pressure test, and any other pertinent data.
+
+(14) Following the completion of any remedial work, the Director is authorized to order
+further mechanical integrity tests or other remedial work as deemed necessary to insure the
+mechanical integrity of the well and to prevent the movement of injected fluids into an underground
+source of drinking water or a zone other than authorized hercin,
+
+(1S) The operator shall report monthly, regardless of the status of the operations, the amount
+of any fluid injected, the sources thereof, and the average injection pressure. The reports (Forms 16
+and 16A) shall be filed with the Director on or before the fifth day of the second month following
+that in which injection occurred or could have occurred.
+
+(16) If oil is recovered from the disposal operations, the operator shall report monthly,
+regardless of the status of the operations, the amount of oil recovered and sold, and the purchaser of
+said oil. The reports (Form 5 SWD) shall be filed with the Director on or before the Ist day of the
+second succeeding month.
+
+Permit For Fluid Injection
+
+Oasis Petroleum North America, LLC
+Carson SWD 5301 12-24
+
+Page 3 of 3
+
+(17) The well and injection system shall be kept under continuing surveillance.
+
+(18) Operations shall cease immediately if so directed by the Director or one of his
+representatives,
+
+(19) The operator shall conduct tests and install monitoring equipment as prescribed by the
+Director to verify the integrity of the surface facility, gathering system and injection well and to
+insure that the surface and subsurface potable waters will be protected.
+
+(20) All fires, breaks, leaks, spills, or other accidents of this nature shall be reported to the
+Oil and Gas Division pursuant to North Dakota Administrative Code (NDAC) Section
+43-02-03-30.
+
+(21) The Director is hereby authorized to issue administrative orders to include such other
+terms and conditions as may be necessary to insure proper compliance with the provisions of North
+Dakota Century Code Chapter 38-08 of the and NDAC Chapter 43-02-05 and 43-02-03. The
+Director is further authorized to immediately order the well shut-in if mechanical failure or
+downhole problems indicate that injected fluids are, or may be, moving into a zone other than
+authorized herein, or if the operator of the well fails to comply with the statutes, rules, orders of the
+Commission or written or oral directives of the Commission or its staff.
+
+(22) Unless the well is converted io a saltwater disposal well by March 20, 2016, this permit
+shall expire and be of no further force and effect.
+
+(23) If the authorized injection zone is plugged and abandoned, this permit shall expire and
+be of no further force and effect.
+
+This permit is effective the date set forth below and is transferable only upon approval of the
+Commission.
+
+Dated this 20" day of March, 2015.
+
+North Dakota Industrial Commission
+Oil and Gas Division
+Lyon D. Helms
+Director
+- =
+By: A 4-—~ C--> —
+Kevin C. Connors
+UIC Supervisor
+
+UiC PERMIT CHECKLIST
+Well File No.
+90329
+Operator Well Name Date Received
+Oasis Petroleum Carson SWD 5301 12-24 December 12, 2014
+Location of Well Qtr-air Section Township [Range County
+684 FON L 2477 -F Ww L} NENW 24 153.N 101 W [McKenzie
+Field Current Poo! Current Status
+Baker Dakota Proposed
+Logs on File Top of Cement [TOC Determined By and Date
+none 2159 Feet|[2] CBL C} Temp 1) Cale
+injection Zone Top [Confining Zone Thickness
+Dakota (Inyan Karal 5421 Feet Mow! 153 Feet
+x 1. Operator and well on bond as listed.
+x 2. Completed Form 14.
+Estimated frac pressure of confining zone. 4337__ psi, gradient 0.8 _ psifft.
+Maximum injection rate and pressure. 15000 bpd @ 1450 psi
+Kp base 1987 Feet.
+x 3. Lithology of proposed injection zone and confining zones.*
+x 4. Map of area of review.
+x 5. Name and location of wells in area of review.
+x 6. Corrective action on wells in area of review.
+x 7. Injection program.*
+x 8 x a. Analysis from state certified lab of two nearest fresh water wells.”
+b. For units listed below: name and location of two nearest fresh water wells.
+c. For units listed below: analysis from state certified lab of any new fresh water wells.
+x 9. Analysis from state certified !ab of injection fluid.*
+x 10. List of source wells.*
+x 11. Landowner description within area of review.*
+x 12. Certification of notification of landowners and letter sent.*
+na 13. Logs and test data if not previously submitted.
+x 14. Drawing of current* and proposed well bore and surface construction.*
+x 15. Dike Schematic
+x 16, Traffic Flow Diagram
+x 17, Sundry detailing conversion procedure.
+x 18. Form 1
+x 19. Shallow aquifer check.
+__x 20. Legal Street Address Requested
+Note: "*" indicates that the item is not required for EOR wells in the Cedar
+December 2, 2014 Creek, Cedar Hills North, Medicine Pole Hills South, Mohall, and Wiley units.
+Hearing
+Hearing Date (Case No. [Order No. Permit Sate UIC Number
+January 21, 2015 23553 25893 March 20, 2015 W0437S0819D
+Administrative
+[Order No. Allowing Injection Permit Date UIC Number
+na na na
+Permit Approved By Cnifialsy
+Kevin Connors
+
+AREA OF REVIEW DATA SHEET
+(WELLS WITHIN 1/4 MILE RADIUS PENETRATING INJECTION ZONE) $0329
+(05-2000)
+Weil Name and Number Rumber of Wells in AOR
+Footages QirQir [Section [Township [Range County
+Field Injection Zone Injection Zone Top
+AREA OF REVIEW WELLS
+Well Name and Number Status Status Date Weil File No.
+Footages Qt-air/Section Township Range County
+255 F SL mo rf wie | ewow | ts 'N et wo |” Mckenzie —_|
+Surface Casing ~~ [Surface Casing Depth [Cement Volume [Top of Cement [Top of Cement Determined By
+8" 2a? real Tay sane [Otel
+Production Casing Production Casing Depth [Cement Volame |Top of Cement |Top of Cement Determined By
+Injection Zone injection Zone Top [Pierre Shale Top _ JLags on File
+Comments
+Well Name and Number Status [Status Date Well File No
+Joteron #530" 43-128
+Footages Qtr-Qtr_ Section [Township _ [Range County
+20 FS L200 FEL
+Surface Casing [Surface Casing Depth jCement Volume |Top of Cement |Top of Cement Determined By
+Production Casing Depth [Cement Volume [Top of Cement |Top of Cement Determined By
+7" 755 Sacks ACBL Temp (| Calc
+injection Zone injection Zone Top [Pierre Shale Top _ [Logs on File
+Comments
+Well Name and Number Status [Status Date Well File No.
+Innoko #5901 43-127 A_[snonots
+Footages Girir [Section [Township [Range County
+wee | 42 Mckenzie
+Surface Casing [Surface Casing Depth [Cement Volume |Top of Gement |Top of Cement Determined By
+388" Views
+Production Casing [Production Casing Depth [Cement Volume |Top of Cement |Top of Cement Determined By
+7 " 11117 Feet ~] CBLE] Temp O) Calc
+injection Zone injection Zone Top ‘Pierre Shale Top [Logs on File
+Comments
+Three Forks Lateral leg in AOR - Geological isolation from injection zone
+
+AREA OF REVIEW DATA SHEET
+(WELLS WITHIN 1/4 MILE RADIUS PENETRATING INJECTION ZONE) 80329
+(05-2000)
+Well Name and Number Number of Wells in AOR
+A
+Footages Qtr-Otr ‘Section Township Range County
+MeKensie
+Field Injection Zone Injection Zone Top
+Bat ree
+AREA OF REVIEW WELLS
+Wall Name and Number Status ‘Status Date Well Fite No.
+Bray #5301 43-12H 20864
+Footages Qt-Gir___ [Section |Fownship __|Range County
+mo F SL 927 F EL MeKenzie
+Surface Casing [Surface Gasing Depth [Cement Volume |Top of Gement [Tap of Gement Determined By
+ioe
+Production Casing [Production Casing Depth [Cement Volume |Top of Gement |Top of Cement Determined By
+eG
+injection Zone Injection Zone Top [Pierre Shale Top [Logs on File
+$090. rex
+‘Comments
+Footages fairan [Section |Township [Range County
+rk pope Pe Pe Pee Pe
+[Surface Casing Depth Cement Volume |Top of Cement Top of Cement Determined By
+Production Casing {Production Casing Depth |Cement Volume |Top of Cement {Top of Cement Determined By
+Foals] GBL ET Tom C1
+injection Zone injection Zone Top [Pierre Shale Top ]Logs on File
+Footages latr-Qtr [Section [Township [Range County
+Fo eo Pe fee fom ow
+Surface Casing [Surface Gasing Depth |Cement Volume |Top of Gement |Top of Gement Determined By
+rent see [nn |
+Production Casing |Production Casing Depth [Cement Volume |Top of Cement Top of Cement Determined By
+res{o) OBL) Temp. ate
+Injection Zone injection Zone Top Pierre Shale Top Logs on File
+
+GEA p55,
+SER APPLICATION FOR INJECTION - FORM 14 Eo VEC B EN
+GEES INDUSTRIAL COMMISSION OF NORTH DAKOTA i ReChaeh
+Hee = OIL AND GAS DIVISION Ree EGET
+Rae a) 800 EAST BOULEVARD DEPT 405 cE, HOGI a GAS cd
+es ey BISMARCK, ND 58505-0840 Xp DVISEGN y
+SFN 18669 (08-2012) <4 Lins, a 4 4y
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM. PLEASE SUBMIT THE ORIGINAL AND TWO COPIES.
+APPROVAL MUST BE OBTAINED BEFORE WORK COMMENCES.
+Permit Type Injection Welt Typa commercial SW
+[Operator Telephone Number Fw Oil be Skimmed?
+Address city State zip Cade
+|Well Name and Number Field er Unit
+Caraon SWO S301 1224
+LOCATIONS
+At Surfaca fate-atr Township [Range Gount
+perenne wa weww [Ze PTB y [Rw [ieRenne
+Bottom Hole Location atr-ar Section Township [Range County
+[Geologic Name of Top Confining Zone Thickness [Geologic Name of Bottom Confining Zone Thickness
+seit 350
+Bottom Hole Fracture Pressure of the Tap Confining Zone Gradient
+Estimated Average injaction Rate and Pressure Estimated Maximuny Injection Rate and Pressure
+(Geclogic Name af Lowest Known Fresh Waler Zone [Depth to Base of Fresh Water Zone
+‘Total Depth of Well (MD & TVD) Logs Previously Run on Weil
+CASING, TUBING, AND PACKER DATA (Check _ if Existing
+‘WEIGHT SACKS OF
+[Sutace [ase ae aes Cd Surface [Visual
+[26 rasa esc
+ong Sting [OE
+rs NN
+eS (| ae
+Top BOTTOM SACKS OF CEMENT
+a) a Le ee |
+TYPE
+a Lae a
+A a A
+Proposed Packer Setting Qepih Mode! J Compression C1 Permanent
+FOR STATE USE ONLY
+Permit Number and Wail File Number o
+403
+UIC Number [Approval Date
+Woug7 Sag
+By =
+UNDERGROUND INJECTION
+SUPERVISOR
+
+ag tTe
+P BAe be Ir
+Oe DS
+(23 a 2th oe
+Page 2 ke ERO
+SFN 18669 (08-2012) em Pict “ i
+BMA ROS oy
+on PAL. & Re
+fz, W Seis, oF
+COMMENTS S72, WNP Na?
+[Signature 2 Printed Name Titte
+is Victoria Siemieniswski Regulatory Specialist
+Above Signature Witnessed B
+Witness Signature . Witness Printed Name Witness Titte
+(ie UA IMAA AM ALAS Chelsea Covington Regutatory Assistant
+waar 4
+Instructions
+
+1. Attach a list identifying ail attachments.
+
+2. The operator, well name and number, field or unit, well iocation, and any other pertinent data shall coincide with the
+official records on file with the Commission. If it does not, an explanation shail be given
+
+3. If an injection well is to be drilled, an Application for Permit to Drill - Form 4 (SFN 4615) shall also be completed and
+accompanied by a plat prepared by a registered surveyor and a drilling fee.
+
+4. Attach a lithologic description of the proposed injection zone and the top and bottom confining zones.
+
+5. Attach a plat depicting the area of review (1/4-mile tadius) and detailing the iocation, well name, and operator of all
+wells in the area of review. Include: injection wells, producing wells, plugged wells, abandoned wells, drilling wells, dry
+holes, and water wells. The piat shail also depict faults, if known or suspected.
+
+8. Attach a description of the needed corrective action on wells penetrating the injection zone in the area of review
+
+7. Attach a brief description of the proposed injection program.
+
+8. Attach a quantitative analysis from a state-certified laboratory of fresh water from the two nearest fresh water wells.
+{include legal descriptions.
+
+9. Attach a quantitative analysis from a state-certified laboratory of a representative sample of water to be injected.
+
+10. Attach a list identifying all source wells, inciuding location.
+
+11. Attach a legal description of land ownership within the area of review. List ownership by tract or submit in plat form.
+
+12. Attach an affidavit of mailing certifying that all landowners within the area of review have been notified of the proposed
+injection well. This notice shail inform the landowners that comments or objections may be submitted to the
+Commission within 30 days, or that a hearing will be held at which comments or objections may be submitted,
+whichever is applicable. Include copies of letters sent.
+
+13. Attach all available lagging and test data on the well which has not been previously submitted.
+
+14. Attach schematic drawings of the injection system including current well bore construction and proposed weil bore and
+surface facility construction.
+
+15. Attach a Sundry Notice - Form 4 (SFN 5749) detailing the proposed procedure.
+
+16. Attach a diagram representing the traffic flow and the maximum number of trucks staged on site.
+
+17. Attach a printout of a map obtained at http/www.nd.gow/gis/apps/HubExpiored with surficial aquifers (under
+hydrography) active, and proposed iocation plotted on printout
+
+18. Read Section 43-02-05-04 of the North Dakota Administrative Code to ensure that this application is complete.
+
+19. The originat and two copies of this application and attachments shall be filed with the Industrial Commission of North
+Daketa, Oil and Gas Division, 600 East Boulevard, Dept. 405, Bismarck, ND 58505-0840.
+
+Qs PReVRoueum
+ES Wee cae
+oe
+12/8/2014 fo ah A
+Oasis Petroleum Kor, ROL RR ay
+1001 Fannin St Lg Geen oy
+Suite 1500 L282 SL”
+Houston, TX 77002
+Kevin Connors
+UIC/CCS Supervisor
+North Dakota Industrial Commisston
+600 East Boulevard Avenue Dept. 405
+Bismarck, ND 58505-0840
+RE: Carson SWD 5301 12-24
+Dear Mr. Connors:
+Pursuant to NDCC 43-02-03-16, Oasis respectfully submits the Carson 5301 SWD 12-24 well APD for your
+cansideration. Included with the application are all necessary attachments; an itemized list is included on the
+following page
+This well is located in Section 24 of Township 153 N, Range 101 W. This location is part of Indian Hills, Baker
+field and is in a generally rural area, A regional map has been provided with this application. Additionally,
+there are no federal minerals associated with this well. The landowners, Wesley and Barbara Lindvig, have
+been fully apprised of Oasis’ development plans. The drill cuttings and solids will be disposed of in an onsite
+pit. Liquids from the drilling process will be taken to an authorized disposal facility.
+Please do not hesitate to contact me should you have any additional questions or concerns regarding this
+well. Thank you for your consideration.
+Respectfully,
+Michael Kukuk
+Regulatory Supervisor
+281.404.9575
+Oasis Petroleum
+100} Fannin, Suite 1500 « Houston, Texas 77002 * Phone (281) 404-9500 - Fax: (281) 404-9501
+
+Lithologic Description
+
+Well: Carson SWD 5301 12-24
+Salt Water Disposal Welt
+McKenzie County, North Dakota
+24-153N-101W
+
+Injection Zone: The Cretaceous Inyan Kara within the Dakota is roughly 440° in this area based
+on the Oasis Petroleum Wade 5300 21-301. The section consists of a sequence
+of alternating sand, silt and shale. Several potential injection zones occur
+between 5,501? and 5,943" based on the Oasis Petroleum Wade 5300 21-30H,
+These zones vary in thickness between 10° to 80’.
+
+Upper Unit: Shales of the Skull Creek and Newcastle units confine the upper boundary of the
+Inyan Kara Formation. Individual shale units over 60° thick are inter-bedded
+with thinner siltstones.
+
+Lower Unit: The Swift Shale consists of fine siltstones in the upper portion that grade into
+shales in the lower half of the unit. This formation spans 350” based on the Oasis
+Petroleum Wade 5300 21-30H.
+
+7
+
+rq
+GREENHORN al bl pt ——oseenion
+MOWRY L=t—te4 i 7 Fwy
+| 4
+NEWCASTLE fused || eet
+7] i ual | NEWCASTLE
+3 = ran
+3 oe |
+DAKOTA sean i 1S St DAKOTA
+Se
+ied 4 “al
+_—rt ; bi
+q toad
+. $ a
+—j me al
+ie: |
+Be & = =
+—
+Zz 3 4
+| amie RIF-RIION
+RIERDON ball FF |
+188 1 162
+8 102
+
+Proposed Injection Program
+
+November 25, 2014
+
+Carson SWD 5301 12-24
+
+Oasis Petroleum North America, LLC
+
+Section 24, TI53N RIGIW
+
+McKenzie County, Nurth Dakota
+
+Application for Fluid Injection
+
+PROPOSED INJECTION PROGRAM
+
+The Carson SWD 5301 12-24 well will be used to inject produced water from wells in the Baker Field-
+Oasis Bakken and Three Forks wells- already on production, in the process of compiction, and those soon
+to be drilled in the four township area of 152-153N and 100-10} W into the Dakota formation. Injection
+depths will be determined after the well is drilled and logged.
+
+‘The source wells for the produced water are listed on Exhibit 6 but will also include additional Bakken
+and Three Forks wells yet to be drilled and completed, Water from these wells will be shipped via
+pipeline to the Carson SWD 530] 12-24 disposal site; trucking will only be done for emergency and/or
+unplanned circumstances, The amount of water injected into the Dakota is pressure dependent, but not to
+exceed 4,556 psig at surface.
+
+so
+The proposed Carson SWD 5301 12-24 is needed to provide a more local disposal facility in the area to
+reduce costs and case the burden on regional disposal wells. ‘he anticipated initial injection rate of the
+well will be 10,000 bwpd at 1,000 psig pressure. However, this rate may increase with additional drilling
+in the area, subject to the maximum pressure ceiling. and eraxtdvn daily Injection vade,
+Te madmum Jail injecki on vale % bused on dking Armarstong arvad Saks.
+Porsumt  y- NDAC Section 43-02-03 - 53 (3)(6),
+26
+
+° & 7) f Exhibit B - Area of Review Plat ~ . “a
+: i’ < ws =
+ae ee ee Cae? :
+wy ?, 2 ae _ * a . a" t j .
+p —, iat’ Lae ie
+ie Ge pa Fe Bil oe OL
+a. ~gppe eee Ct a TP soodtg ‘s
+a Ke so ref e/o: * IP, : Tepe,
+ames PL, SNe Te 5 he Oe? wine
+. aa we FNS My. Warr) ee p f
+PH EO At, ete a as ag Ris
+\ ag PS 2% i® ; on ee a
+e ~ ae. . OC re aug o. g " oLare 1) SRR om
+ToOTGH NAP rr
+7 =m. 4] CARSON SWD 5301 43-21 12-24
+on 153N - 101W, Section 24 oO
+sean * Proposed SWD Well PETROLEUM
+i “ (J) wee Butters
+a ak
+
+» . me * BF Exhibit B - Area of Review Plat Ais °
+1 é 4 ‘+ < =
+' ‘ yy ed . ; ! a,
+ee ot eo Se, oF po *
+mo 2-5 . = vee : eo ;
+ea , Ri & « itr. ° BB oy
+eS ae é oa: oy ‘8 fi A F * ial
+% gs *~ Ms i? Cee Fa
+7 oe - &
+i a ha q ~ ’ “
+“ “a ” oa haere wa
+* “nad Way i cdt hee i aa
+ae ea" ce a eae 1000 F4! F
+ee: - gas. Se: cath? ee
+ae - see on 500. . : ae 4 tei,
+oo ae TMM. dD ty . “hi
+: : 2 es * T Nee . Ne
+y : c a ae Rk . gia | “4 , f A a :
+A yee we ONS 6 BS SPRAY. g : oe lal
+RA oe, hn a A a) ae
+. ee “a Set v epee ee q Pe \ fie.
+mere $3 ets Mee ath Ae
+wT a oe p fees ~ : an .
+= © Spee RR a oe .
+ee yy es, a Ta Cb
+Phe VO ig se, ra ete SS Uy oY - .
+te 3 % oe f.. . a, : an am tut
++ hr iW d ft if
+mower]
+-— CARSON SWD 5301 43-21 12-24
+on! 153N - 101W, Section 24
+_. . Proposed SWD Well PETROLEUM
+: cz] TF) well Butters
+a |
+
+Connors, Kevin C.
+Sn
+From: Michael Kukuk <mkukuk@oasispetroleum.com>
+Sent: Tuesday, December 16, 2014 12:52 PM
+To: Connors, Kevin C.
+Subject: FW: carson
+Attachments: ESB_AerialOverview_CarsonSWD5301.pdf, ATTOO001.txt
+Hi Kevin —
+Please see the attached aerial overview. Please let me know if you have any questions/concerns.
+Thanks,
+Michael
+From: Victoria Siemieniewski
+Sent: Tuesday, December 16, 2014 12:06 PM
+To: Michael Kukuk
+Subject: FW: carson
+Hello Michael,
+Please see attached Aerial overview and below GIS snapshot. The nearest homes are over 1200 ft away trom the well
+head
+Sincerely,
+Victoria
+From: Eric Branton
+Sent: Tuesday, December 16, 2014 11:20 AM
+To: Victoria Siemieniewski
+Subject: carson
+1
+
+Eric Branton
+GIS Lead
+Oasis Petroleum
+1001 Fannin, Suite 1500
+Houston, Texas 77002
+281-404-9448
+ebranton@oasispetroleum.com
+3
+
+eS ual Bl te
+me OTN: | me 8 a * F a aa
+Mar a aa era en he Fels et ait.
+rh . a ” 1 at. + “ Tes
+A apeehi ‘ ‘a an . : aed an :
+ee NR Bg
+_ we te ae ae. : “has at oe
+nae wed SEE BS tise oe hago Be a
+= aN hala’, 7 {irr wee oe hs Sr .
+re “ag ee: ee. Lenin: 021,74 cae] — 3 PE z
+yo Me he eee * » -F. eee: :
+; ve _ ew ak ore JSR ost .
+. wen ‘ 4 tie. ‘estes wens OS, “athigg fl t
+rs we Ee ax at . a :
+ote cider nan TV . Petia +e . a Rit
+2 ee a
+pep Re ge A oy BO
+ight? -e Wes: eS, ay
+rae it & . Ps hn -: ‘2 Ries Mec vad wo EE
+wis YS an oan v4 - + a pair an . oe * y me” why
+Og Mae
+° a rr Ee ‘ -
+Here’s approximate distances to all the structures...you just want the one to the northwest or the northeast too?
+2
+
+ie,
+in *
+fo wot A
+Table of Contents - Carson SWD 5301 12-24 Selpp oe?’
+Application for Permit to Drill — FOF I ...sssssessssssssssssesesseeerrnnennenessevesssssssteciqaessnssaeeesesseararmuannneseeeesnnsetseanneent
+Application For Injection — FOC 14 oo o.eessceccscsssssssneesesssesssesseeseceesssstensvissiesseseassaseesessseenssssvessssensayseversiverenesenrsssad
+Well Location Plat..ossescsccssssssssssssssseeceeiunssesssvessesssivarisarssritiiniiisssariasassagersenisasssssssavssnssseesieessssssisaseeessersasasedl
+Proposed Procedure SUNDLY....ccsesesussscsssesssesseesvssiinasticassssunsetissiusiiesiesssteussieusatiesriesssseiteesessessasees5
+Weellbore Schematic ....cssssssssscsscecseeceenssssctssssnineessiesseessssssscssnnnnisseeeecsseceesstesteustecccatetimmmniimneneeseeeeeesnessn®
+Lithologic Description... csessssissesssseesessetsesnssessssessssessseessessssseesipuenssrtsasinassssssssstasassssigsisitsaserseetsenssesesssD
+Drilling PlaM .sseescsssucctessesssesesnsssssaqenssuesssteesenseisissinessissssestnustinsstiassiesirsineenesssieestinstiunesttsteetsnsesee§
+Estimated Geological Tops... seccsssssseisssssseesssusseeesssssn nesses seessrvantenesssnsansensessneeesssensneseesssvsacerianeasesn
+Preliminary Mud Report .....ccc.cccsssssssscsseccsiaseeeunssessssstssstseecsseivantanseuequnsstipsseesssoiuassieesssrieetersesseee
+Completion Information .......cssesusssssssssscensssetassssesstsacessnesseesnesinsstienseniveisiasssvsumeesssainssenarsen9
+Frac Fluid Statement... sesessecsesssssemeesssetsiassssceacsesseneseeuessnssenreenespieqinerieqeeunnvenstinmsnessianassetassssersaseessins
+Directional Plot and Plans ...ccs.cesssessssesssssssessssecreesseessonnsssqunnecenecessssssesnnnestennsassonnestisnttencensnseessseeeettiseenees LO
+Well SUMMALY vo erccccseesseesseececeesssssrsnisccensnssseeesesssupunssceneessssiteeeseessuntnisctcesccaeeerssssnsassnneevunvveeerscersenvasese LL
+Casing and Cementing RePOrt.......cssccsssssssssecesssessssssssiunsssesscannniisaeenesesnesiiiesssseesecnnvisinnivissnestetseveseneess 1S:
+Street Address REQuest 2... seessneeseesssssssssssetessssseesecsesssssseesteseeisssnessactrtnnnenninieneeettevserasee LP
+Horizontal Section Plats... sess nseniasnsecceeccsssssseseieieecieesssseessiumuenccaninseeecssnnnennemenscetsnsvinsvreee 18,
+Pad Layout Plat... ssseseeecccssssssssuusssiecsssseesecieessssssssnunenensceseecesssnnmmunmunrseseetesssuttisssseeeasenessseneeeeees 19)
+Pad Layout Dirt Quantities 00.00... ccssssssssussesesesnsssnunsssessessesesessensssuseeuituisesetvansesssseesseestitessisvassoeetsstssvee 21
+Facility Plat so... csssssssesssscessenesnsseeeeesenssnnunssstensccqussssssaiusssonsninnusesestannasstanssavesssarimasaciesaaessetsesseeneteceseey 23
+Proposed Injection Program.......ccccccusssenersesssinestusuasnnssasisisesassseeeesertesssuasssnussssseannsitttstseciensseeeeeesee 25
+Traffic POW Diagram «.....sesssssssssssssccceseernnsiseesssnisessisasi sacegeesutitinutunnssaseertienaemirin assesses, 26
+Topographic Maps......sescsssscccsscsssseesestintis vaeeesseisssssnnssisasasesesssencssssiunessitusssnansesteissssepiieasseseeeeseetserseseey 28
+Area Of REVIEW .osssecssssssssessssssuceesseeeenssseesstcetsssssnrtnssesssssassssnieecesentansvensseyvunnsssiaeecrsstesssssnsvassussvneetessierennsee 32
+Regional Map .s.ssssssssssecesesesseeeseesseseierms titi nersussviiiiasssseesssentanssseseniiusetsssveansannseteerseiiinuasiustnrsnsse BB
+Corrective Action ASS@SSMENE wiascssscccesecsssssesrsieeeesssseesssssssssussassessssssscennecessassnesseeesessgsisinnnnssssnneteeneeee 34
+Landowner DeScription.....srssocscceseneessssessrsreeessesssssseseuneececeeceensteeessseessannnnesesessatissnnsunssisneecssseneees 35.
+Landowner Notification Certification....sscceenssssssssssssssssssnsesssstsennsstassssteeseseriiisnee BT
+Water Ana lysis....cccccccccseesssssssesessssccsersinsasssnsssesossossonssssasassqeceeceeeeeeeeeeceusussnsssnieectserressesiiitstiitasinssseveciweneesens
+Fresh Water Analysis .....ccjcssssscccsssssvseiteensssssssttnssssseseesssssseneniivessstsiassiesssuitunseresmanseemmeecerseteesssees GL
+Injection Fluid Analysis ....ccc.cjcccsssssssiesssseetisssssssesssssissssessiessssustsieussassieuassssssssseuussesssenestesenteceesnesees 3
+SOurCe Well Liste... ccc ceecteesssestiitcieesssieescssneeeessseesessnsensieeronsieeesammessnsnnenassssteesrsnsseeressnsssenecsseeeessoieessses AG
+
+COUNTY ROAD MAP
+OASIS PETROLEUM NORTH AMERICA, LLC
+PANN GAASON SHO 808 L2ae
+584 FEET FROM NORTH LING AND 2477 FEET FROM WEST LINE
+SECTION 24, TISAN. RIGIW, TH P.M. MCKENZIE COUNTY. NORTH DAKOTA
+aagereett CS Traffic Flow Diagram
+Pe A See ehl DES TORN
+Ys ae eee
+von (CTI be —~
+went ee ox aa PTZ FROM COUNTY ROAD 4
+t: Leen E J TO WELL SITE
+et ES | 4 rae =£0.07 MILES
+FTI NTT. Secs 5%
+Err CARSON SWI 5301 12-24
+fot ats pe rater 7
+Re a a. - at atl Wiedtanen,
+“XS ff FROM HIGHWAY B5 NK” 7"f nvwow
+KR Sr 7AALONG COUNTY ROAD 4 gfs- FN
+BMD. |\_ if TO PROPOSED ACCESS 34 I 4 aN
+ered ol =£2.46 MILES ig 7 A
+pee. a renee ar a i.
+WA ey PA STZ Do
+TOR ret wT iE or [tea Hey Age
+ea an HT, el se lf? ” + _
+a7 YO RS a is lwo |
+ee ee Spot ayy Spee
+Eo eS ee eth >
+j pond a sd a ST a a an ee
+re os a > |e ee : Et wo
+a aan i irvA |e re YS SPEDE NIE Oe
+j y | wan a =} 73 = “> Note: Primary injectate delivery ™ -
+7 ene aa aS" Method to be pipeline rather than —
+fel on . Esa yes pe) OS truck. See following page for pipeline “~~&
+t a Shortie aa
+> rome racer fo pee KRY oN
+be a of oa Lame Ny vote. OAL fs fe NN GS s
+AS Se ASS 2 PO to ek fe DES,
+‘ie Se ' qT oN 5 * a
+: By wede 1 ae ao ® Le KONE .
+ead eas te Ht Ay} aan rd ee eae PN
+if » a Sb. a a see eae Roe Poll. f
+(2) 2014, INTERSTATE ENGINEERING, INC, SCALE: 1 = 2 MILE
+« pee, SE
+= Riera [RCKENZIE COUNTY, NORTH DaKOTAg bf} — J
+Fae (UA| ATAEAD I
+26
+
+ae ' ae se
+Se Sy eee . . 2 Sey, ey) ter |
+in ie ee. rena . * LS eee |
+en Y Ny we TE ¢ i + ee a
+ot se La ee og - roo
+aan en vf Sas in] Me a a Re. yy woo,
+7 : 3 wf i el eg. wey rd
+i ira ee woh 1a ‘ ts Myf ‘ ee -
+4 on a a 2 wo “ ve Wo, 2.“ re
+' vw ly , i “ SAB,
+a eo, ae en 5| QaAsIs
+re. nD < Lk i; “ . . Conon so 53011224
+
+Se Bn Sy CAR: eH SG. BRA
+NEON al eae et SO aed PES SIS
+NA ANA GEES (020 NS ee Ger UA Ts
+2) RSs ih ee KENZIE Ce soaneN Wee Py oe sins
+NAN S Ke aX, | ce SOU N, RI me Ce ee
+¢ Hien NR 4 vg il o1w Ww La
+aN Wiens Bs {i} ee " Aa H DAI “acne ee eect
+AO Gir ve, we” 5) — FS Ki Ray ras fire
+4 7 H a nena Ri ‘ bas Bean er iad
+ye webs ep? Se I Ai ge. Se
+4 A fas : re ele NY ba Eas ee a a
+sy {e be actlet S PETROL TRS. j Be Re:
+_ = is eo vee INE ean sn Ce a Xf as
+i bt = fi INE Al 0 at Vio ies eae “ob eae 2
+Se NN ie AWE KUN FEOc eat yo lax yt RNC Dp ae Rea
+CS f 4 LAN tine Fer ap00 dt 98 tate Us: “Oa 2 A ae ae
+. wai Meet aN ere Seat "as ay fee oe
+0 ; i Si Lun NR corsa ; Rid Oe beret Ce
+: RY hoe isa ‘ (ORS PETRI 100 eee | ee me iit Looe
+__ q a Caf ce Re San pee St an ‘a a oo
+ey) ie Nae y a Gi eA ayy, bukek 4 _ os AR SS \\ Hp oe
+Asa se hc cits pS rile Shad es
+fy ion AN ae! oe ha fe St
+SAIN LENS CHAMERS WA ie ree at a ons d'si9 ’ <a
+SOAS A tae te <3 ae ZY Bad fl NA
+ew ey oGayMen’ tase ares re ee: HUN) RY NE
+S one a) AN Us reer i oa Wik ie a)
+14, INTER’ ni aC uN Se 13 PETROLEUM mr OG IN ase gt
+1, (EG eh 2. A " sf LG ™ f4-" 0 ne
+—_ EERING, Ne ey He % ey Ie NY By vie
+, (se _~ as ARN wa ae aie
+. INTERSTATE TE any My = aH I \ RS
+aby onene cas - Ty ie DE ie
+eee —— ij ee ee
+os Se WY ig aE: a
+one ae a d
+28 a
+oor
+—
+— 6
+eS
+
+COUNTY ROAD MAP
+OASIS PETROLEUM NORTH AMERICA, LLC
+1001 FANNIN, SUITE 1500, HOUSTON, TX 77002
+“CARSON SWO 6301 12-24"
+564 FEET FROM NORTH LINE AND 2477 FEET FROM WEST LINE
+SECTION 24, T153N, R101W, 5TH P.M., MCKENZIE COUNTY, NORTH DAKOTA
+LASS ROR Ln LN
+Be eaeattomn amen ted y (7 FROM COUNTY ROAD 4
+SEMENT \ ERE En, Down | a TO WELL SITE
+f I NAT | NZ,
+is I caro ay 5 SNe A
+Wiis iF *.-CARSO! 5301 12-24
+So » fet FROM HIGHWAY 85, A Ratgow.
+PAY: i AN OW,
+Ps GN 4 ALONG COUNTY ROAD Mee "Dp
+ees [KL { TO PROPOSED ACCESS BB rN —
+ee |S =+2.46 MILES pe AP,
+a; hoe \ ns iJ b
+? 4
+_ \ S| ft ° ‘ v/, Ne
+a 4 ives a o68 oy .
+q Lat ghemab oe S ‘A ——
+reret 4 fee? RN VE TOR
+iG Relies
+f a | a ON
+F } ig i INge
+NI 4 A } bbs y t
+f | } i 4 \ N
+SRR aie oR
+f H ! a
+V7" aan CE ay ark:
+a» Poa BS Nw BX Be Pe A A doa Low!
+© 2014, INTERSTATE ENGINEERING, INC. SCALE: "= 2 MILE
+y= Yas UMMA Str eae oa Ka ace
+Fee (00) 755018 a Tg
+29
+
+* nap rit
+Ege yes
+£ GRE Sees) CARSON ot North Aang Ara wt Sy
+SS ae Dan RSON SH 50 uiteicn, Te nf ee
+NEN abs oy Che LOC 77" FW Cae .
+PS \ rae es were ON! CATON M MRR 1 ON
+Shy Wen NS: Bae a © 24, 1153N MAP a LONG. * i
+aia \ esa Paaeoes SRS 5 joa a eS i
+NA | yey ee ‘ 2 an oy ae --
+[- IF pane bnan a oud
+: ( \( NSE ek Ww AE an
+i ya imo iene Cok SO oF oie oe ae
+« LS wi OERAL 5300 3-18 ae: aN ee al
+YS aha cs a4
+Sayegh a segue po
+as ne i NE PEDERA con. SOx AE B) wa eget
+Ss, ? FEDER: 18 12TX- ti cet SI ‘Cg
+oD 2) 3} i ( a ae <a eV t Ud |
+“ eens) mS et iS 4aoT SNe ES LRN
+yp O¥ Nib wanbpenes LT Rl AN
+a yt ie Wp ih 4 i erordses a ban (oF
+Ne Ae Nex pce 2301 12-24 a ‘|
+WH La } Bil oy eo ae “aay in
+WOES OE tee HAL Doan —\': , fae) ae Hh
+yi “3 QS Yin MERS 6 ah JAN D> -
+} SP ce _ Gianers soar eu «ad ae ee
+inh HP re SOT ay) SajCHALM 00 21- Ganut, (OM S Boo yi aHs Ons
+bi LENS i? gad % ERS 5. 19 tS SI yee] te.
+pod CR wll neers a perp pau ia a
+wo Sa ee i ae, q ° fig. Neegeeti\|
+. en Se | we MMERS ee Sena 0 mE Wy L fe vys ‘gee ih
+ee RN NAt ec! “i AL 6301 pe aa fh! Koh Aes fi
+: Tost L ey CHALM 1 44-24 <i * Jue} obec on
+ey VS . mi mm) <i ead To we Vg
+neh AS Ne) PANE “YS HALMERS 0014-2 OR 4 lan " Si
+on AS) Dues My Re Her A ea Pr aANT OY
+Xa Milas oiler ANS CTROLEUMIE? SY. AN aN \ gt
+© 2014, nreRsT NRA SS } S¥2 ie wee’ “if GN AP Oa) a ff
+a STATE ENGINEERING. teat aa “yy Ue ot. Be a ra .
+‘ 7 {A TERSTATE nt pak Has oO
+eset TH DAROTAY =
+S|
+E+}
+
+COUNTY ROAD MAP
+OASIS PETROLEUM NORTH AMERICA, LLC
+1001 FANNIN, SUITE 1500, HOUSTON, TX 77002
+“CARSON SWD 5301 12-24"
+684 FEET FROM NORTH LINE AND 2477 FEET FROM WEST LINE
+SECTION 24, T153N, R101W, 5TH P_M., MCKENZIE COUNTY, NORTH DAKOTA,
+SERVE eet” bs
+Sc IRE SERIROA ARI &
+FS eR Oe Ure OL CS ON
+Ie kaeaen cans tance Maas eek Re.
+ERE IRR TNO SSA ironed, * PATS, ee,
+ARK ae et ae ee oe FROM COUNTY ROAD 4
+RN ee X ' ? ft a
+ROA oN a f nes -
+z OR : /
+p> C0 WEE *. CARSON SWD 5301 12-24
+ye ee eae aay
+Exh 9,'(>. paw ~y w;
+Fi | | te Meany
+Nee Aen ~4) atl is
+Age (FROM HIGHWAY 85 KT? roow.
+AR ts “74 ALONG COUNTY ROAD 4 gfe. FR
+Bees a SS Nea 10 PROPOSED ACCESS ERA Loy aot
+ey 2 a 212,46 MILTS yep” /
+Py oe mee penal fremencetbea mene ft f a
+7 a oy QA =
+A \ veh Wd fe WEY pry IN
+YS OAL ARE Pk fb gr 7 y
+dor i one fof } Ne
+at \ f q i >) ies
+° rs. 4 x XY h\ f
+aggre stefeeent ay 8S pet be Spey 5 5 oa Sy
+ATE te oy j b~ = i ~~.
+q “\ res CX Pw do» fet sn So EN Yi e>aAX Sik he
+ee Duel fe oe eee Nik Co. Al ST ofS
+} seep aeaee We Le ran NEA
+‘| 2 oi a fo alee 2 Ae 2, = 4 He “He e\ a
+foctacmned 4 * Peo ry WK HBKN
+Fa eemdencenndege | MO NT a PP SC
+ft . | oe “VY [ob ON.
+‘a iA a. eh ON NSS
+Bae tow al taf ahs =) TL SIN IG Les a ey
+I ) | 7] NG { A) s iw Af
+y ES OF APA mi =P aan a as
+er es, Oe, Mr ee CO ena ye
+Sd A in| Ee eee Me BO a, Oe a
+H fatten we An i ee ann a \ es
+} eT ~ a] ne if iw WY
+i ae | 1 ba OK, t t a i ee
+Po he ny if a an (h ! ney Pees a4 \ ae
+a OAS an ane ope ann A “ke ch, -
+oa Poa WMP IA a Tset) a dioeD. Roe Pe lat |
+@ 2014, INTERSTATE ENGINEERING, INC. SCALE: "= 2 MILL
+~ —_- ¥ ae eegeeean ¥V COUNTY NOM uae 2
+INTERSTATE sastinlan et a ee a
+\ ENGINULRING. Ba tam rai 2 2
+a
+
+SEE rite
+sah ecm Bae ie TERE j al
+aon orate wae a
+334 FEET PROM MORI EDE DSC REET Fe Le ' 5
+i SECTION TIS, RIOT, STH Pt, MCKESE COUNTY, NORTH DAKOTA. Bi
+HH
+i K BH
+TANDOWRER DORE
+vn LAWRENCE BEEN i CRON iF
+ems Pl | a RAE | moeirerrie OHI;
+A cI
+, A as fia \
+23 apis is | F
+& pal
+carsonswo | [ | can
+can a eae:
+LaF ? | ; Hegel
+; . Paes
+: i LANDOWNER: = El
+} n Mckenzie Poise LC ofe
+} ef 3 [NEIZ4 SECTION 24 20 Fi
+: 3 ar fii
+:& le
+— ee 2 — eee Go a
+1 . an Fa °
+: 32 T ay Fl
+i 3 Ele steal
+. : lg | noweisarewrnn tHe! | Be ate 1
+: 313 | QUARTER MILE RADIUS OF Pa au
+WESLEY LNDUG | PER THE NOG } 3B < | 4 “Hy
+lwi/2 & SEi/4 SECTION 24 I ; 2B 2 y
+> ae
+| BOTTOMHOLE | | or
+2ar7. Lecanon xe
+eS 7 rena set —=== 63 ——— a et #2
+| #22
+| i | xi
+| { H
+i
+\
+| ; ; om |
+| | =
+=~ 2
+
+Area of Review Piat
+|
+i
+i :
+|
+1531011366 '
+Test Hole
+Gregory Water & Energy Inc.-7/7/2009
+Jeremy Heem
+1531 0P24AAA
+' 18310124AAA Test Hdle
+Test Hole § & S Prilling-5/15/1994
+see SAS Oring 5/7/1994 Fm NGWake
+Tim Novak 6310 )24Aaa
+Test Hie
+SHL S&S frilling 5/15/1994
+: Tim Nqvak
+1
+153N | | seme T153N
+q ——s
+101W R100W
+BH
+OASIS PEtROLEUM
+OASIS PETRGEUM CHALMERS
+HALMERD 5300 5300-38454
+adisri®
+EARTHS FONE ENERGY
+fxCORPORATED
+Dan COW 29.1
+e
+s
+sé
+[__ weationmar |
+vas CARSON SWD 5301 12-24 ;
+Le 153N - 101W, Section 24 O,
+° McKenzie Counly, North Dakota ae MeTHOLEUM
+
+Carson SWD 5301 12-24
+Oasis Petroleum North America, LLC
+Section 24, T153N R101W
+McKenzie County, North Dakota
+Application for Fluid Injection
+CORRECTIVE ACTIONS
+A search of the NDIC ArcIMS system yielded no wells within a 4 mile area of the proposed Carson
+SWD 5301 12-24. No corrective action is required.
+34
+
+AFFIDAVIT OF MAILING
+STATE OF NORTH DAKOTA §
+§
+
+COUNTY OF MCKENZIE §
+
+The undersigned, Patrick McCauley, of lawful age, first duly swom on his oath states that he is a duly
+authorized agent of Oasis Petroleum North America LLC, do hereby certify that | have sent (via certified
+mail) a Notice of Application for Fluid Injection to cach susface owner within a radius of ‘4 mile from the
+location of the proposed injection well (Carson SWD 5301 12-24), T153N-R101W, Section 24: Nw4,
+N2SW4, McKenzie County, ND.
+
+‘The following contains the names and addresses of all landowners and legal description of the land
+ownership:
+
+Surface Owners Legal Description
+
+Lawrence P, Heen Township 153 North, Range 101 West
+
+4412 Highway 85 North Seotion 13: SE4SW4
+
+Williston, ND 58801 .
+Jeremy A. Heen Township 153 North, Range 101 West
+4412 Highway 85 North Section 13: SW4Sw4
+
+Williston, ND 58801
+McKenzie Point, LLC Township 153 North, Range 101 West
+5009 139" Ave. NW Section 13: E2SE4, SW4SE4
+Williston, ND 58801 Section 24: NE4
+Wesley Lindvig and Barbara Lindvig Township 153 North, Range 101 West
+Tenants is Common Section 24: NW4, N28 w4, NW4SE4
+14075 41" Street NW
+Alexander, ND 5883!
+36
+
+IN WITNESS WHEREOF, the undersigned has hereunto set his hand this 2" day of December, 2014.
+Oasis Petroleum North America LLC
+Patrick McCaufey, Landman
+ACKNOWLEDGMENT
+STATE OF TEXAS §
+§
+COUNTY OF HARRIS §
+
+BE IT REMEMBERED, that on this 2“ day of December, 2014, before me, a Notary Public, in
+and for said County and State, personally appeared Patrick McCauley, to me known to be the identical
+person described in and who executed the within and foregoing instrument and acknowledged to me that
+he executed the same as his free and voluntary act and deed for the uses and purposes therein set forth.
+
+IN WITNESS WHEREOF, I have hereto set my official signature and affixed my notarial seai, the
+day and year first above written.
+
+ee, WHITNEY EVANS Notary Public ‘ |
+PASM Notary Pi yeu
+Ge) “Ni Commision ee eet My Commission Exptrés: _/Q- oF. aol7
+TB October 09, 2017
+36
+
+ta CR
+er
+ey a
+&g ‘AN
+fo 2015 Ee,
+= RECEIVED 7}
+3, NDOIL& GAS Sy
+a , >
+a DIVISION oy
+Biss
+IN WITNESS WHEREOE, the undersigned has hereunto set his hand this 7" day of January, 2015.
+Oasis Petroleum North America LLC
+Patrick McCauley, Léndman
+ACKNOWLEDGMENT
+STATE OF TEXAS §
+§
+COUNTY OF HARRIS §
+BE IT REMEMBERED, that on this 7" day of January, 2015, before me, a Notary Public, in and
+for said County and State, personally appeared Patrick MeCautey, to me known to be the identical person
+described in and who executed the within and foregoing instrument and acknowledged to me that he
+exceuted the same as his free and voluntary act and deed for the uses and purposes therein set forth.
+IN WITNESS WHEREOF, E have hereto set my official signature and affixed my notarial seal, the
+day and year first above written,
+abt, KELSEY LINN JACKSON Ad An An
+"aes September 13, 2016 My Commission Lixpires: 4 -{3-2Ollg
+
+CRUE, Rp
+ge + ‘a>
+Se a
+AN 2gi5
+es sf
+c= RECEWED 2
+ms NO OI & GAS
+LIVERY Ye DIMSION wy y
+SENDER: COMPLETE THIS SECTION COMPLETE THIS SECTION ON Dt &y 9445
+Pde
+A. Signpiure
+'§ Complete items 1, 2, and 3. Also complete iy) Dagent
+iter 4 if Restricted Delivery is desired, ‘
+© Print your name and address on the reverse X Prole Hon — 0 Addressee
+so that we can return the card to you B. Received by (Printed Name) ©. Date of Delivery
+& Attach this card to the back of the mailpiece,
+OF on the front if space permits, D. Is delivery address different from item 17 LI Yes
+—Sroninetrontifspace permits,
+1. Article Addressed to: It YES, enter delivery address below: = C1 Na
+Jeremy A. Heen
+4502 139" Ave. NW
+Alexander, ND 58831 3. Service Type .
+We Certified Mail? Priority Mail Express
+Ei Registered 2 Retum Receipt for Merchandise
+TF insured Mail O Collect on Delivery
+4. Restricted Delivery? (Extra Fee} D Yes
+2 cle Number 7013 2250 COOL 3457 Ena
+Cransfer trom service tabel) ——————
+PS Form 3811, July 2013 Domestic Return Receipt
+SENDER: compLere ris SECTION COMPLETE THIS SECTION ON DELIVERY
+= Complete items 1, 2, and 3. Also complete A, Signature
+item 4 if Restricted Delivery is desired. x D Agent
+™ Print your name and address on the reverse CO Addressee
+80 that we can return the card to you. ied by ¢ of Delivery
+1 Attach this card to the back of the mailpiece, B. Received by (Printed Name) ©. Date of Detivery
+or on the front if space permits, -
+Twice Agua ©. Is delivery actess differant from item 17 Cl Yes
+1 Arfcle Adcressed to YES, enter detvery address betow: EJ. No
+Lawrence P. Heen
+14033 45" St. NW
+Alexander, ND 58831 3, Senice Type
+4M Certified Maile O Priority Mail Express™
+O Registered BX Return Receipt for Merchandise
+CO Insured Mait DO Collect on Delivery
+4. Restricted Delivery? (Extra Foe) Dves
+Se
+2. Articte Number
+Cranston erie bop 7023 2250 0001 3457 EO73
+PS Form 3811, July 2033 Domestic Return Receipt
+
+Nee
+gs 4°
+ie B
+po JAN 2015 A
+<= esi
+AFFIDAVIT OF MAILING re RECEWED &
+ce NOON A GAS S
+<@,, OWISION 4,7
+STATE OF NORTH DAKOTA 5 Ep," 10N id
+§ £9,505
+COUNTY OF MCKENZIE §
+The undersigned, Patrick McCauley, of lawful age, first duly sworn on his oath states that he is a duly
+authorized agent of Oasis Petroleum North America LLC, do hereby certify that I have sent (via certified
+mail) a Notice of Application for Fluid Injection to each surface owner within a radius of % mile from the
+location of the proposed injection well (Carson SWD 5301 12-24), TIS3N-RI1OLW, Section 24: NW4,
+N2SW4, McKenzie County, ND.
+The following contains the names and addresses of all landowners and tegal description of the land
+ownership:
+Surface Owners J.cgal Description
+Lawrence P. Heen Township 153 North, Range [01 West
+14033 45" St NW Section 13: SE4SW4
+Alexander, NID 58831
+Jeremy A. Hcen Township 153 North, Range 101 West
+4502 139" Ave, NW Section 13: SW48W4
+Alexander, ND 5883]
+McKenzie Point, LLC Township 153 North, Range 101 West
+5009 139" Ave. NW Section 13: E2SE4, SW4SE4
+Williston, ND 58801 Section 24; NE4
+Wesley Lindvig and Barbara Lindvig Township 153 North, Range 101 West
+Tenants in Common Section 24: NW4, N28 W4, NW4SE4
+14075 41% Street NW
+Alexander, ND 58831
+
+ALE.
+ROCA,
+Me EEN
+SS oe)
+= RECEWED Fi
+Ke NOOR GAS Sy
+Sp sIStON vy
+é g®
+merpoveum——
+January 7, 2015
+CERTIFIED MALL
+RETURN RECEIPT REQUESTED
+Lawrence P. Heen
+14033 45" St NW
+Alexander, ND 58831
+RE: Proposed Saltwater Disposal Well
+Carson SWD 5301 12-24
+TIS3N-RIOIW Section 24: NW4, N2SW4
+MeKenzie County, North Dakota
+Dear Mr. Heen,
+This (etter is to advise you that Oasis Petroleum North America LLC is planning a saltwater
+disposal well and inject fluids (saltwater) from source wells in the area into the referenced location.
+In accordance with the rules and regulations of the North Dakota Industrial Commission (“NDIC"),
+Oasis is required to give notice that it has made application to perform this work to each landowner
+within a one-quaster mite radius of the injection site, Ata date yet to be determined, the NDIC will
+conduct 2 hearing regarding this application in the Department of Mineral Resources Conference
+Room lovated at 1000 Hast Calgary Avenue, Bismarck, ND 58503. Your comments or objections
+regarding this application may be directed to the Commission at that time.
+Written comments or objections may be submitted prior to the hearing to the following address:
+North Dakota Industrial Commission
+600 F. Boulevard Avenue, Dept. 405
+Bismarck, ND) 58505
+If you have any questions, concerns, or to determine the hearing date, please contact Kevin
+Connors, UIC/CCS Supervisor for the NDIC Oil & Gas Division at 701-328-8020,
+Sincerely,
+Patrick tale
+Landman
+(281) 404-9547
+pmecauley@@oasispetroleum.com
+1001 Fannin, Suite 1500 © |fouston, Texas 77002 ¢ Phone (281) 404-9500 - Fax: (281) 404-950
+
+ere
+Ouse
+Ke a Ds
+A jan 2019
+RECEIVED +
+a HD OILE GAS S
+2, uD ONY
+Sy DNAS! NY
+meTROLEUM ————__A8 4 Gp
+January 7, 2015
+CERTIFIED MAIL
+RETURN RECEIPT REQUESTED.
+Jeremy A. Heen
+4802 139% Ave. NW
+Alexander, NID 58831
+RE: Proposed Saltwater Disposal Well
+Carson SWD 5301 12-24
+VI53N-R1OLW Section 24: NW4, N28 W4
+Mckenzie County, North Dakota
+Dear Mr. Heen,
+This letter is to advise you that Oasis Petrofeum North America LLC is planning a saltwater
+disposal well and inject fluids (saltwater) from source wells in the area into the referenced location,
+In accordance with the rules and regulations of the North Dakota Industrial Commission (NDIC”),
+Oasis is required to give notice that it has made application to perform this work to cach landowner
+within a one-quarter mile radius of the injection site. Ata date yet to be determined, the NDIC will
+conduct a hearing regarding this application in the Department of Mineral Resources Conlerence
+Room located at 1000 East Calgary Avenue, Bismarck, ND 58503. Your comments or objections
+regarding this application may be directed to the Commission at that time.
+Written comments or objections may be submitted prior to the hearing to the following address:
+North Dakota Industrial Conunission
+600 FE. Boulevard Avenue, Dept. 405
+Bismarck, ND $8505
+tf you have any questions, concerns, or to determine the hearing date, please contact Kevin
+Connors, UIC/CCS Supervisor for the NDIC Oil & Gas Division at 701-328-8020.
+hecplaf
+a
+bakke,
+Patrick McCauley!
+Landman
+(281) 404-9547
+pmccauley@oasispetroleum.com
+1001 Fannin, Suite 1500 © Houston, Texas 77002 # Phone (281) 404-9500 - Fax: (281) 404-9501
+
+eo?’ PRET ROL 4
+December 2", 2014
+CERTIFIED MAIL
+RETURN RECEIPT REQUESTED.
+Lawrence P. Heen
+4412 Highway85 North
+Williston, ND 58801
+RE: Proposed Saitwater Disposal Welt
+Carson SWD 5301 12-24
+‘TIS3N-R1O1W Section 24: NW4, N28W4
+McKenzie County, North Dakota
+Dear Mr. Heen,
+This letter is to advise you that Oasis Petroleum North America LLC is planning a saltwater
+disposal well and inject fluids (saltwater) from souree wells in the area into the referenced location,
+in accordance with the rules and regulations of the North Dakota industrial Commission CNDIC”),
+Oasis is required to give notice that it has made application to perform this work to each landowner
+within a one-quarter mile radius of the injection site. Ata date yet to be determined, the NDIC will
+conduct a hearing regarding this application in the Department of Mineral Resources Conference
+Room located at 1000 East Calgary Avenue, Bismarck, ND 58503. Your comments or objections
+regarding this application may be directed to the Commission at that time.
+Written comments or objections may be submitted prior to the hearing to the following address:
+North Dakota Industrial Commission
+600 E. Boulevard Avenue, Dept. 405
+Bismarck, ND $8505
+{f you have any questions, concems, or to determine the hearing date, please contact Kevin
+Connors, UIC/CCS Supervisor for the NDIC Oil & Gas Division at 701-328-8020.
+Sincerely,
+Con Me
+Patrick McCaulcy
+Landman
+(281) 404-9547
+priccauley@oasispetroteum.com
+(001 Fannin, Suite 1500 + Houston, Texas 77002 « Phone (281) 404-9500 - Fax: (281) 404-9501
+7
+
+je” RETRO
+December 2", 2014
+CERTIFIED MAIL,
+RETURN RECEIPT REQUESTED
+Jeremy A. Heen
+4412 Highway85 North
+Williston, ND 5880t
+RE: Proposed Saltwater Disposal Well
+Carson SWD $301 12-24
+TI53N-R10!W Section 24: NW4, N2SW4
+McKenzie County, North Dakota
+Dear Mr. Heen,
+This letter is to advise you that Oasis Petroteum North America LLC is planning a saltwater
+disposal well and inject fluids (saltwater) from source wells in the area into the referenced location,
+{n accordance with the rules and regulations of the North Dakota Industrial Commission (NDIC”),
+Oasis is required to give notice that it has made application to perform this work to each landowner
+within a one-quarter mile radius of the injeetion site, Ata date yet to be determined, the NDIC will
+conduct a hearing regarding this application in the Department of Mineral Resources Conference
+Room located at 1000 East Calgary Avenue, Bismarck, ND 58503. Your comments or objections
+regarding this application may be directed to the Commission at that time.
+Written comments or objections may be submitted prior to the hearing to the following address:
+North Dakota Industrial Commission
+600 E. Boulevard Avenue, Dept. 405
+Bismarck, ND 58505
+If you have any questions, concerns, or to determine the hearing date, please contact Kevin
+Connors, UIC/CCS Supervisor for the NDIC Oil & Gas Division at 701-328-8020,
+Sincerely,
+Patrick MeCauléy
+Landman
+(281) 404-9547
+pmiccauley@oasispetroleum.com
+100] Fannin, Suite 1500 © Houston, Texas 77002 ¢ Phone (281) 404-9500 - Fax: (281) 404-9501
+38
+
+Yd PRET ROLE UM
+December 2", 2014
+CERTIFIED MAIL
+RETURN RECEIPT REQUESTED
+McKenzie Point, LUC
+5009 139" Ave. NW
+Williston, ND 58801
+RE: Proposed Saltwater Disposal Weil
+Carson SWD 5301 12-24
+TIS3N-R101 W Section 24: NW4, N2SW4
+McKenzie County, North Dakota
+Dear McKenzie Point, LLC,
+This letter is to advise you that Oasis Petroleum North America LLC is planning a saltwater
+disposat well and inject fluids (saltwater) from source wells in the area into the referenced location,
+In accordance with the rules and regulations of the North Dakota Industrial Commission CNDIC”),
+Oasis is required to give notice that it has made application to perform this work to each landowner
+within a one-quarter mile radius of the injection site. Ata date yet to be determined, the NDIC will
+conduct a hearing regarding this application in the Department of Mineral Resources Conference
+Room located at 1000 East Calgary Avenue, Bismarck, ND 58503, Your comments or objections
+regarding this application may be directed to the Commission at that time.
+Written comments or objections may be submitted prior to the hearing to the following address:
+North Dakota Industrial Commission
+600 E. Boulevard Avenue, Dept. 405
+Bismarck, ND 58505
+If you have any questions, concerns, or to determine the hearing date, please contact Kevin
+Connors, UIC/CCS Supervisor for the NDIC Oil & Gas Division at 701-328-8020.
+Sincerely,
+Patrick ante
+Landman
+(281) 404-9547
+pinccauley@oasispetroleum.com
+1001 Fannin, Suite 1500 ¢ Efouston, Texas 77002 « Phone (281) 404-9500 - Fax: (281) 404-9501
+39
+
+je? PE
+December 2™, 2014
+CERTIFIED MAIL.
+RETURN RECEIPT REQUESTED
+Wesley Lindvig and Barbara Lindvig
+Tenants in Common
+14075 41" Street NW
+Alexander, ND 58831
+RE: Proposed Saltwater Disposal Wel?
+Carson SWD 5301 12-24
+TIS3N-R101 W Section 24; NW4, N2SW4
+McKenzie County, North Dakota
+Dear Mr. and Mrs, Lindvig,
+This letter is to advise you that Oasis Petroleum North America LLC is planning a saltwater
+disposal well and inject Nuids (saltwater) from source wells in the area into the referenced location,
+In accordance with the rules and regulations of the North Dakota Industrial Commission CNDIC"),
+Oasis is required to give notice that it has made application to perform this work to each landowner
+within a one-quarter mile radius of the injection site. Ata date yet to be determined, the NDIC will
+conduct a hearing regarding this application in the Department of Mineral Resources Conference
+Room located at 1000 East Calgary Avenue, Bismarck, ND 58503. Your comments or objections
+regarding this application may be directed to the Commission at that time.
+Written comments or objections may be submitted prior to the hearing to the following address:
+North Dakota Industrial Commission
+600 E. Boulevard Avenue, Dept. 405
+Bismarck, ND 58505
+{f you have any questions, concerns, or to determine the hearing date, please contact Kevin
+Connors, UIC/CCS Supervisor for the NDIC Oil & Gas Division at 701-328-8020.
+Sincerely,
+Patrick McCauley
+Landman
+(281) 404-9547
+pmecauley@oasispetroleum.com
+TOOL Fasmin, Suite 1500 * Houston, Texas 77002 « Phone (281) 404-9500 - Fax: (281) 404-9501
+40
+
+f
+AFFIDAVIT
+STATE OF NORTH DAKOTA § '
+§
+COUNTY OF MCKENZIE § |
+‘The undersigned, Thomas Osen, of lawful age, first duly sworn on his oath states that he is a duly '
+authorized agent of Oasis Petroleum North America LLC, do hereby certify that ] have altempled to
+obtain water samples from the two nearest freshwater wells within a one-mile radius of the proposed
+location af the Carson SWD S301 12-24, located in T153N-R101W, Section 24: NW4, N2SW4 in
+McKenzie County, ND.
+Ihave obtained a water sample from a house spigot at a nearby residence that has been analyzed and will
+be submitted with the permit. I have diligently attempted to locate water wells within the area of review
+and have not been able to locate one. The one we have located does not have electricity and we are still
+attempling to acquire a sample from it. a
+i
+IN WITNESS WHEREOK, the undersigned has hereunto set his hand this day of December, 2014.
+Oasis Petroleum North America LLC
+By: Bomaa “Bem >
+Thomas Osen
+ACKNOWLEDGMENT
+STATE OF KAS,
+thd §
+COUNTY OF fy §
+he oA
+BE IT REMEMBERED, that on this ° ; day of December, 2014, before me, a Notary Public,
+in and for said County and Stato, personally appeared Thomas Osen, to me known to be the identical
+person described in and who executed the within and foregoing instrument and acknowledged to me that
+he executed the same as his free and voluntary act and deed for the uses and purposes therein set forth,
+IN WITNESS WHEREOF, I have hereto set my official signature and affixed my notarial seal,
+the day and year first above written,
+7 > ;
+y 2 NOTARY PUBLIC for the Notary Public
+BP ‘tt Pl Montana My Commissiog Expires: de 7 Lf TF
+fl eopary 17, 2017
+a
+
+7 ]
+ASTRO-CHEM LAB, INC.
+4102 2nd Ave. West Williston, North Dakota 58802-0972 Phone: (701) 572-7355
+P.O Box 972
+WATER ANALYSIS REPORT
+Sample Number: W-14-9192 Date of Analysis: 11/05/2014
+Company: Oasis Petraleum
+City: Williston State. ND
+Well Number: Lindvig S.WD.
+Date Received: 10/30/2014 DST Number:
+Sample Source: Brandon Turcotte Residence (House Spigot}
+Location; SWSE Section: 22 Township: 153 Range: 101 County:
+Formation: Depth:
+Distribution. Thomas Osen
+TE Sars StS
+Resistivity @ 77 °F 3.540 Onm-Meters pH 8.36
+Specific Gravity @ 77 °F 1.000 H2S Negative
+Total Dissolved Solids (Caiculated) 2914 mg/L. { 2914 ppm)
+Sodium Chloride (Catculated) 11 mg/L ( 11 ppm)
+TS SSS iG
+CATION MEQ/L mg/l ANION MEQIL mg/L
+Le
+CALCIUM 0.2 4 CHLORIDE 0.2 7
+MAGNESIUM 02 2 CARBONATE 12 36
+SODIUM 374 860 BICARBONATE 32.8 2004
+IRON 0.0 0.0 SULFATE 0.0 0
+CHROMIUM 0.0 0.0 NITRATE-N 00 0
+BARIUM 0.0 0.0
+POTASSIUM 01 4
+LS SS
+WATER ANALYSIS PATTERN
+20 1C o 10 20
+NAK 10.0 L LL. 1.0 CL
+Remarks: Conductivity = 2822 umhos/em / Sampled 10-28-14
+Lat 48-03-12.4 / Long 103-29-25.18
+Analyzed By: C. Jungels
+ee lee
+42
+
+\
+i
+ASTRO-CHEM LAB, INC.
+4102 2nd Ave. Wort Williston, North Dakote 58802-0972 Phone: (701) 572-7355 f
+P.O. Box 972 t
+WATER ANALYSIS REFORT
+SAMPLE NUMBER  W-12-2a53 DATE OF ANALYBI8 4-25-12 :
+COMEANY Oasis Petroleum
+GLTY Williston SIATE ND
+WELL. NAME AND/OR NUMBER Chalmers 5300-34—19H :
+PATE RECEIVED 4-11-12 DST_ NUMBER
+SQMPLE SOURCE
+LOCATION LotS OF BEC, 19 TWN. ISSN RANGE 1008 COUNTY McKenzie
+EGRMATION DEPTH :
+DISTRIBUTION Distribution List
+RESISTIVITY @ 77°F =  G,038 Ohm—Meters pH= 5,47
+BPECIFIC GRAVITY @ 77¢F = 1,215 HeS = Negative
+TOTAL DISSOLVED SOLID@ (CALCULATED) = 313035 mg/l ( 257642 pom)
+SODIUM CHLORIDE (CALCULATED) = 309798 ma/L. ¢ 2854978 pow)
+SS SS SSE Te EE RRS en
+CATION MEQ/L. mgs ANION MEQ/L wy/L
+seem rete gS ne Gen
+CALE Lum 1070, 0 #1829 CHLORIDE 5299.2 167873
+MAGNESIUM 110.0 1eee CARBONATE ao ¢
+sapium die S 93900 BICARBONATE fn4 146
+TRON 81,7 1529.9 SULFATE, a8 1Be
+CHROMIUM oO. t 1,0 NITRATE 0.0 o
+BARIUM a6 417
+POTASSIUM 00.0 TREO
+ESSE SSA LEER
+WATER ANALYSIS PATTERN
+Na, K L600, 6 , 3 1000.0 C1
+ca 100.0 14 fa 1.0 HCO
+- rs Se
+My 10.0 £1 — 4 1.0 80,
+Fe 1a 8 e G1 COy
+1 :
+MEG, :
+REMARK§ Sampled 4-11-12 .
+i
+@NOLYZED BY; C._Jungels cee i
+r
+|
+|
+43 ;
+i
+
+Preliminary List of Source Wells
+Oasis Petroleum North America LLC .
+Application for Salt Water Disposal
+See 24-153N-10]W, McKenzie County, ND.
+Carson SWD 5301 12-24
+Preliminary List of Source Wells*
+Well Name: Chalmers 5300 31-19H
+Operator: Oasis Petroleum North America LLC
+Location: NWSW 19-153-100
+API Number: 3305303472
+NDIC Well File: 20407
+Well Name: Chalmers 5300 21-19 10B
+Operator: Oasis Petroleum North America LLC
+Location: SWNW 19-153-100
+API Number: 3305306022
+NDIC Well File: 28637
+Well Name: Kline Federal 5300 11-18 472
+Operator: Oasis Petroleum North America LLC
+Location: NWNW 18-153-100
+API Number: 3305306224
+NDIC Well File: 29243
+Well Name: Kline Federal 5300 11-18 SB
+Operator: Oasis Petroleum North America LLC
+Location: NWNW 18-153-100
+API Number: 3305306223
+NDIC Well File: 29242
+Well Name: Kline Federal $300 11-18 6B
+Operator: Oasis Petroleum North America LLC
+Location: NWSW 18-153-100
+API Number: 3305306057
+NDIC Well File: 28756
+‘Subject to addition of operated and non-operated source wells.
+
+44
+
+Surface Facilities Diagram
+Surface Facilities Schematics
+Carson SWD 5301 12-24
+Oasis Petroleum
+Section 24, T153N RLOLW
+McKenzie County, North Dakota
+Test Gavee
+Injection Additional test
+Pressane gauge located
+Gauge downstream of
+hi //_—_ 1
+a
+Gauge * wl
+Hf
+High pressure injection Ine will
+be 4.5” fibergiass line with a
+Length Lo be approximately,
+150 200 ft, witht final Ipagth
+determined by a> built site Tank Battery and Pump House
+' '
+t Injecion ‘
+‘ Pomp 1
+‘ Louse ‘
+: 1
+; '
+: '
+: ,
+Bean : ,
+—— line Pipe 1
+23
+
+Surface Facilities Diagram
+SWD Dike Schematics
+Carson SWD 5301 12-24
+Oasis Petroleum
+Section 24, T153N RIOT W
+McKenzie County, North Dakota
+155 fi
+Pe ED
+p-—-- i
+‘ Tieton t
+1 Pump t
+' House 1
+' 1 Wot
+' t
+H t
+! i
+’ t
+1
+\ ‘
+3.6 ft. (height)
+-- ++ Berm
+—— Line Pipe
+Dike Containment + 19,231 bbls.
+Pump House & Tanks Volume = 402 bbls
+Effective Dike Containment = 18,829 bbls
+24
+
+o APU #:
+CARSON SWD 5301 12-24 corwanion: fort
+WELLBORE SCHEMATIC FIELD: Camp
+Ee a
+ey oo
+Be a
+He 4
+Fs a 9 5/8" 364 J-55 LTC
+@ Be 2,159’ MD
+Ma ne sg? 43 4" Diam. Hole
+ae Eg Cemented to surface
+iy ae
+41/2" PVC-Lined Tubing G8 ae
+fea a
+res 9
+Be ie
+Be Be
+Plastic-coated packer set 33} ai
+@ 5604’ MD (5,443” TVD) Pe SS
+Ee a
+aH i
+Ea i 7" 26H L-80 LTC Casing TD @
+a aH 7254’ MD, 5,878" TVD, 75
+BS EN degrees inclination. 8 %" dia
+Be ae hole cemented to 2,159"
+a LEER Fees
+ton
+Eetencett ttt
+Dakota Perforations, 6 spf; “Sea
+§736’-7198’ MD gross interval .
+{5489'-6863' TVD)
+OASIS PETROLEUM INC.
+CARSON SWD 5301 12-24 Status: Planned
+T153N-R101W Sec. 24 McKenzie County, North Dakota
+584' FNL & 2477' FWL Updated: 11/25/2014
+6
+
+Hist Be SUNDRY NOTICES AND REPORTS ON WELLS - FORM 4
+SN INDUSTRIAL COMMISSION OF NORTH DAKOTA
+(( &- py OIL AND GAS DIVISION Well File No.
+pc th6) 800 EAST BOULEVARD DEPT 405 49324
+TL Sd BISMARCK, ND 58505-0840
+‘SFN 5749 (08-2006)
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM.
+PLEASE SUBMIT THE ORIGINAL AND ONE COPY.
+[2] Notice of Intent C1_ Bing Prognosis C1 Spitt Report
+February 1, 2018 C1 Restilting or Repair TO Shooting
+11 Report of Work Done C] Casing or Liner || Acidizing
+LJ Plug well C1 Fracture Treatment
+[ ] Notice of Intent to Begin a Workover Project that may Qualify [[] Supptemental History C1 Change Production Method
+for a Tax Exemption Pursuant to NDCC Sectlon §7-61.1-03, ot \y Aband CJ) Rectamat
+‘Approximate Stan Date ‘emporarily Abandon feclamation
+(] other Proposed Procedure
+Well Name and Number 24-HOUR PRODUCTION RATE
+Carson SWO 5301 12-44 24 [sete Aor ——_]
+Footages [Section [Township Range
+584F NL 2677 F Wo 24 | 153N | 101w
+Fad Poot County
+Baker Dakota McKenzie
+a
+DETAILS OF WORK
+Drill Procedure:
+. . 4 ctor de
+1. Notify state inspector prior to spud x Notify Fidd inspects P (ec \ begin
+2. Drill 43 1/2" hole to 2159" well ‘site Construction &.
+3. TOGH and run 9 5/8" casing
+3. Driil 8.75" hole to 4797"
+4. Kickoff due South with BR’s of 8deg/100'
+4. Hold @ 75.15 deg inc to TD
+6. TOOH and run 7” casing to bottom
+‘Completion Procedure:
+1. Rig up pump truck and test wellbore to 1,500 psi.
+2. MIRU wireline and mast truck.
+3. RIH with perf assembly and perforate Dakota at 6 spf.
+4. RU pump truck and perform injectivity test. if necessary, acidize perforations and add additional parts.
+5. PU plastic lined packer and new 4.5” plastic coated tubing. TiH and set packer 50’ above top perforation.
+6. Pressure test backside to 1,000 psi and record — MIT must be witnessed by a NDIC field inspector.
+[Company Telephone Number
+Oasis Petroleum North Amarica LLC 281-404-9652 FOR STATE USE ONLY
+city State Zip Code Date
+71002
+Signatyye, : Printed Name By
+> Victoria Slomlaniewski
+Regulatory Specialist December 8, 2014
+fina Astess aKEVIN CONNORS
+vslemieniewski@oasispetroleum.com VADTCRURUOUOND IN ON
+3 SUPERVISOR
+
+= een: Oil and Gas Division
+NORTH BAKOTA
+Fenn 1D. Helms - Director Bruce F. Hicks - Assistant Director,
+Department of Mineral Resources
+Lyun 0. Helms - Director
+North Dakota Industrial Commission
+OW._AND GAS DIVISION
+sewwoilgas nd. gov
+March 20, 2015
+Victoria Siemicniewski
+Regulatory Specialist
+OASIS PETROLEUM NORTIE AMERICA LLC
+LOOT Fannin, Suite 1500
+Houston, VN 77002
+RE: DIRECTIONAL WELL
+CARSON SWD 5301 12-24
+NENW Scetion 24-153N-101W
+McKenzie County
+Well File # 90329
+Dear Vietorta
+Pursuant to Commission Order No. 25893, approval to drill the above captioned well is hereby given
+PERMIT STIPULATIONS: OASIS PETROLEUM NORTEL AMERICA must contact NDIC Field
+lnspeetor Richaed Dunn at (701) 770-3554 prior to locatian construction
+Effective June 1, 2014, all operators of disposal wells in North Dakota are required to maintain an on-site
+container to store filers until they can he praperh disposed of in an authorized facility. Such containers
+must be:
++ Leak-proof te prevent any fluids from escaping
++ Covered to present precipitation from catering the container
++ Labeled to indicate only filters are to be placed m the container
+Drilling pit
+NDAC 43-02-03-19.4 states thar “a pit may be utilized to bury drill cuttings and solids generated during well
+drilling and completion operations, providing the pir can be constructed, used and reclaimed ia a manner that will
+prevent pollution of the land surface and freshwaters. Reserve and circulation of mud system through carthea pits
+are prohibited. .\il pits shall be inspected by an authorized repeesentative of the director prior (o lining and use
+Drill cuttings and solids must be stabilized ina manner approved by the director prior to pkacement in a cuttings
+pit”
+Form 1 Changes
+Any changes, shortening of casing point or lengthening at ‘Total Depth mast have prior approval by the NDIC
+Permit Fee & Notification
+Payment was received ia the amount of $100 via credit card The permit fee has been received. Ir is requested
+that notificarion be given immediately upon the spudding of the well. ‘This information should be relayed to the
+Ol & Gas Division, Bismarck, via telephone. ‘The following informarion must be included: Well name, legal
+location, permit number, drilling contractor, company representative, date and time of spudding. Office hours are
+8:00 a.m. to 12:00 pam. and 180 p.m, te 3:00 p.m. Central Time. Our telephone number is (701) 328-8020, leave a
+message ifaticr hours or on the weekend
+600 F Boulevard Ave - Dept 408. Bismarck, Nocth Dakota 38505-0840 Phang (70 0328-8020 Fax (70 1328-8022
+
+Victoria Siemieniowskt
+March 4) 2015
+Page 2
+Survey Requirements for Horizontal, Horizontal Re-entry, and Directional Wells
+NDAAC Section 13-02-03-25 (Deviation Tests and Directional Surveys) states in part (that) the survey contractor
+shall file a certified copy of all surveys with the director free of charge within thirty days of completion, Surveys
+must be submitted as one clectronic copy, or in a form approved by the director, However, the director may
+require the directional survey to be filed immediately after completion if the survey is needed to conduct the
+operation of the director's office ina timely manner. Certified surveys must be submitted via email in one adobe
+document, with a certification cover page to ceresurvey@nd. gov. Survey points shall be of such frequency to
+accurately determine the entire location of the well bore. Specifically, the Horizontal and Directional well surver
+frequency is 100 feet in the vertical, 30 fect in the curve (or when sliding) and 90 feet in the lateral
+Conductors, Rat holes, and Mouse holes
+Pepronclavar surhtce groundvwrrer ame condi tor nitler tiauise tak divhes | rust be consriered sorhcstring ot
+ine and comenivd tr yronnd feck is sach strimmer mast be seenred atthe sunfire wher ne nice be adler, ath eat
+gedaan bobs aeiet te nleswed wath coment retort ie dest 2 below Truberide sorhi i resenablrenelsune: der
+Hie ag ron pletes dillon operations on che pad
+Surface casing cement
+‘Tail cement utilized on surface casing must have a minimum compressive strength of 500 psi within 12
+hours, and tail coment utilized on production casing must have a minimum compressive strength of 500 psi
+before dbilling the plug or initiating tests
+Logs
+NDAG Scetion 43-02-03-31 requires the running of (1) a suite of open hole logs from which formation
+taps and porosity zones can he determined, 2) a Gamma Ray Log run from total depth to ground level elevation
+of the well bore, and (3) a log from which the presence and quality of cement ean be determined (Standard CBL.
+or Ultrasonic coment evaluation log) in every well in which production or intermediate casing has been set, this
+fog must be run prior to completing the well All logs run must be submitted tree of charge, as one digital ‘11/4
+(lagged image file format) copy and one digital LAS (log ASCH) formarted copy. Digital logs may be submitted
+ota standard CD, DVD, or attached to an email sent to digitallogs@nd.gov
+Vhank you for your cooperation.
+Sincerely,
+Kevin Connors
+UIC\CCS Supervisor
+
+Goh ss APPLICATION FOR PERMIT TO DRILL - FORM 1
+Sue Se INDUSTRIAL COMMISSION OF NORTH DAKOTA
+‘Wie: |) Oll AND Gas DIVISION
+BER 800 EAST BOULEVARD DEPT 405
+“Feat” BISMARCK, ND $8506-0840
+SFN 4615 (03-2006)
+PLEASF RFAD INSTRUCTIONS BEFORE FILLING OUT FORM
+PLEASE SUBMIT THE ORIGINAL AND ONE COPY.
+Type of Work Hype of Weil Confidential Status.
+New Location Sait Water Disposai 1/1 / 2015 No
+[Operator Telephone Number
+lAddress City State Zip Code
+Name of Surface Owner or Tenant
+Wesley and Barbara Lindvig
+1407 44st ST NW Alexander ND 58831
+Notice has been provided to the owner of any ‘This well is not located within five hundred
+WELL INFORMATION permanently occupied dwelling within 1,320 feel. feet of an occupied dwelling
+Well Name Wall Number
+CARSON SWD 5301 12-24
+At Surface [Section Township [County
+584 Ff N 1 2477 5 WL NENW 24 153 ON 101 W_| McKenzie
+if Directional, Top of Pay fotr-Ow Section Township [Range (County
+a117F NE 2477 F Wee 24 153, N McKenzie
+Proposed Bottom Hale Location fOte-Otr Section Township [Range County
+Be Nn 2arT ry We 101_W_| McKenzie
+Latitude of Well Head Longitude of Well Head NAD Reference [Description of (Subject to NDIC Approval}
+48° 03" 87.89" | -103° 36" 66.05" | NAD83 Spacing Unit: Section 24 T153N R101W
+[Ground Elevation [Acres in Spacing/Driting Unit Spacing/Liriling Unit Setback Requirement Industrial Commission Order
+2087 Feet Above §.L. Feet 25893
+[Objective Horizons Pierre Shale Top
+Proposed Size Weight Depth [Cement Volume [NOTE: Surface hole must be drilled with fresh water
+Surface Casing 9 - 58") 36 kbvrt. 635 Sacks _jand surface casing must be cemented back to surface.
+Proposed Size Weight(s) Longstring Total Depth (Cement Volume Top Dakota Sand
+Longstring Casing 26 Lo/Ft | 7254 Feet MD 5878 Feet vd 509 sacks | 2159 Feet 5421 Feet
+Base Last Charles Sall (if Appicable) [Estimated Total Depth (feet) Driting Mud Type (Vertical Hole - Below Surface Casing)
+Feet 7254 Feet MD 5878 Feet tvp_|Invert
+Proposed Logs
+triple combo through mowry, GR/RES to BSC, GR to surf
+Printed Name Title
+Victoria Siemieniewski Regulatory Specialist
+FOR STATE USE ONLY FOR STATE USE ONLY
+Permit and File Number [API Number Date Approved
+Field By
+BAKER Kevin Connors
+Pool Pormit Type rite
+REQUIRED ATTACHMENTS: Certified surveyors pial, estimated geological tops, proposed mud/cementing plans, $100 fee.
+
+WELL LOCATION PLAT
+OASIS PETROLEUM NORTH AMERICA, LLC
+1001 FANNIN, SUITE 1500, HOUSTON, TX 77002
+"CARSON SWD 5301 12-24"
+884 FEET FROM NORTH LINE AND 2477 FEET FROM WEST LINE
+SECTION 24, TI59N, RIO1W, STH P-M., MCKENZIE COUNTY, NORTH DAKOTA Bie
+FOUND REBAR . ae
+W/ 2" AC Sy AZ_90°51'38" §273.24 ia
+ls 2684 one ‘
+He °\ EQUND
+2 3] CARSON SWD 5301 12-24 REBAR
+a GROUND ELE. 2086.5 &
+o Ty Q , LATITUDE 48°03'57.89"N ios}
+% ~] | CONGITUDE 103°36'56.05"W —
+© | iN GPS SURVEY DATUM: NAO 83 9
+ts 3 | ©
+8.
+oo _ a
+cn i) | a ~~
+oa | Sh, wn
+8 ele) | &
+§ ry! BOTTOM HOLE LOCATION Pd
+° | 1 LATITUDE 48°03'38.15"N | 5
+N (LONGITUDE 103°36'56.03"w °
+FOUND STONE ; GPS SURVEY DATUM: NAD 83 2,
+wu, ACN 2477 QUND REBAR]
+Ls 2884 = 4 ~ — ¥ Ww Ash
+THIS DOCUMENT WAS ORIGINALLY
+to] ISSUED AND SEALED BY DARYL 0. *
+TS| KASEMAN, PLS, REGISTRATION NUMBER | 00
+rm] 3880 ON 11/18/14 AND THE ‘9
+ta] ORIGINAL DOCUMENTS ARE STORED AT | m
+&) A] TE OFFICES OF INTERSTATE | o
+ENGINEERING, INC. “
+° 1000 to fo
+le — oe | | 3
+= 1000S in
+5 | 9
+So
+" | iS
+ms
+: og ¥
+FOUND STONE/” AZ 90°44'54" 5267.08" \ FOUND STONE.
+W/ AC "POWERS W7 REBAR
+£LEV
+ACIN|TY_ MAP. oJ | - MONUMENT - RECOVERED
+Fe Ong Sy bili oO cho f - MONUMENT — NOT RECOVERED
+Lian apheet sa. \. 7 ie STAKEO ON 11/18/14
+oi 2a is A en Vi VERTICAL CONTROL DATUM WAS BASED UPON
+Uisaal Gr E] rd FRc] CONTROL POINT 130856 WITH AN ELEVATION OF 2089.7"
+‘K Ae SICARSON Bi igaa i e THIS SURVEY AND PLAT IS BEING PROVIDED AT =
+eh NY 6301 12-24 Basiecoamal THE REQUEST OF ERIC BAYES OF GASIS “Es ANG
+oy EY aa SRR ims PETROLEUM. | CERTIFY THAT THIS PLAT CORRECTLY “fy SY
+\ ag . We (24 | wil Bea) REPRESENTS WORK PERFORMED BY ME OR UNDER Oy 5 z)
+ACY! ae Pel St MY SUPERIASION AND IS TRUE AND CORRECT TC PAWOARYL D. a
+BO eee ion amend soto SEE | THE BES 'Y KNOWLEDGE AND BELIEF,
+BRS vensvnoe rena eee Sha eee Sf KASEMAN \%
+coins st ack SAEED 2 APN q 5 w LS-3a80 [eo
+Ri ea 0 L fle se, oN are Wl %
+Ru aa Vee) “Pata TH A>
+© 2014, INTERSTATE ENGINEERING, INC. DARYL 0. KASEMAN LS~5880
+Yi Se ONTENTS 7
+= pear y WELLLOCATION FLAT (Ee
+INTERSTATE fetta tan Sta, SECTION 24, T1590, RIO. 2s 2 2
+ENGINFERING tr tesyeieset =
+12 Botan ipo at cena nersana nouns stam Oury a ee | Ol
+4
+
+SECTION BREAKDOWN
+OASIS PETROLEUM NORTH AMERICA, LLC
+1001 FANNIN, SUITE 1500, HOUSTON, TX 77002
+“CARSON SWO 6301 12-24"
+584 FEET FROM NORTH LINE AND 2477 FEET FROM WEST LINE
+SECTION 24, T15QN, RID, STH P.M., MCKENZIE COUNTY, NORTH DAKOTA ape
+FOUND REBAR ote ae FOUND
+W/ 2” AC yy, AZ_90°51'38' AZ 90°51'38" AZ 90'51'38" __AZ_90°51'38" “YO/ REBAR
+1S 2864 1318.31 1318.31" 1318.31" 1318.37
+Ylo Blig Sli Sl Ble
+Q|- wie 9 0 a|% .
+° Oo 12
+Se of ein Qo ois
+fo) oe 5! 52 a2
+ia) | 6 [5 os
+NIT Nhe n|- nba nil—
+< sie x x y
+A7_30°50'14" | AZ 90°50'14" | AZ go's0'14" | Az go's0'14"
+. 1317.89" 1317.89! 1317.95" 1317 93°
+lo Blo Slag Sho ee
+rei bet Blh mye Sl sea Pes
+2] Dw ON 26 Ole
+Os ole + c b
+5 [a Olin Pia hes
+™ nto i) ia NIe nN —
+FOUND STONE as ee wt < “1 counp
+w/ 2 ac Ng AZ 90°48'50" | AZ 90°48'50"~ Az 90'8'50" | Az 90°48'50" yn a
+Ls 2884 417 7 ine Soiies a ¥ if 2” AC
+. 1317.47" 1317.47" 1317.56 1317.56 US 2352
+|. uh fol 5 i
+ree al n ale Slo Ole
+8 giz Qh) 10 ia] @
+Ste pio Pye 26 ro)
+_ 5 | ols Ol ols
+Noo Nie © 9
+< Pa @ ye D>) a
+7 HAR Rg” D at < t
+A7_90°46'52" | AzZ_90°48'52" |_AzZ_90°46'52" | Az 90°46'52"
+; 131712" 1317.12" Wins Bizy |
+° 1000 fo]. i. fo 5 5
+ae =| al 58 ak ls
+on u ol + “) re} i
+Tom 51 ae Bin ag ais
+9 Olm OR Of> ol
+OS nls n= wile nl2
+< st os y y
+$42 90°44'54 Ag 90'44'54" J AZ 90°44'54" | AZ 90°44'54"
+-, foungstonc/ "1316.7 1316.77" 1516.77 1316.77 *\ FOUND srone
+W/ AC “POWERS & REBAR
+ELEV"
+VICINITY MAP whe [ - MONUMENT - RECOVERED
+HSIN ACE AMT tare oma MONUMENT - NOT RECOVERED
+he Ka : walla DI se iy THIS DOCUMENT WAS ORIGINALLY o& X
+Gp he lin ISSUED AND SEALED BY DARYL 0.
+Wissay et EY Cerca Bean] KASEMAN, PLS, REGISTRATION NUMBER
+PRON MESES? apa ANY 5860 ON {1/18/14 AND THE
+A ARSON SWO SPN A] ORIGINAL DOCUMENTS ARE STORED AT SRN
+SESSA, 5301 12-24 uM THe OFFICES OF INTERSTATE Se LANG
+By Aa Raia | SaaS S
+aa We pin Bs are Ree) ENGINEERING, INC Ova QW
+ites dak Ta ae Bi] ALL AZIMUTHS ARE GASED ON GPS. [HAM D. 4
+Ey, RE RSEA) OuSerevATIONS, THE ORIGINAL, SURVEY oF <5 EMAN \@
+RD} eoSnei 0 38 Za eS THIS AREA FOR THE GCNERAL LAND OFFICE WwW LS-3880 [o)
+iS CHALVERS 8901 Get 30 AN R"" 2] (G.L.0.) WAS 1901 THE CORNERS FOUND ca ay
+bay sen prrerreaerre es CMAN ARE AS INDICATED AND ALL OTHERS ARE eae 11/18 /1
+oe ee 200A © F | COMPUTED FROM THOSE CORNERS FOUND a
+ak BY SA NMG AND BASED ON G.L.O. DATA, THE MAPPING fos
+OER MGS N Soe) ANGLE FOR THIS AREA IS APPROXIMATELY TH ONS
+@ 2044, INTERSTATE ENGINEERING, INC, -0°05'
+2 lS ES
+ENGINEERING or ag ane 2
+a =e Ee
+2 Defines pected pepe ne verte rns neponneites ne a a a He Se
+18 ‘
+
+PAD LAYOUT
+ong PerROLe ML ORTH AVERI. tue
+soot Eo re 00 HOUSTON THz
+“canson a0 300) Ha
+sgecees rom nome Ob Hr Peer EROM WEST UN
+._ on TH RICH BMPs WORSE SSONEE RM OO,
+Pfr am ‘ JAM |
+Lf /
+of POs SS!
+YS fooN ON ‘ je kee TIEN PROPOSEO
+ji alee Es Hee
+. - ii railit: ‘
+NA Nal ;
+7 _ / Uy |’
+/é8 COOMBE Rr OT Seas tS Ee
+F NAR oe RS ae 1
+’ e va. Ts PORK) PREY an ee re tal
+/ - an | re migog¢e a  o
+27 2 Yipontannens/| 1% score Sen ee cone ek
+CG ei \ , wR |
+, eee if sos: Soe i
+/ 1 CARSON SWO 5391 1p-24
+f i es wale
+/ of i nnn, 7 ; oo | Ln
+1) |: wi
+e B eee crtay, q
+, a ‘CUT SLOPES « t: BS q
+4 i & ce aa |
+I vesuore Ff iste obra) y
+OS, ieee Foz sor |e a y
+SOS EET oe oe ear | os a
+rene’ = 2084 j
+su ONE ea a q
+Ne nN _¥OIICH ' Hy
+sO a : 7 $M pegee pera] : Pw
+. SN, Sg nag Tgp. coz ore HH
+%. ~ ms i a _ a \
+~ “™ sO t . 2
+BNE
+NOTE; Pet treons shown art 1043 DocUNENE WAS omoNaLLY 4
+‘unable area, the v-olich and bom *SSUEO AND SEALED GY ARYL D. AARYL ONE
+tives vibe atta ctl ot asta 5, Regaraatow HaeR KASEMAN \S
+tna pad dents Sak oot eets MP Snc0 ac BL isso |S
+Enaweennig, ie SE HL BSI
+TO,
+Oi ow
+V-DITCH DETAL
+ys GLU. 61 Proposes contours -®@-
+\w 18 }min RON Bl Origin! Contours ]
+| ° :
+2.8 nin oO 60
+a
+© 2014, INTERSTATE ENGINEERING, INC. vs 60
+Tr | = ee ES
+INTERSTATE mane BECTON 3.11820, Miaiee |e A el
+CBecce Extn [serene coun. nonivoarara FFF +
+2 aS ee
+19
+
+ACCESS APPROACH
+OASIS PETROLEUM NORTH AMERICA, LLC
+1007 FANNIN, SUITE 1500, HOUSTON, Tx 77002
+“CARSON SWD 5301 12-24"
+584 FEET FROM NORTH LINE AND 2477 FEET FROM WEST LINE
+SECTION 24, T153N, R101W, STH P.M. MCKENZIE COUNTY, NORTH DAKOTA = ‘=
+5/8
+Pate Slsaai|
+a 3 =a? ” .
+“ee 805138" 5073.4 eS Buitl
+23 f 24> AZ 27175 '12553.8" 4a inte
+~SS OAD Fe 247 19
+FOUND REBAR Saar ey Baey conn, Be== FOUN RTD
+w/ 2” AC WSS ESS REBAR z E
+LS 2884 B aa
+AZ 0°00" Bite
+356.3" BS Zio,
+LANDOWNER: peril
+R WESLEY LINDVIG , Ea ale
+S wi/2 SECTION 24 / Polo
+2 355.3 FEET = 22 RODS / Bal
+g 1 B felt
+| POPE
+q | CARSON SWD 5301 12-24~ k, ae)
+3 g
+sp —— ~~ — ]
+i e eae
+FOUND STONE Beireai!
+Wr 2 AC\ | Bey
+1S zea 5 4
+—23-f24— < [>
+B FO
+fe ANG z| Bz
+s &] sé
+ee OND 2] 22
+fey, oNZ. 3] &3 |
++ THIS DOCUMENT WAS ORIGINALLY (ley KASEMAN \% al $s j
+ISSUED AND SEALED BY DARYi D. ral LS~ 3886 oO = q
+KASEMAN, PLS, REGISTRATION NUMBER we al < a
+3880 ON _ 11/28/14 ant THE we TB /4 5 E
+‘. ORIGINAL, DOCUMENTS ARE STORED AT » ‘ if “ ° & a
+THE OFFICES OF ‘INTERSTATE QR
+o $00 ENGINEERING, INC. ORR Dae Fa
+ee z }
+Mr = 500 NOTE: All utilities shown ore prelimincry oniy, ¢ comoiete ~
+utilities location is recommended before canstruction. @}
+
+WELL LOCATION SITE QUANTITIES
+OASIS PETROLEUM NORTH AMERICA, LLC
+4001 FANNIN, SUITE 1500, HOUSTON, TX 77002
+“CARSON SWD 5301 (2-24"
+‘584 FEET FROM NORTH LINE AND 2477 FEET FROM WEST LINE
+SECTION 24, T153N, RIO1W, STH P.M., MCKENZIE COUNTY, NORTH DAKOTA,
+WELL SITE ELEVATION 2086.5
+WELL PAD ELEVATION 2084.0
+EXCAVATION 12,315
+PLUS PIT 3,150
+ACCESS ROAD (CUT) 27
+15,492
+EMBANKMENT 6,588
+PLUS SHRINKAGE (30%) 1,976
+ACCESS ROAD (FILL) 1,441
+10.005
+STOCKPILE PIT 3,150
+STOCKPILE TOP SOIL (6") 3,243
+BERMS 1,332 LF = 432 CY
+DITCHES 1,420 LF = 217 CY
+CONTAINMENT AREA 1,121 CY
+STOCKPILE MATERIAL 0
+DISTURBED AREA FROM PAD 4.02 ACRES
+NOTE: ALL QUANTITIES ARE IN CUBIC YARDS (UNLESS NOTED)
+CUT END SLOPES AT 1:1
+FILL END SLOPES AT 1.5:1
+WELL SITE LOCATION
+584° FNL
+2477 FWL
+BERM DETAIL DIVERSION DITCH DETAIL
+4, &
+2.5" | min NY oy
+° 25, . 1.0'[ min
+Qi a
+Lee 0! min el Le t9.9" min———+!
+© 2014, INTERSTATE ENGINEERING, INC,
+a Vi oo Se OneTS ELTROTED TORT ERIE’ TE 7
+ENGINEERING eh cero +}
+24
+
+CROSS SECTIONS
+OASIS PETROLEUM NORTH AMERICA, LLC
+4001 FANNIN, SUITE 1600, HOUSTON, Tx 77002
+“CARSON SWO 5301 12-24"
+584 FEET FROM NORTH LINE AND 2477 FEET FROM WEST LINE
+SECTION 24, T153N, R1O1W, STH P.M, MCKENZIE COUNTY, NORTH DAKOTA
+z00 aim 2000 ica
+te 1 a A A NW wane e080 eteo a a 4 2089
+ia a ried
+STA. 4+00 STA. 4444
+o || om mT"
+208 2090 — J
+=e ae
+as | eo eo em
+ie he ie
+STA. 3+00 STA, 2+00
+eto» CJ 210 e100 e100
+“= o» mt] TTT
+2080 foe 090 2080 080
+a a a eel
+STA. 0+00 STA. 1400
+eb S
+Wa Ss
+THIS DOCUMENT WAS ORIGINALLY re WBARYL ON'Z
+ISSUED AND SEALED RY DARYL 0. KASEMAN \&
+KASEMAN, PLS, REGISTRATION NUMBER C5 <
+3860 ON '_1i/18/14 AND THE wi Ls-3880 «JO
+ORIGINAL DOCUMENTS ARE STORED AT ~ uv
+THE OFFICES OF INTERSTATE. aed 1/18 /4
+ENGINEERING, INC. ws oS
+_-
+STH ONO
+SCALE
+HORIZ "= 160"
+VERT 1"=40"
+@ 2014, INTERSTATE ENGINEERING, INC.
+msegin te 7 : ———
+AN TERSTATE Satan _——
+el Petite eases Soir arse ft fF
+sgn 40 Haast ioe ors aa nto gs et BBA foes i
+22
+
+ORILUING FLAW
+[PROSPECTIFIELD CEE) Slant Dakota Water Disposal Well COUNTYISTATE__ Mnuninacp_B0D
+loperator seated am aS Ta
+WELL NAME (amend On —_
+LOCATION Torface Lecaton feurvay pia
+Est. 1.0. Tae = _ GROUNG ELEY 284 Frihed PdGev Sub Hleght 75
+a WEELEV: 2100 _
+PROGNOSIS: Pane? Was Fit Leas: Tine injereal
+OF L095 Hone
+MARKER DEPTH (Surf Loe DATUM (Surf Lee
+CAL AGI Above lop of coment to hape.of C254
+Prowe 2.089 so
+Greanhorn 4.608 2497
+Mowry 41997 2a88 (DEVIATION WoW se oo ~
+Newcastle 5126 307
+Dakota Top Sant 331?
+Fits Dakola Sand Top 5.489 3380
+Firsl Dakota Sand Base 55a 3435
+Second Oakota Sand Top soni 3562
+Second Dakota Sand Base 700 3600
+Thi Dakota Sand Top 373 a6it
+Third Dakota Sand Base 3.963 375A
+TO vel sora 3769 [BST Nae planned
+Sent 6.081 3068
+Rierdon 6377 468
+NUBLOGGIN 1 Samples during carve and ihrough Dakata
+BOF:
+11" 5000 pss mind, gape 8 anouar
+tax, Anticipated BHP: TH Surtace Formation: Glacial ti —
+MUD: inerval Tape WI wr Berane
+Suitace ° 2158 rweGel Line Sweeps 26.8u 2834 KC re Mud Tanks
+Ievenmnediata 2.189 7258 tweed 90.100 4060 wine Give Mud Tonks
+CASING: ‘Size Weppt Hole Depth ~~ Sement "Woe Remarks
+Sutace 958" 6 Bie ar To surface 12 hours
+intermediate 7 Es Ba 14 rey 12 hous Bock to srt se
+PROBABLE PLUGS, IF REGO:
+lug from TD of vertical = 5,965 to 160" above KOP = 4,800). Total of 1.140"
+OTHER 0 To ERUFST era Sig aa
+Sutaco sr Mle Mie PhL  HGMERIOIWE Se 24 Buid Rate. «i day 1100
+KOP, arb aaa FAL ORL THBIRRIONW See. 25
+EOC ten nay EAL Bal ml TIBINARIOWSee. 24 we
+Dakota Slant (0% Casing Pont 771 am pared Meer QI THBUARTONWSec. 24 i
+Comments:
+wo survey every 100' Place Cement Kickott Pig
+TH wath 8-3/4" Curve assembly and build curve MWD Survey every 30° Land Curve , top of Dakota fosmatlon
+Dull slant wid 8.374" bit and rotate down to TD. MIND Suivey every 30-. Run 7° casing and cement
+Rasorva pil fulds wilt be hauled to the nearest disposal site/Hesorve plt solids wlll be sntldified avd reclaimed In the lined reserve pit
+Geology BNC 10-36.2014 Engineering: Agen sares1 25-16
+q
+
+:
+' LL PETROLEUM. 2000.
+| Date: 11/25/2074]
+Modet. IGRF2010| 1009.
+i Weibore. Welboore #1 | = 2477 Fe,
+a 2 1090:
+3
+3306- &
+- CASING DETAILS E000 :
+To MD Name Sue 5 Br
+3600 21590 2159.0 958" S625 2 See 2 aoe FNL
+3
+a
+3900 000:
+= Groune tne 208C0 | 5000
+$200: Northng Easting Laude Longtuge
+£ -€000-
+Basoo
+a —
+a KOP Build 87/100"
+3 e800 Wesi(-)/East(+) (2000 usttin)
+2
+3
+Hold Ine, Azm Bry tne hz TD ONES HEL Dleg Target
+5400: 72533 7575 180.00 «= SB7BO = -20002 eo 0.00 Garson SWO 5301 12-26 SHL|
+J Carson SWO 5301 12-28 BHL
+$009
+-306 C 300 600 900 7200 1500 1899 2700
+Vertical Section at 180.00° (500 usit/in)
+
+Oasis
+
+Indian Hills
+
+153N-101W-24
+
+Carson SWD 5301 12-24
+
+Wellbore #1
+
+Plan: Design #1
+
+Standard Planning Report
+20 March, 2015
+
+Planning Report
+Database: OpenWellsCompass - EDM Prod Local Co-ordinate Reference: Well Carson SWD 5301 12-24
+Company: Oasis TVD Reference: WELL @ 2109.0usft (Original Well Elev)
+Project: Indian Hills MD Reference: WELL @ 2109.0usft (Original Well Elev)
+Site: 153N-101W-24 North Reference: True
+Well: Carson SWD 5301 12.24 Survey Calculation Method: Minimum Curvature
+Wellbore: Wellbore #1
+Design: Design #1
+Project Indian Hills
+Map System: US State Plane 1983, System Datum: Mean Sea Level
+Geo Datum: North American Datum 1983
+Map Zone: North Dakota Northern Zone
+Site 153N-101W-24
+Site Position: Northing: 404,279.54 usft Latitude: 48° 357.890 N
+From: LatiLeng Easting: 1,206,936.03 usft Longitude: 103" 36' 56.050 W
+Position Uncertainty: OOusft Slot Radius: 13.200 in Grid Convergence: -2.32"
+Well Carson SWD 5301 12-24
+Well Position +NES O.0usit Northing: 404,279.54 usit Latitude: 48" 3° 57.890 N
++ERW Oust Easting: 1,206,936.03 usft Longitude: 103” 36 56.050 W
+Position Uncertainty 20usft Wellhead Elevation: Ground Level: 2,084.0 ustt
+Wellbore Wellbore #1
+Magnetics Model Name Sample Date Declination Dip Angle Field Strength
+vr) ° (nT)
+IGRF2010 11/25/2014 8.20 72.96 56,381
+Design Design #1
+Audit Notes:
+Version: Phase: PROTOTYPE Tie On Depth: 0.0
+Vertical Section: Depth From (T¥D) NES EW Direction
+(ust) (usft) {ustt) °
+00 00 0.0 180.00
+Plan Sections
+Measured Vertical Dogleg Build Turn
+Depth Inclination Azimuth Depth 4NAS FEW Rate Rate Rate Tro
+(ust) 0 Ch (ustt} {usft) (ust) (Hoot) (Hoon) (Hooft) 0 Target
+00 0.00 0.00 oo 00 00 0.00 0.00 0.00 0.00
+4796.7 0.00 0.00 4,796.7 00 00 0.00 0.00 0.00 0.00
+5,736.1 75.15 180.00 5,489.0 832.7 00 8.00 8.00 -19.16 180.00
+7.2543 75.15 180.00 5,878.0 — -2,000.2 00 0.00 0.00 0.00 0.00 Carson SWD 5301 12
+3/20/2015 4:30:46PM Page 2 COMPASS 5000.1 Build 65
+
+Planning Report
+
+Database: OpenWellsCompass - EDM Prod Local Co-ordinate Reference: Well Carson SWD 5301 12-24
+
+Company: Oasis TVD Reference: WELL @ 2109.0usft (Original Well Elev)
+
+Project: Indian Hills MD Reference: WELL @ 2109.0usft (Original Well Elev)
+
+Site: 153N-101W-24 North Reference: True
+
+‘Well: Carson SWD 5301 12-24 ‘Survey Calculation Method: Minimum Curvature
+
+Wellbore: Wellbore #1
+
+Design: Design #1
+
+Planned Survey
+
+Measured Vertical Vertical Dogleg Build Turn
+Depth Inclination Azimuth Depth 4NDS +E Section Rate Rate Rate
+(usit) 0 0 (usft} {usft) {ustt) (usft} (Hott) (oot) (eootty
+
+2,160.0 0.00 0.00 2,160.0 00 0.0 0.0 0.00 0.00 0.00
+2,190.0 0.00 0.00 2,190.0 00 0.0 0.0 0.00 0.00 0.00
+2,220.0 0.00 0.00 2,220.0 00 0.0 0.0 0.00 0.00 0.00
+2,250.0 0.00 0.00 2,250.0 00 0.0 0.0 0.00 0.00 0.00
+2,280.0 0.00 0.00 2,280.0 00 0.0 0.0 0.00 0.00 0.00
+2,310.0 0.00 0.00 2,310.0 00 0.0 0.0 0.00 0.00 0.00
+2,340.0 0.00 0.00 2,340.0 00 0.0 0.0 0.00 0.00 0.00
+2,370.0 0.00 0.00 2,370.0 00 0.0 0.0 0.00 0.00 0.00
+2,400.0 0.00 0.00 2,400.0 00 0.0 0.0 0.00 0.00 0.00
+2,430.0 0.00 0.00 2,430.0 00 0.0 0.0 0.00 0.00 0.00
+2,460.0 0.00 0.00 2,460.0 00 0.0 0.0 0.00 0.00 0.00
+2,490.0 0.00 0.00 2,490.0 00 0.0 0.0 0.00 0.00 0.00
+2,520.0 0.00 0.00 2,520.0 00 0.0 0.0 0.00 0.00 0.00
+2,550.0 0.00 0.00 2,550.0 00 0.0 0.0 0.00 0.00 0.00
+2,580.0 0.00 0.00 2,580.0 00 0.0 0.0 0.00 0.00 0.00
+2610.0 0.00 0.00 2,610.0 00 0.0 0.0 0.00 0.00 0.00
+2,640.0 0.00 0.00 2,640.0 00 0.0 0.0 0.00 0.00 0.00
+2,670.0 0.00 0.00 2,670.0 00 0.0 0.0 0.00 0.00 0.00
+2,700.0 0.00 0.00 2,700.0 00 0.0 0.0 0.00 0.00 0.00
+2,730.0 0.00 0.00 2,730.0 00 0.0 0.0 0.00 0.00 0.00
+2,760.0 0.00 0.00 2,760.0 00 0.0 0.0 0.00 0.00 0.00
+2,790.0 0.00 0.00 2,790.0 00 0.0 0.0 0.00 0.00 0.00
+2,820.0 0.00 0.00 2,820.0 00 0.0 0.0 0.00 0.00 0.00
+2,850.0 0.00 0.00 2,850.0 00 0.0 0.0 0.00 0.00 0.00
+2,880.0 0.00 0.00 2,880.0 00 0.0 0.0 0.00 0.00 0.00
+2,910.0 0.00 0.00 2,910.0 00 0.0 0.0 0.00 0.00 0.00
+2,940.0 0.00 0.00 2,940.0 00 0.0 0.0 0.00 0.00 0.00
+2,970.0 0.00 0.00 2,970.0 00 0.0 0.0 0.00 0.00 0.00
+3,000.0 0.00 0.00 3,000.0 00 0.0 0.0 0.00 0.00 0.00
+3,030.0 0.00 0.00 3,030.0 00 0.0 0.0 0.00 0.00 0.00
+3,060.0 0.00 0.00 3,060.0 00 0.0 0.0 0.00 0.00 0.00
+3,090.0 0.00 0.00 3,090.0 00 0.0 0.0 0.00 0.00 0.00
+3.120.0 0.00 0.00 3,120.0 00 0.0 0.0 0.00 0.00 0.00
+3,150.0 0.00 0.00 3,150.0 00 0.0 0.0 0.00 0.00 0.00
+3,180.0 0.00 0.00 3,180.0 00 0.0 0.0 0.00 0.00 0.00
+3.210.0 0.00 0.00 3,210.0 00 0.0 0.0 0.00 0.00 0.00
+3,240.0 0.00 0.00 3,240.0 00 0.0 0.0 0.00 0.00 0.00
+3,270.0 0.00 0.00 3,270.0 00 0.0 0.0 0.00 0.00 0.00
+3,300.0 0.00 0.00 3,300.0 00 0.0 0.0 0.00 0.00 0.00
+3,330.0 0.00 0.00 3,330.0 00 0.0 0.0 0.00 0.00 0.00
+3,360.0 0.00 0.00 3,360.0 00 0.0 0.0 0.00 0.00 0.00
+3,390.0 0.00 0.00 3,390.0 00 0.0 0.0 0.00 0.00 0.00
+3,420.0 0.00 0.00 3,420.0 00 0.0 0.0 0.00 0.00 0.00
+3,450.0 0.00 0.00 3,450.0 00 0.0 0.0 0.00 0.00 0.00
+3,480.0 0.00 0.00 3,480.0 00 0.0 0.0 0.00 0.00 0.00
+3.510.0 0.00 0.00 3,510.0 00 0.0 0.0 0.00 0.00 0.00
+3,540.0 0.00 0.00 3,540.0 00 0.0 0.0 0.00 0.00 0.00
+3.570.0 0.00 0.00 3,570.0 00 0.0 0.0 0.00 0.00 0.00
+3,600.0 0.00 0.00 3,600.0 00 0.0 0.0 0.00 0.00 0.00
+3,630.0 0.00 0.00 3,630.0 00 0.0 0.0 0.00 0.00 0.00
+3,660.0 0.00 0.00 3,660.0 00 0.0 0.0 0.00 0.00 0.00
+3,690.0 0.00 0.00 3,690.0 00 0.0 0.0 0.00 0.00 0.00
+3.720.0 0.00 0.00 3,720.0 00 0.0 0.0 0.00 0.00 0.00
+3.750.0 0.00 0.00 3,750.0 00 0.0 0.0 0.00 0.00 0.00
+3,780.0 0.00 0.00 3,780.0 00 0.0 0.0 0.00 0.00 0.00
+
+S20/2015 4:30:46PM Page 3 COMPASS 5000.1 Buitd 65
+
+Planning Report
+Database: OpenWellsCompass - EDM Prod Local Co-ordinate Reference: Well Carson SWD 5301 12-24
+Company: Oasis TVD Reference: WELL @ 2109.0usft (Original Well Elev)
+Project: Indian Hills MD Reference: WELL @ 2109.0usft (Original Well Elev)
+Site: 153N-101W-24 North Reference: True
+Well: Carson SWD 5301 12.24 Survey Calculation Method: Minimum Curvature
+Wellbore: Wellbore #1
+Design: Design #1
+Planned Survey
+Measured Vertical Vertical Dogleg Build Turn
+Depth Inclination Azimuth Depth 4NAS FEW Section Rate Rate Rate
+(ustt) 0 0 (usft) {usft) (ust) (usft) (Moony = (°rsoofty (root
+3.8100 0.00 0.00 3.8100 00 0.0 oo 0.00 0.00 0.00
+3,840.0 0.00 0.00 3.8400 00 0.0 00 0.00 0.00 0.00
+3,870.0 0.00 0.00 3.8700 00 0.0 00 0.00 0.00 0.00
+3,900.0 0.00 0.00 3,900.0 00 0.0 00 0.00 0.00 0.00
+3,930.0 0.00 0.00 3,930.0 00 0.0 00 0.00 0.00 0.00
+3,960.0 0.00 0.00 3,960.0 00 0.0 00 0.00 0.00 0.00
+3,990.0 0.00 0.00 3,990.0 00 0.0 00 0.00 0.00 0.00
+4,020.0 0.00 0.00 4,020.0 00 0.0 00 0.00 0.00 0.00
+4,050.0 0.00 0.00 4,050.0 00 0.0 00 0.00 0.00 0.00
+4,080.0 0.00 0.00 4,080.0 00 0.0 00 0.00 0.00 0.00
+4.1100 0.00 0.00 4110.0 00 0.0 00 0.00 0.00 0.00
+4,140.0 0.00 0.00 4.1400 00 0.0 00 0.00 0.00 0.00
+4.1700 0.00 0.00 4.1700 00 0.0 00 0.00 0.00 0.00
+4,200.0 0.00 0.00 4,200.0 00 0.0 00 0.00 0.00 0.00
+4,230.0 0.00 0.00 4,230.0 00 0.0 00 0.00 0.00 0.00
+4,260.0 0.00 0.00 4,260.0 00 0.0 00 0.00 0.00 0.00
+4,290.0 0.00 0.00 4,290.0 00 0.0 00 0.00 0.00 0.00
+4,320.0 0.00 0.00 4.3200 00 0.0 00 0.00 0.00 0.00
+4,350.0 0.00 0.00 4,350.0 00 0.0 00 0.00 0.00 0.00
+4,380.0 0.00 0.00 4,380.0 00 0.0 00 0.00 0.00 0.00
+44100 0.00 0.00 44100 00 0.0 00 0.00 0.00 0.00
+4,440.0 0.00 0.00 4,440.0 00 0.0 00 0.00 0.00 0.00
+4.4700 0.00 0.00 4.4700 00 0.0 00 0.00 0.00 0.00
+4,500.0 0.00 0.00 4,500.0 00 0.0 00 0.00 0.00 0.00
+4,530.0 0.00 0.00 4,530.0 00 0.0 00 0.00 0.00 0.00
+4,560.0 0.00 0.00 4,560.0 00 0.0 00 0.00 0.00 0.00
+4,590.0 0.00 0.00 4,590.0 00 0.0 00 0.00 0.00 0.00
+4,606.0 0.00 0.00 4,606.0 00 0.0 00 0.00 0.00 0.00
+Greenhom
+4,620.0 0.00 0.00 4.6200 00 0.0 00 0.00 0.00 0.00
+4,650.0 0.00 0.00 4,650.0 00 0.0 00 0.00 0.00 0.00
+4,680.0 0.00 0.00 4,680.0 00 0.0 00 0.00 0.00 0.00
+47100 0.00 0.00 4.7100 00 0.0 00 0.00 0.00 0.00
+4,740.0 0.00 0.00 4,740.0 00 0.0 00 0.00 0.00 0.00
+47700 0.00 0.00 4.7700 00 0.0 00 0.00 0.00 0.00
+47967 0.00 0.00 4,796.7 00 0.0 00 0.00 0.00 0.00
+KOP Build 8°/100"
+4,800.0 0.26 180.00 4,800.0 00 0.0 oo 8.00 8.00 0.00
+4,830.0 2.66 180.00 4,830.0 08 0.0 08 8.00 8.00 0.00
+4,360.0 5.08 180.00 4.8599 28 0.0 28 8.00 8.00 0.00
+4,890.0 7.468 180.00 4.8897 6.1 0.0 61 8.00 8.00 0.00
+4,920.0 9.86 180.00 4,919.4 10.6 0.0 106 8.00 8.00 0.00
+4,950.0 12.26 180.00 4,948.8 16.3 0.0 16.3 8.00 8.00 0.00
+4,980.0 14.66 180.00 4,978.0 23.3 0.0 23.3 8.00 8.00 0.00
+4,999.7 16.24 180.00 4,997.0 -28.6 0.0 286 8.00 8.00 0.00
+Mowry
+5.0100 17.08 180.00 5,006.9 “315 0.0 31.5 8.00 8.00 0.00
+5,040.0 19.48 180.00 5,035.3 -40.9 0.0 40.9 8.00 8.00 0.00
+5,070.0 21.86 180.00 5,063.4 “515 0.0 515 8.00 8.00 0.00
+5,100.0 24.26 180.00 5,091.0 63.3 0.0 63.3 8.00 8.00 0.00
+5,130.0 26.66 180.00 5,118.1 762 0.0 76.2 8.00 8.00 0.00
+5,160.0 29.06 180.00 5,144.6 90.2 0.0 90.2 8.00 8.00 0.00
+5,190.0 31.46 180.00 51705 105.3 0.0 108.3 8.00 8.00 0.00
+5,220.0 33.86 180.00 5,195.8 A215 0.0 121.5 8.00 8.00 0.00
+3/20/2015 4:30:46PM Page 4 COMPASS 5000.1 Build 65
+
+Planning Report
+Database: OpenWellsCompass - EDM Prod Local Co-ordinate Reference: Well Carson SWD 5301 12-24
+Company: Oasis TVD Reference: WELL @ 2109.0usft (Original Well Elev)
+Project: Indian Hills MD Reference: WELL @ 2109.0usft (Original Well Elev)
+Site: 153N-101W-24 North Reference: True
+Well: Carson SWD 5301 12.24 Survey Calculation Method: Minimum Curvature
+Wellbore: Wellbore #1
+Design: Design #1
+Planned Survey
+Measured Vertical Vertical Dogleg Build Turn
+Depth Inclination Azimuth Depth 4NAS FEW Section Rate Rate Rate
+(ustt) 0 0 (usft) {usft) (ust) (usft) (Moony = (°rsoofty (root
+5,250.0 36.26 180.00 5.2203 138.7 0.0 138.7 8.00 8.00 0.00
+5,280.0 38.66 180.00 5,244.1 -187.0 0.0 157.0 8.00 8.00 0.00
+5.3100 41.06 180.00 5,267.2 1762 0.0 176.2 8.00 8.00 0.00
+5,340.0 43.46 180.00 5,289.4 196.4 0.0 196.4 8.00 8.00 0.00
+5,370.0 45.86 180.00 53107 “2175 0.0 217.5 8.00 8.00 0.00
+5,400.0 48.26 180.00 5331.1 “239.4 0.0 239.4 8.00 8.00 0.00
+5,430.0 50.66 180.00 5.3506 -262.2 0.0 262.2 8.00 8.00 0.00
+5,460.0 53.06 180.00 5,369.2 -285.8 0.0 285.8 8.00 8.00 0.00
+5,490.0 55.46 180.00 5,386.7 -310.2 0.0 310.2 8.00 8.00 0.00
+5,520.0 57.86 180.00 5,403.2 -335.2 0.0 336.2 8.00 8.00 0.00
+5,550.0 60.26 180.00 54186 -361.0 0.0 361.0 8.00 8.00 0.00
+5.5549 60.66 180.00 5,421.0 -365.2 0.0 365.2 8.00 8.00 0.00
+Dakota Top
+5,580.0 62.66 180.00 5,432.9 -387.3 0.0 387.3 8.00 8.00 0.00
+5.6100 65.06 180.00 5,446.1 414.2 0.0 414.2 8.00 8.00 0.00
+5,640.0 67.46 180.00 5,458.2 -4a17 0.0 447 8.00 8.00 0.00
+5,670.0 69.86 180.00 5,469.1 469.6 0.0 469.6 8.00 8.00 0.00
+5,700.0 72.26 180.00 54789 -498.0 0.0 498.0 8.00 8.00 0.00
+5,730.0 74.66 180.00 54874 -526.8 0.0 526.8 8.00 8.00 0.00
+5,736.1 75.15 180.00 5,489.0 “5327 0.0 532.7 8.00 8.00 0.00
+Hold Inc, Azm
+5,736.2 75.15 180.00 5,489.0 -5327 0.0 532.7 1.57 1.57 0.00
+First Dakota Sand Top
+5,760.0 75.15 180.00 5,495.1 -555.8 0.0 555.8 0.00 0.00 0.00
+5,790.0 75.15 180.00 5,502.8 -584.8 0.0 584.8 0.00 0.00 0.00
+5,820.0 75.15 180.00 55105 6138 0.0 613.8 0.00 0.00 0.00
+5,850.0 75.15 180.00 5,518.2 6428 0.0 642.8 0.00 0.00 0.00
+5,880.0 75.15 180.00 5,525.9 6718 0.0 e718 0.00 0.00 0.00
+5.9100 75.15 180.00 5,533.5 700.8 0.0 700.8 0.00 0.00 0.00
+5,940.0 75.15 180.00 5541.2 729.8 0.0 729.8 0.00 0.00 0.00
+5,950.8 75.15 180.00 5,544.0 740.2 0.0 740.2 0.00 0.00 0.00
+First Dakota Sand Base
+5,970.0 75.15 180.00 5,548.9 758.8 0.0 758.8 0.00 0.00 0.00
+6,000.0 75.15 180.00 5,556.6 787.8 0.0 787.8 0.00 0.00 0.00
+6,030.0 75.15 180.00 5,564.3 8168 0.0 816.8 0.00 0.00 0.00
+6,060.0 75.15 180.00 5.5720 “845.8 0.0 845.8 0.00 0.00 0.00
+6,090.0 75.15 180.00 55797 8748 0.0 874.8 0.00 0.00 0.00
+6.1200 75.15 180.00 5,587.4 -903.8 0.0 903.8 0.00 0.00 0.00
+6,150.0 75.15 180.00 5,595.0 9328 0.0 932.8 0.00 0.00 0.00
+6,180.0 75.15 180.00 5,602.7 961.7 0.0 961.7 0.00 0.00 0.00
+6.2100 75.15 180.00 56104 -990.7 0.0 990.7 0.00 0.00 0.00
+6.2400 75.15 180.00 5618.1 -1,019.7 0.0 1.0197 0.00 0.00 0.00
+6.2700 75.15 180.00 56258 = 1,048.7 0.0 1,048.7 0.00 0.00 0.00
+6,300.0 75.15 180.00 56335 1,077.7 0.0 1,077.7 0.00 0.00 0.00
+6,330.0 75.15 180.00 5641.2 -1,106.7 0.0 1,106.7 0.00 0.00 0.00
+6,360.0 75.15 180.00 56488 1,135.7 0.0 1,135.7 0.00 0.00 0.00
+6,390.0 75.15 180.00 56585 1,164.7 0.0 1,164.7 0.00 0.00 0.00
+6.4200 75.15 180.00 5,664.2 -1,193.7 0.0 1,193.7 0.00 0.00 0.00
+6.4465 75.15 180.00 56710 1,219.3 0.0 1.2193 0.00 0.00 0.00
+Second Dakota Sand Top
+6,450.0 75.15 180.00 56719 1,222.7 0.0 1,222.7 0.00 0.00 0.00
+6,480.0 75.15 180.00 56796 1.2517 0.0 1.2517 0.00 0.00 0.00
+6.5100 75.15 180.00 56873 © -1,2807 0.0 1,280.7 0.00 0.00 0.00
+6,540.0 75.15 180.00 56950 1,309.7 0.0 1,309.7 0.00 0.00 0.00
+6.5700 75.15 180.00 57027 1,338.7 0.0 1,338.7 0.00 0.00 0.00
+3/20/2015 4:30:46PM Page 5 COMPASS 5000.1 Build 65
+
+Planning Report
+Database: OpenWellsCompass - EDM Prod Local Co-ordinate Reference: Well Carson SWD 5301 12-24
+Company: Oasis TVD Reference: WELL @ 2109.0usft (Original Well Elev)
+Project: Indian Hills MD Reference: WELL @ 2109.0usft (Original Well Elev)
+Site: 153N-101W-24 North Reference: True
+Well: Carson SWD 5301 12.24 Survey Calculation Method: Minimum Curvature
+Wellbore: Wellbore #1
+Design: Design #1
+Planned Survey
+Measured Vertical Vertical Dogleg Build Turn
+Depth Inclination Azimuth Depth 4NAS FEW Section Rate Rate Rate
+(ustt) 0 0 (usft) {usft) (ust) (usft) (Moony = (°rsoofty (root
+6,594.8 75.15 180.00 57090 © 1,362.7 0.0 1,362.7 0.00 0.00 0.00
+Second Dakota Sand Base
+6,600.0 75.15 180.00 57103 1,367.7 0.0 1,367.7 0.00 0.00 0.00
+6,630.0 75.15 180.00 57180 © 1,396.7 0.0 1,396.7 0.00 0.00 0.00
+6,660.0 75.15 180.00 57257 1,425.7 0.0 1,425.7 0.00 0.00 0.00
+6,690.0 75.15 180.00 5,733.4 “1,454.7 0.0 1.4547 0.00 0.00 0.00
+67200 75.15 180.00 57411 -1,483.7 0.0 1,483.7 0.00 0.00 0.00
+6.7500 75.15 180.00 574BB 1,512.7 0.0 15127 0.00 0.00 0.00
+6780.0 75.15 180.00 57585 1,541.7 0.0 1541.7 0.00 0.00 0.00
+68100 75.15 180.00 5,764.2 -1,570.7 0.0 1570.7 0.00 0.00 0.00
+6.8400 75.15 180.00 57718 1,599.7 0.0 1599.7 0.00 0.00 0.00
+6,867.9 75.15 180.00 57790 1,626.7 0.0 1626.7 0.00 0.00 0.00
+Third Dakota Sand Top
+68700 75.15 180.00 57795 1,628.7 0.0 1.6287 0.00 0.00 0.00
+6,900.0 75.15 180.00 5,787.2 “1,657.7 0.0 1.8577 0.00 0.00 0.00
+6,930.0 75.15 180.00 57949 1,686.7 0.0 1886.7 0.00 0.00 0.00
+6,960.0 75.15 180.00 58026 1,715.7 0.0 1715.7 0.00 0.00 0.00
+6,990.0 75.15 180.00 58103 1,744.7 0.0 1.7447 0.00 0.00 0.00
+7,020.0 75.15 180.00 58180 1,773.7 0.0 1773.7 0.00 0.00 0.00
+7,050.0 75.15 180.00 58256 = 1,802.7 0.0 1,802.7 0.00 0.00 0.00
+7,080.0 75.15 180.00 58333 0 -1,8317 0.0 1831.7 0.00 0.00 0.00
+7.1100 75.15 180.00 58410 1,860.7 0.0 1,860.7 0.00 0.00 0.00
+7,140.0 75.15 180.00 5BB7 = 1,889.7 0.0 1889.7 0.00 0.00 0.00
+7.1700 75.15 180.00 5,856.4 “1,918.7 0.0 19187 0.00 0.00 0.00
+7.1958 75.15 180.00 58630 © 1,943.6 0.0 1,943.6 0.00 0.00 0.00
+Third Dakota Sand Base
+7,200.0 75.15 180.00 5,864.1 “1,947.7 0.0 1.9477 0.00 0.00 0.00
+7.2300 75.15 180.00 58718 1,976.7 0.0 1976.7 0.00 0.00 0.00
+7.2543 75.15 180.00 58780 — -2,000.2 0.0 2,000.2 0.00 0.00 0.00
+TD well - 7”
+Design Targets
+Target Name
+~ hitimiss target DipAngle DipDir. TVD NES +ERW Northing Easting
++ Shape Ch °C (ust) (ustt} (usft} (ustt} (ustt} Latitude Longitude
+Carson SWD 5301 12-2 0.00 0.00 5,878.0 —-2,000.2 00 402,280.98 1,206.855.12 48° 3°38.150N 103" 36°56.050 W
+- plan hits target center
+-Point
+Casing Points
+Measured Vertical Casing Hole
+Depth Depth Diameter Diameter
+(usft} (usft} Name {in} in)
+2,159.0 2,159.0 95/8" 9.625 12.250
+7.2543 58780 7° 7.000 8.750
+3/20/2015 4:30:46PM Page 6 COMPASS 5000.1 Build 65
+
+Planning Report
+Database: OpenWellsCompass - EDM Prod Local Co-ordinate Reference: Well Carson SWD 5301 12-24
+Company: Oasis TVD Reference: WELL @ 2109.0usft (Original Well Elev)
+Project: Indian Hills MD Reference: WELL @ 2109.0usft (Original Well Elev)
+Site: 153N-101W-24 North Reference: True
+Well: Carson SWD 5301 12.24 Survey Calculation Method: Minimum Curvature
+Wellbore: Wellbore #1
+Design: Design #1
+Formations
+Measured Vertical Dip
+Depth Depth Dip Direction
+{usit) (usft) Name Lithology tr °
+2,059.0 2,162.0 Pierre
+4,606.0 4,699.0 Greenhorn
+4.9997 5,090.0 Mowry
+5,554.9 5,514.0 Dakota Top
+5,736.2 5,582.0 First Dakota Sand Top
+5,950.8 5,637.0 First Dakota Sand Base
+6446.5 5,764.0 Second Dakota Sand Top
+6,594.8 5,802.0 Second Dakota Sand Base
+6.8679 5,872.0 Third Dakota Sand Top
+7,195.8 5,956.0 Third Dakota Sand Base
+7,254.3 5,971.0 TD well
+Plan Annotations
+Measured Vertical Local Coordinates
+Depth Depth +N-S +ELW
+(usft) {usft) (ustt} (usft) Comment
+4.7967 4,796.7 00 0.0 KOP Build "7100"
+5,736.1 5,489.0 -5327 0.0 Hold Inc, Azm
+3/20/2015 4:30:46PM Page 7 COMPASS 5000.1 Build 65
+
+Oasis Petroleum
+Well Summary
+Carson SWD 5301 12-24
+Section 24 T153N R101 W
+Mckenzie County, ND
+SURFACE CASING AND CEMENT DESIGN
+ETT take-up Torque (ft-iba)
+[VT intewval [Description [Collapse [Burst Tension |
+PE espa pata root) 7c
+9-5/8", 36H, 1-55, LTC, 8rd 2020/ 1.99 3520/3.48
+API Rating & Safety Factor
+a) Collapse based on full casing evacuation with 9 ppg fluid on backside (2159' setting
+b) Burst pressure based on 9 ppg fluid with no fluid on backside (2159! setting depth)
+©) Based on string weight in 9 ppg fluid at 2159’ TVD plus 100k# overpull. (Buoyed weight
+equals 67k Ibs.)
+Cement volumes are based on 9-5/8" casing set in 13-4/2 " hole with 60% excess lo circulate cement back {o surface.
+Mix and pump the following slurry.
+Pre-flush (Spacer): 20 bbls fresh water
+Lead Sturry: 462 sks (244 bbis), 11.5 fb/gal, 2.97 cu. Ft./sk Varicem Cement with 0.125 i/sk Lost Circulation
+Additive
+Tail Slurry: 173 sks (62 bbls), 13.0 ib/gal, 2.04 cu.ft/sk Varicem with .125 Ib/sk Lost Circulation Agent
+415
+
+Oasis Petroleum
+Weill Summary
+Carson SWD 5301 12-24
+Section 24 T153N R1OLW
+Mckenzie County, ND
+INTERMEDIATE CASING AND CEMENT DESIGN
+a a es es
+| size |" interval | Weight| Grade [Coupling | 1D. | Daft | Minimum | Optimum] Max |
+O - 7254" 8276 [e151 | s900 [4900 [900 |
+“*Special Drift"
+[interval “"TLength [Description [Collapse [Burst | Tension]
+a YS)
+5410 1.76" 7240 11.44
+API Rating & Safety Factor
+a) “Assume full casing evacuation with 10 ppg fluid on backside. *Assume full casing evacuation with
+psi/ft equivalent fluid gradient across salt intervals.
+b) Burst pressure based on 5000 psig max press for stimulation plus 10 ppg fluid in casing and 10
+bg fluid on backside-to 5878' TVD.
+c) Based on string weight in 10 ppg fluid, (160k ibs buoyed weight) plus 100k Ibs overpull
+Cement volumes are estimates based on 7” casing set in an 8-3/4" hole with 30% excess.
+Mix and pump the following siurry
+Pre-flush (Spacer): 100 bbis Saltwater
+20bb!s Tuned Spacer Ill
+Lead Slurry: 216 sks (100 bbls), 11.8 ppg, 2.5 cu. ft /sk Econocem Cement with 3% Fe-2 and
+-25 Ib/sk Lost Circulation Additive
+Tail Slurry; 293 sks (86 bbls), 14.0 ppg, 1.55 cu. fl./sk Extendcem System with 2% HR-S
+Retarder and .25 Ib/sk Lost Circulation Additive
+16
+
+joy: PETROLEUM
+12/9/2014
+Victoria Siemieniewski
+Regulatory Specialist
+Oasis Petroleum
+1001 Fannin St.
+Suite 1500
+Houston, TX 77002
+Kevin Connors
+UIC/CCS Supervisor
+North Oakota Industria! Commission
+600 East Boulevard Avenue Dept. 405
+Bismarck, ND $8505-0840
+RE: Carson SWD 5301 12-24
+
+Request for a legat street address
+Dear Mr. Connors:
+Oasis Petroleum has requested a physical street address for the subject well/well facility. The request
+was made to Aaron Chisholm, GIS Specialist, McKenzie County. Upon receiving a {egal street address,
+Oasis will submit the address to the NDIC on a Sundry Notice (form 4) pursuant to 43-02-03-28.
+Thank you for your consideration.
+Respectfully,
+>
+
+Ua de
+Victoria Siemientewski
+Regulatory Specialist
+Oasis Petroleum
+281-404-9652
+
+1001 Fannin, Suite 1500 ¢ Houston, Texas 77002 » Phone (281) 404-9500 - Fax: (281) 404-9501
+7
+
+osis
+3/3/2015.
+Michael Kukuk
+Regulatory Supervisor
+Oasis Petroleum
+1001 Fannin St.
+Suite 1500
+Houston, TX 77002
+Kevin Connors
+UIC/CCS Supervisor
+North Dakota Industrial Commission
+600 East Boulevard Avenue Dept. 405
+Bismarck, ND 58505-0840
+RE: Carson SWD 5301 12-24
+
+Request for approach permit
+Dear Mr. Connors:
+Oasis Petroleum has requested-a county approach permit for the subject well. If you prefer, Oasis will
+submit confirmation of receipt to your attention via email.
+Thank you for your consideration.
+Respectfully,
+Michael Kukuk
+Regulatory Supervisor
+Oasis Petroleum
+281-404-9575
+
+{001 Fannin, Suite 1500 «Houston, Texas 77002 » Phone (281) 404-9500 - Fax: (281) 404-9501
