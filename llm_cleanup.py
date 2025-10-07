@@ -7,7 +7,7 @@ from mysql.connector import Error
 
 # --- CONFIG ---
 PDF_FOLDER = r"C:\Users\tanya\DSCI560_Lab6"
-API_KEY = "AIzaSyC04Om2NPvtFTbAUaM2v1KWTxgYWn7wWQU"
+API_KEY = ""
 MODEL_NAME = "gemini-2.5-flash"
 MAX_PROMPT_CHARS = 1500
 
