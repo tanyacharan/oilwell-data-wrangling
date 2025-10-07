@@ -1,87 +1,155 @@
-# SiteScout: Geospatial Energy Data Visualization
+# Oil Well Data Wrangling Project
 
-SiteScout is a full-stack Python (Flask) and JavaScript (Leaflet) web application designed to visualize oil and gas well data extracted from scanned PDF documents. It allows users to explore well locations, view production metrics, analyze stimulation data, and search specific API numbers on an interactive map.
+A comprehensive data extraction and analysis system for oil well documents, featuring OCR processing, AI-powered data cleanup, and interactive web visualization.
+
+## Project Overview
+
+This project processes oil well PDF documents (Forms 4, 8, and 19) to extract key information including:
+- API numbers
+- Well names and locations
+- Operator information
+- Township/Range coordinates
+- Stimulation data (chemicals and volumes)
+- Geographic coordinates (latitude/longitude)
 
 ## Features
 
-- **Interactive Mapping**: Displays 69 geocoded wells across the US (primarily ND, TX, OK) using Leaflet.js and OpenStreetMap tiles.
-- **Dynamic Clustering**: Uses Leaflet.markercluster to group dense well markers. Cluster size is dynamically scaled based on total oil production (bbls), highlighting high-value regions.
-- **Status Indicators**: Markers are colored based on well_status (Blue for Active/Producing, Gray for Inactive/SWD).
-- **Animated Search**: A modern, animated search control allows users to instantly query the MySQL database by Well Name, API Number, Operator, or Closest City, then pans the map to the result and opens the specific well popup.
-- **Detailed Popups**: Each marker displays comprehensive well data, including API number, Operator, Status, production values (Oil/Gas), and detailed Stimulation Data (chemicals and volumes extracted from OCR).
-- **Reset View**: Dedicated button to instantly return the map to the continental U.S. view.
+- **PDF Processing**: OCR extraction from oil well forms using Tesseract
+- **AI-Powered Cleanup**: Google Gemini integration for data validation and cleanup
+- **Database Storage**: MySQL database with well and stimulation data tables
+- **Web Interface**: Flask application with interactive map visualization
+- **Search Functionality**: Real-time well search across multiple fields
+- **Geographic Conversion**: Township/Range to latitude/longitude conversion
 
-## Setup and Installation
+## File Structure
 
-This project requires Python 3.x and a running MySQL server.
+```
+├── app.py                 # Flask web application
+├── pdf_extract_v2.py      # Main PDF processing script
+├── llm_cleanup.py         # AI-powered data cleanup
+├── llm_finder.py          # Google Gemini model finder utility
+├── latlong.py             # Geographic coordinate utilities
+├── well_url.csv           # Well URL references
+├── ocr_data_output/       # PDF documents and OCR text files
+├── legacy/                # Legacy scripts
+├── static/                # Web application assets
+```
 
-### 1. Prerequisites
+## Prerequisites
 
-You must have the following installed on your environment:
-- Python 3.x
-- MySQL Server (and the ability to connect via the root user and password specified in app.py)
+### Software Requirements
+- Python 3.7+
+- MySQL Server
+- Tesseract OCR
+- Google Gemini API access
 
-### 2. Python Environment Setup
+### Hardware Requirements
+- Sufficient RAM for PDF processing
+- Storage space for OCR text files
 
-Navigate to your project directory and install the required Python libraries:
+## Installation
 
+1. **Clone or download the project**
+   ```bash
+   git clone <repository-url>
+   cd oilwell-data-wrangling-main
+   ```
+
+2. **Install Python dependencies**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Install Tesseract OCR**
+   - Windows: Download from [GitHub Tesseract releases](https://github.com/tesseract-ocr/tesseract)
+   - Update the path in `pdf_extract_v2.py` line 15
+
+4. **Setup MySQL Database**
+   ```sql
+   CREATE DATABASE dsci560_lab6;
+   ```
+
+5. **Configure API Keys**
+   - Add your Google Gemini API key to `llm_cleanup.py` and `llm_finder.py`
+
+## Configuration
+
+### Database Settings
+Update database credentials in relevant files:
+- `app.py` lines 8-13
+- `pdf_extract_v2.py` lines 22-27
+- `llm_cleanup.py` lines 16-21
+
+### File Paths
+Update file paths for your system:
+- `PDF_FOLDER` in `pdf_extract_v2.py` line 11
+- Tesseract path in `pdf_extract_v2.py` line 15
+
+## Usage
+
+### 1. Process PDF Documents
 ```bash
-pip install Flask mysql-connector-python
+python pdf_extract_v2.py
+```
+- Extracts data from PDFs in the configured folder
+- Generates OCR text files
+- Populates MySQL database
 
-### 3. Database Configuration and Data Loading
-A. Configure Database
+### 2. Clean Data with AI
+```bash
+python llm_cleanup.py
+```
+- Uses Google Gemini to validate and clean extracted data
+- Updates database with improved data quality
 
-Run the following commands in your MySQL console:
-CREATE DATABASE dsci560;
-USE dsci560;
-
-CREATE TABLE wells_cleaned (
-    api_number VARCHAR(20) PRIMARY KEY,
-    well_name TEXT,
-    operator VARCHAR(255),
-    address TEXT,
-    closest_city VARCHAR(100),
-    well_status VARCHAR(50),
-    well_type VARCHAR(50),
-    barrels_oil VARCHAR(50),
-    mcf_gas VARCHAR(50),
-    latitude FLOAT,
-    longitude FLOAT
-);
-
-CREATE TABLE stimulation_data_cleaned (
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    api_number VARCHAR(20),
-    chemical VARCHAR(255),
-    volume FLOAT,
-    FOREIGN KEY (api_number) REFERENCES wells_cleaned(api_number)
-);
-
-B. Load Data
-
-You must have previously run the SQL UPDATE and INSERT commands (generated in the preprocessing steps) to populate the wells_cleaned and stimulation_data_cleaned tables with the 69 wells and their data.
-
-### 4. File Structure
-
-Ensure your project directory is structured correctly for Flask:
-your_project/
-├── app.py
-├── static/
-│   └── sitescout_logo.png
-├── drill_template/
-│   └── map.html
-└── ... other files
-
-### 5. Run the Application
-
-Execute the Flask application from your terminal:
+### 3. Launch Web Application
+```bash
 python app.py
+```
+- Access the web interface at `http://localhost:5000`
+- View interactive map with well locations
+- Search wells by name, API number, city, or operator
 
-Then open your browser and navigate to:
-http://127.0.0.1:5000/
+## API Endpoints
 
-### GeoJSON and External Dependencies
+- `GET /` - Main map interface
+- `GET /api/search?q=<query>` - Search wells (returns JSON)
 
-State Boundaries: The map feature that displays state summaries on hover relies on the external file static/us_states.geojson. This file must be present in the static folder for the boundary feature to load correctly.
+## Database Schema
 
-Map Libraries: The application uses public CDNs for Leaflet, Leaflet.markercluster, jQuery, and Font Awesome, ensuring minimal local dependencies.
+### Wells Table
+- `api_number` (VARCHAR) - Primary key
+- `well_name` (VARCHAR)
+- `township_range` (VARCHAR)
+- `operator` (VARCHAR)
+- `latitude` (FLOAT)
+- `longitude` (FLOAT)
+- `address` (TEXT)
+
+### Stimulation Data Table
+- `id` (INTEGER) - Primary key
+- `api_number` (VARCHAR) - Foreign key
+- `chemical` (VARCHAR)
+- `volume` (FLOAT)
+
+## Supported Document Types
+
+- **Form 4**: Sundry Notices and Reports on Wells
+- **Form 8**: Authorization to Purchase and Transport Oil
+- **Form 19**: Underground Injection Control permits
+
+## Development Notes
+
+- OCR processing includes image preprocessing for better accuracy
+- Township/Range coordinates are converted to approximate lat/long
+- SQL injection protection should be enhanced in production
+- Error handling includes database connection management
+## Future Enhancements
+
+- Enhanced SQL injection protection
+- Batch processing optimization
+- Additional form type support
+- Advanced geographic coordinate conversion
+- Data validation improvements
+- REST API expansion
+- More seamless integration across devices (.env support)
