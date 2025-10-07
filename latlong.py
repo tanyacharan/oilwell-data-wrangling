@@ -25,7 +25,7 @@ except Error as e:
 # ------------------------
 # Gemini setup
 # ------------------------
-API_KEY = "AIzaSyC04Om2NPvtFTbAUaM2v1KWTxgYWn7wWQU" 
+API_KEY = "" 
 MODEL_NAME = "gemini-2.5-flash"
 MAX_RETRIES = 3 # New constant for retry attempts
 
